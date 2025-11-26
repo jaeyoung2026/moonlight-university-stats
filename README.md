@@ -1,1 +1,1 @@
-# university-stats
+# moonlight-university-stats
