@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-26T12:45:40+09:00",
-  "total_applications": 37,
+  "updated_at": "2025-11-26T12:46:39+09:00",
+  "total_applications": 38,
   "total_universities": 16,
   "excluded_personal_emails": 3,
   "data": [
@@ -36,66 +36,66 @@
     },
     {
       "rank": 6,
+      "domain": "korea.ac.kr",
+      "university": "고려대학교",
+      "count": 2
+    },
+    {
+      "rank": 6,
       "domain": "yu.ac.kr",
       "university": "영남대학교",
       "count": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "domain": "ajou.ac.kr",
       "university": "아주대학교",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "domain": "dankook.ac.kr",
       "university": "단국대학교",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "domain": "ewha.ac.kr",
       "university": "이화여자대학교",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "domain": "gnu.ac.kr",
       "university": "경상국립대학교",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "domain": "hs.ac.kr",
       "university": "[미등록]",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "domain": "khu.ac.kr",
       "university": "경희대학교",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "domain": "konkuk.ac.kr",
       "university": "건국대학교",
       "count": 1
     },
     {
-      "rank": 7,
-      "domain": "korea.ac.kr",
-      "university": "고려대학교",
-      "count": 1
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "domain": "o.cnu.ac.kr",
       "university": "충남대학교",
       "count": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "domain": "unist.ac.kr",
       "university": "UNIST",
       "count": 1
