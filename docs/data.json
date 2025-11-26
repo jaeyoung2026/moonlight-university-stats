@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-26T19:11:19+09:00",
+  "updated_at": "2025-11-26T19:13:59+09:00",
   "total_applications": 70,
   "total_universities": 25,
   "excluded_personal_emails": 3,
@@ -97,7 +97,7 @@
     {
       "rank": 12,
       "domain": "g.skku.edu",
-      "university": "[미등록]",
+      "university": "성균관대학교",
       "count": 1
     },
     {
@@ -109,7 +109,7 @@
     {
       "rank": 12,
       "domain": "inha.edu",
-      "university": "[미등록]",
+      "university": "인하대학교",
       "count": 1
     },
     {
