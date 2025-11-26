@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-26T19:02:19+09:00",
-  "total_applications": 68,
+  "updated_at": "2025-11-26T19:10:20+09:00",
+  "total_applications": 69,
   "total_universities": 24,
   "excluded_personal_emails": 3,
   "data": [
@@ -54,6 +54,12 @@
     },
     {
       "rank": 8,
+      "domain": "gnu.ac.kr",
+      "university": "경상국립대학교",
+      "count": 2
+    },
+    {
+      "rank": 8,
       "domain": "khu.ac.kr",
       "university": "경희대학교",
       "count": 2
@@ -65,85 +71,79 @@
       "count": 2
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "daegu.ac.kr",
       "university": "대구대",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "dankook.ac.kr",
       "university": "단국대학교",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "dongduk.ac.kr",
       "university": "동덕여자대학교",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "ewha.ac.kr",
       "university": "이화여자대학교",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "g.skku.edu",
       "university": "[미등록]",
       "count": 1
     },
     {
-      "rank": 11,
-      "domain": "gnu.ac.kr",
-      "university": "경상국립대학교",
-      "count": 1
-    },
-    {
-      "rank": 11,
+      "rank": 12,
       "domain": "hs.ac.kr",
       "university": "한신대",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "kaist.ac.kr",
       "university": "KAIST",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "konkuk.ac.kr",
       "university": "건국대학교",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "o.cnu.ac.kr",
       "university": "충남대학교",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "pusan.ac.kr",
       "university": "부산대학교",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "sungshin.ac.kr",
       "university": "성신여자대학교",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "unist.ac.kr",
       "university": "UNIST",
       "count": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "domain": "uos.ac.kr",
       "university": "서울시립대학교",
       "count": 1
