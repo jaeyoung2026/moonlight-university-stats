@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-26T19:10:20+09:00",
-  "total_applications": 69,
-  "total_universities": 24,
+  "updated_at": "2025-11-26T19:11:19+09:00",
+  "total_applications": 70,
+  "total_universities": 25,
   "excluded_personal_emails": 3,
   "data": [
     {
@@ -104,6 +104,12 @@
       "rank": 12,
       "domain": "hs.ac.kr",
       "university": "한신대",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "domain": "inha.edu",
+      "university": "[미등록]",
       "count": 1
     },
     {
