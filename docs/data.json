@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T21:15:24+09:00",
-  "total_applications": 132,
+  "updated_at": "2025-11-27T21:19:23+09:00",
+  "total_applications": 133,
   "total_universities": 39,
   "excluded_personal_emails": 7,
   "data": [
@@ -59,61 +59,61 @@
       "count": 3
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "university": "아주대학교",
+      "domain": "ajou.ac.kr",
+      "count": 3
+    },
+    {
+      "rank": 11,
       "university": "[미등록] chosun.ac.kr",
       "domain": "chosun.ac.kr",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "[미등록] office.uhs.ac.kr",
       "domain": "office.uhs.ac.kr",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "부산대학교",
       "domain": "pusan.ac.kr",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
       "count": 2
     },
     {
-      "rank": 10,
-      "university": "아주대학교",
-      "domain": "ajou.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 10,
+      "rank": 11,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr",
       "count": 2
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 2
