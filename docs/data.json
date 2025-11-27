@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T16:05:23+09:00",
-  "total_applications": 94,
-  "total_universities": 27,
+  "updated_at": "2025-11-27T16:36:25+09:00",
+  "total_applications": 95,
+  "total_universities": 28,
   "excluded_personal_emails": 3,
   "data": [
     {
@@ -81,6 +81,12 @@
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] tukorea.ac.kr",
+      "domain": "tukorea.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
