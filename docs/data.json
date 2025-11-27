@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T04:19:24+09:00",
-  "total_applications": 176,
+  "updated_at": "2025-11-28T05:01:22+09:00",
+  "total_applications": 177,
   "total_universities": 45,
   "excluded_personal_emails": 9,
   "data": [
@@ -90,6 +90,12 @@
     },
     {
       "rank": 15,
+      "university": "[미등록] ewhain.net",
+      "domain": "ewhain.net",
+      "count": 2
+    },
+    {
+      "rank": 15,
       "university": "가천대학교",
       "domain": "gachon.ac.kr",
       "count": 2
@@ -129,12 +135,6 @@
       "university": "조선대학교",
       "domain": "chosun.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] ewhain.net",
-      "domain": "ewhain.net",
-      "count": 1
     },
     {
       "rank": null,
