@@ -1,163 +1,157 @@
 {
-  "updated_at": "2025-11-27T08:17:47+09:00",
+  "updated_at": "2025-11-27T10:16:06+09:00",
   "total_applications": 78,
-  "total_universities": 26,
+  "total_universities": 25,
   "excluded_personal_emails": 3,
   "data": [
     {
       "rank": 1,
-      "domain": "hanyang.ac.kr",
-      "university": "한양대학교",
+      "university": "연세대학교",
+      "domain": "yonsei.ac.kr",
       "count": 14
     },
     {
       "rank": 1,
-      "domain": "yonsei.ac.kr",
-      "university": "연세대학교",
+      "university": "한양대학교",
+      "domain": "hanyang.ac.kr",
       "count": 14
     },
     {
       "rank": 3,
-      "domain": "snu.ac.kr",
       "university": "서울대학교",
+      "domain": "snu.ac.kr",
       "count": 9
     },
     {
       "rank": 4,
-      "domain": "cau.ac.kr",
-      "university": "중앙대학교",
-      "count": 5
-    },
-    {
-      "rank": 4,
-      "domain": "korea.ac.kr",
-      "university": "고려대학교",
-      "count": 5
-    },
-    {
-      "rank": 6,
-      "domain": "skku.edu",
       "university": "성균관대학교",
-      "count": 4
+      "domain": "g.skku.edu, skku.edu",
+      "count": 6
+    },
+    {
+      "rank": 5,
+      "university": "고려대학교",
+      "domain": "korea.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 5,
+      "university": "중앙대학교",
+      "domain": "cau.ac.kr",
+      "count": 5
     },
     {
       "rank": 7,
-      "domain": "pukyong.ac.kr",
       "university": "국립부경대학교",
+      "domain": "pukyong.ac.kr",
       "count": 3
     },
     {
       "rank": 8,
-      "domain": "ajou.ac.kr",
-      "university": "아주대학교",
-      "count": 2
-    },
-    {
-      "rank": 8,
-      "domain": "g.skku.edu",
-      "university": "성균관대학교",
-      "count": 2
-    },
-    {
-      "rank": 8,
-      "domain": "gnu.ac.kr",
       "university": "경상국립대학교",
+      "domain": "gnu.ac.kr",
       "count": 2
     },
     {
       "rank": 8,
-      "domain": "khu.ac.kr",
       "university": "경희대학교",
+      "domain": "khu.ac.kr",
       "count": 2
     },
     {
       "rank": 8,
-      "domain": "yu.ac.kr",
-      "university": "영남대학교",
+      "university": "아주대학교",
+      "domain": "ajou.ac.kr",
       "count": 2
     },
     {
-      "rank": 13,
-      "domain": "daegu.ac.kr",
-      "university": "대구대",
-      "count": 1
+      "rank": 8,
+      "university": "영남대학교",
+      "domain": "yu.ac.kr",
+      "count": 2
     },
     {
-      "rank": 13,
-      "domain": "dankook.ac.kr",
-      "university": "단국대학교",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "dongduk.ac.kr",
-      "university": "동덕여자대학교",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "ewha.ac.kr",
-      "university": "이화여자대학교",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "hs.ac.kr",
-      "university": "한신대",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "inha.edu",
-      "university": "인하대학교",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "kaist.ac.kr",
+      "rank": 12,
       "university": "KAIST",
+      "domain": "kaist.ac.kr",
       "count": 1
     },
     {
-      "rank": 13,
-      "domain": "konkuk.ac.kr",
-      "university": "건국대학교",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "o.cnu.ac.kr",
-      "university": "충남대학교",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "pusan.ac.kr",
-      "university": "부산대학교",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "sju.ac.kr",
-      "university": "세종대학교",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "sungshin.ac.kr",
-      "university": "성신여자대학교",
-      "count": 1
-    },
-    {
-      "rank": 13,
-      "domain": "unist.ac.kr",
+      "rank": 12,
       "university": "UNIST",
+      "domain": "unist.ac.kr",
       "count": 1
     },
     {
-      "rank": 13,
-      "domain": "uos.ac.kr",
+      "rank": 12,
+      "university": "건국대학교",
+      "domain": "konkuk.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "단국대학교",
+      "domain": "dankook.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "대구대",
+      "domain": "daegu.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "동덕여자대학교",
+      "domain": "dongduk.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "부산대학교",
+      "domain": "pusan.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
       "university": "서울시립대학교",
+      "domain": "uos.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "성신여자대학교",
+      "domain": "sungshin.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "세종대학교",
+      "domain": "sju.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "이화여자대학교",
+      "domain": "ewha.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "인하대학교",
+      "domain": "inha.edu",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "충남대학교",
+      "domain": "o.cnu.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": 12,
+      "university": "한신대",
+      "domain": "hs.ac.kr",
       "count": 1
     }
   ]
