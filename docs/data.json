@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T22:58:26+09:00",
-  "total_applications": 145,
-  "total_universities": 40,
+  "updated_at": "2025-11-27T22:59:24+09:00",
+  "total_applications": 147,
+  "total_universities": 41,
   "excluded_personal_emails": 8,
   "data": [
     {
@@ -26,7 +26,7 @@
       "rank": 4,
       "university": "성균관대학교",
       "domain": "g.skku.edu, skku.edu",
-      "count": 13
+      "count": 14
     },
     {
       "rank": 5,
@@ -152,6 +152,12 @@
       "rank": null,
       "university": "[미등록] mail.hongik.ac.kr",
       "domain": "mail.hongik.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] pcu.ac.kr",
+      "domain": "pcu.ac.kr",
       "count": 1
     },
     {
