@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T19:34:23+09:00",
-  "total_applications": 107,
-  "total_universities": 32,
+  "updated_at": "2025-11-27T19:43:23+09:00",
+  "total_applications": 108,
+  "total_universities": 33,
   "excluded_personal_emails": 5,
   "data": [
     {
@@ -87,6 +87,12 @@
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] mail.hongik.ac.kr",
+      "domain": "mail.hongik.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
