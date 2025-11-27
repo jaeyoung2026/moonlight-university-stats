@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T21:38:23+09:00",
-  "total_applications": 135,
+  "updated_at": "2025-11-27T21:46:22+09:00",
+  "total_applications": 136,
   "total_universities": 39,
   "excluded_personal_emails": 7,
   "data": [
@@ -119,6 +119,12 @@
       "count": 2
     },
     {
+      "rank": 11,
+      "university": "전남대학교",
+      "domain": "jnu.ac.kr",
+      "count": 2
+    },
+    {
       "rank": null,
       "university": "[미등록] .",
       "domain": ".",
@@ -200,12 +206,6 @@
       "rank": null,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "전남대학교",
-      "domain": "jnu.ac.kr",
       "count": 1
     },
     {
