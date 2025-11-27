@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T16:58:24+09:00",
-  "total_applications": 98,
-  "total_universities": 29,
+  "updated_at": "2025-11-27T17:46:25+09:00",
+  "total_applications": 99,
+  "total_universities": 30,
   "excluded_personal_emails": 3,
   "data": [
     {
@@ -170,6 +170,12 @@
       "rank": null,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "한국외국어대학교",
+      "domain": "hufs.ac.kr",
       "count": 1
     },
     {
