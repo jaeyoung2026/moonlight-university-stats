@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T02:20:22+09:00",
-  "total_applications": 162,
-  "total_universities": 42,
+  "updated_at": "2025-11-28T02:28:23+09:00",
+  "total_applications": 163,
+  "total_universities": 43,
   "excluded_personal_emails": 9,
   "data": [
     {
@@ -134,6 +134,12 @@
       "rank": null,
       "university": "[미등록] gm.gist.ac.kr",
       "domain": "gm.gist.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "POSTECH",
+      "domain": "postech.ac.kr",
       "count": 1
     },
     {
