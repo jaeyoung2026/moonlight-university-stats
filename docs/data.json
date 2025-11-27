@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T15:58:22+09:00",
-  "total_applications": 93,
+  "updated_at": "2025-11-27T16:05:23+09:00",
+  "total_applications": 94,
   "total_universities": 27,
   "excluded_personal_emails": 3,
   "data": [
@@ -8,7 +8,7 @@
       "rank": 1,
       "university": "한양대학교",
       "domain": "hanyang.ac.kr",
-      "count": 18
+      "count": 19
     },
     {
       "rank": 2,
