@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T20:35:29+09:00",
-  "total_applications": 124,
-  "total_universities": 37,
+  "updated_at": "2025-11-27T20:36:23+09:00",
+  "total_applications": 125,
+  "total_universities": 38,
   "excluded_personal_emails": 6,
   "data": [
     {
@@ -99,6 +99,12 @@
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] .",
+      "domain": ".",
+      "count": 1
     },
     {
       "rank": null,
