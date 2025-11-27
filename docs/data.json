@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T22:16:23+09:00",
-  "total_applications": 141,
-  "total_universities": 39,
+  "updated_at": "2025-11-27T22:19:25+09:00",
+  "total_applications": 142,
+  "total_universities": 40,
   "excluded_personal_emails": 8,
   "data": [
     {
@@ -188,6 +188,12 @@
       "rank": null,
       "university": "동덕여자대학교",
       "domain": "dongduk.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "동아대학교",
+      "domain": "donga.ac.kr",
       "count": 1
     },
     {
