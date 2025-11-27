@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T16:54:24+09:00",
-  "total_applications": 97,
+  "updated_at": "2025-11-27T16:58:24+09:00",
+  "total_applications": 98,
   "total_universities": 29,
   "excluded_personal_emails": 3,
   "data": [
@@ -83,6 +83,12 @@
       "count": 2
     },
     {
+      "rank": 8,
+      "university": "인하대학교",
+      "domain": "inha.edu",
+      "count": 2
+    },
+    {
       "rank": null,
       "university": "[미등록] tukorea.ac.kr",
       "domain": "tukorea.ac.kr",
@@ -158,12 +164,6 @@
       "rank": null,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "인하대학교",
-      "domain": "inha.edu",
       "count": 1
     },
     {
