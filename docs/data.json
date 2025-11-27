@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T17:46:25+09:00",
-  "total_applications": 99,
-  "total_universities": 30,
+  "updated_at": "2025-11-27T17:57:24+09:00",
+  "total_applications": 100,
+  "total_universities": 31,
   "excluded_personal_emails": 3,
   "data": [
     {
@@ -87,6 +87,12 @@
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] soongsil.ac.kr",
+      "domain": "soongsil.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
