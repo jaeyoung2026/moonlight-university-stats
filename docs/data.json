@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-27T18:08:23+09:00",
+  "updated_at": "2025-11-27T18:10:24+09:00",
   "total_applications": 100,
   "total_universities": 31,
   "excluded_personal_emails": 3,
@@ -194,7 +194,7 @@
   "strings": [
     {
       "id": "notice1",
-      "text": "연세대 대학원 학생회 제휴 완료! 우리 학교/연구실도 제휴 맺고 연 30% 할인 받으세요!"
+      "text": "우리 학교/연구실도 제휴 맺고 연 30% 할인 받으세요!"
     },
     {
       "id": "notice2",
