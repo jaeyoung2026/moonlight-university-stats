@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T11:57:35+09:00",
-  "total_applications": 82,
+  "updated_at": "2025-11-27T12:05:36+09:00",
+  "total_applications": 83,
   "total_universities": 26,
   "excluded_personal_emails": 3,
   "data": [
@@ -56,6 +56,12 @@
       "rank": 8,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 8,
+      "university": "성신여자대학교",
+      "domain": "sungshin.ac.kr",
       "count": 2
     },
     {
@@ -122,12 +128,6 @@
       "rank": null,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "성신여자대학교",
-      "domain": "sungshin.ac.kr",
       "count": 1
     },
     {
