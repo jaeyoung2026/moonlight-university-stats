@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T21:04:22+09:00",
-  "total_applications": 130,
+  "updated_at": "2025-11-27T21:07:24+09:00",
+  "total_applications": 131,
   "total_universities": 39,
   "excluded_personal_emails": 7,
   "data": [
@@ -62,6 +62,12 @@
       "rank": 9,
       "university": "[미등록] office.uhs.ac.kr",
       "domain": "office.uhs.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 9,
+      "university": "건국대학교",
+      "domain": "konkuk.ac.kr",
       "count": 2
     },
     {
@@ -152,12 +158,6 @@
       "rank": null,
       "university": "강원대학교",
       "domain": "kangwon.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "건국대학교",
-      "domain": "konkuk.ac.kr",
       "count": 1
     },
     {
