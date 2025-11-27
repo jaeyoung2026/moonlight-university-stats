@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T00:59:23+09:00",
-  "total_applications": 155,
-  "total_universities": 41,
+  "updated_at": "2025-11-28T01:02:23+09:00",
+  "total_applications": 156,
+  "total_universities": 42,
   "excluded_personal_emails": 9,
   "data": [
     {
@@ -134,6 +134,12 @@
       "rank": null,
       "university": "UNIST",
       "domain": "unist.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "가천대학교",
+      "domain": "gachon.ac.kr",
       "count": 1
     },
     {
