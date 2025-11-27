@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T20:25:23+09:00",
-  "total_applications": 119,
+  "updated_at": "2025-11-27T20:26:22+09:00",
+  "total_applications": 120,
   "total_universities": 35,
   "excluded_personal_emails": 5,
   "data": [
@@ -54,6 +54,12 @@
     },
     {
       "rank": 9,
+      "university": "[미등록] office.uhs.ac.kr",
+      "domain": "office.uhs.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 9,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
       "count": 2
@@ -104,12 +110,6 @@
       "rank": null,
       "university": "[미등록] mail.hongik.ac.kr",
       "domain": "mail.hongik.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] office.uhs.ac.kr",
-      "domain": "office.uhs.ac.kr",
       "count": 1
     },
     {
