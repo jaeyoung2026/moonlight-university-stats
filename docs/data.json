@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T20:39:22+09:00",
-  "total_applications": 127,
+  "updated_at": "2025-11-27T20:44:22+09:00",
+  "total_applications": 128,
   "total_universities": 39,
   "excluded_personal_emails": 6,
   "data": [
@@ -51,6 +51,12 @@
       "university": "국립부경대학교",
       "domain": "pukyong.ac.kr",
       "count": 3
+    },
+    {
+      "rank": 9,
+      "university": "[미등록] chosun.ac.kr",
+      "domain": "chosun.ac.kr",
+      "count": 2
     },
     {
       "rank": 9,
@@ -116,12 +122,6 @@
       "rank": null,
       "university": "[미등록] balam3298kknu.ac.kr",
       "domain": "balam3298kknu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] chosun.ac.kr",
-      "domain": "chosun.ac.kr",
       "count": 1
     },
     {
