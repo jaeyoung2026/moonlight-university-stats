@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T05:01:22+09:00",
-  "total_applications": 177,
-  "total_universities": 45,
+  "updated_at": "2025-11-28T05:14:22+09:00",
+  "total_applications": 178,
+  "total_universities": 46,
   "excluded_personal_emails": 9,
   "data": [
     {
@@ -146,6 +146,12 @@
       "rank": null,
       "university": "[미등록] gm.gist.ac.kr",
       "domain": "gm.gist.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] i.ewha.ac.kr",
+      "domain": "i.ewha.ac.kr",
       "count": 1
     },
     {
