@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-27T17:57:24+09:00",
+  "updated_at": "2025-11-27T18:01:13+09:00",
   "total_applications": 100,
   "total_universities": 31,
   "excluded_personal_emails": 3,
@@ -90,12 +90,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] soongsil.ac.kr",
-      "domain": "soongsil.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] tukorea.ac.kr",
       "domain": "tukorea.ac.kr",
       "count": 1
@@ -164,6 +158,12 @@
       "rank": null,
       "university": "세종대학교",
       "domain": "sju.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "숭실대학교",
+      "domain": "soongsil.ac.kr",
       "count": 1
     },
     {
