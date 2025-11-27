@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T20:24:22+09:00",
-  "total_applications": 118,
-  "total_universities": 34,
+  "updated_at": "2025-11-27T20:25:23+09:00",
+  "total_applications": 119,
+  "total_universities": 35,
   "excluded_personal_emails": 5,
   "data": [
     {
@@ -104,6 +104,12 @@
       "rank": null,
       "university": "[미등록] mail.hongik.ac.kr",
       "domain": "mail.hongik.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] office.uhs.ac.kr",
+      "domain": "office.uhs.ac.kr",
       "count": 1
     },
     {
