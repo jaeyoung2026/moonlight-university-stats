@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T02:42:23+09:00",
-  "total_applications": 166,
+  "updated_at": "2025-11-28T02:58:22+09:00",
+  "total_applications": 167,
   "total_universities": 44,
   "excluded_personal_emails": 9,
   "data": [
@@ -35,10 +35,10 @@
       "count": 12
     },
     {
-      "rank": 6,
+      "rank": 5,
       "university": "중앙대학교",
       "domain": "cau.ac.kr",
-      "count": 11
+      "count": 12
     },
     {
       "rank": 7,
