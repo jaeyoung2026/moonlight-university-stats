@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T20:02:22+09:00",
-  "total_applications": 110,
-  "total_universities": 33,
+  "updated_at": "2025-11-27T20:12:23+09:00",
+  "total_applications": 111,
+  "total_universities": 34,
   "excluded_personal_emails": 5,
   "data": [
     {
@@ -87,6 +87,12 @@
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] kangnam.ac.kr",
+      "domain": "kangnam.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
