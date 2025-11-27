@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T07:22:25+09:00",
+  "updated_at": "2025-11-28T07:59:04+09:00",
   "total_applications": 184,
-  "total_universities": 47,
+  "total_universities": 46,
   "excluded_personal_emails": 9,
   "data": [
     {
@@ -18,15 +18,15 @@
     },
     {
       "rank": 3,
-      "university": "서울대학교",
-      "domain": "snu.ac.kr",
-      "count": 17
+      "university": "이화여자대학교",
+      "domain": "ewha.ac.kr, ewhain.net",
+      "count": 18
     },
     {
       "rank": 4,
-      "university": "이화여자대학교",
-      "domain": "ewha.ac.kr",
-      "count": 15
+      "university": "서울대학교",
+      "domain": "snu.ac.kr",
+      "count": 17
     },
     {
       "rank": 5,
@@ -66,12 +66,6 @@
     },
     {
       "rank": 11,
-      "university": "[미등록] ewhain.net",
-      "domain": "ewhain.net",
-      "count": 3
-    },
-    {
-      "rank": 11,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
       "count": 3
@@ -101,37 +95,37 @@
       "count": 3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "university": "가천대학교",
       "domain": "gachon.ac.kr",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "university": "부산대학교",
       "domain": "pusan.ac.kr",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 2
     },
     {
-      "rank": 17,
+      "rank": 16,
       "university": "조선대학교",
       "domain": "chosun.ac.kr",
       "count": 2
@@ -144,20 +138,14 @@
     },
     {
       "rank": null,
-      "university": "[미등록] g.seoultech.ac.kr",
-      "domain": "g.seoultech.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] gm.gist.ac.kr",
-      "domain": "gm.gist.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] i.ewha.ac.kr",
       "domain": "i.ewha.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "GIST",
+      "domain": "gm.gist.ac.kr",
       "count": 1
     },
     {
@@ -234,6 +222,12 @@
     },
     {
       "rank": null,
+      "university": "서울과학기술대학교",
+      "domain": "g.seoultech.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
       "count": 1
@@ -294,7 +288,7 @@
     },
     {
       "id": "notice2",
-      "text": "한양대 제휴임박!🔥"
+      "text": "한양대, 연세대 경합중!🔥"
     },
     {
       "id": "notice3",
