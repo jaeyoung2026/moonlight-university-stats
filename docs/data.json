@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-27T18:01:13+09:00",
+  "updated_at": "2025-11-27T18:02:07+09:00",
   "total_applications": 100,
   "total_universities": 31,
   "excluded_personal_emails": 3,
@@ -90,12 +90,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] tukorea.ac.kr",
-      "domain": "tukorea.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "UNIST",
       "domain": "unist.ac.kr",
       "count": 1
@@ -176,6 +170,12 @@
       "rank": null,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "한국공학대학교",
+      "domain": "tukorea.ac.kr",
       "count": 1
     },
     {
