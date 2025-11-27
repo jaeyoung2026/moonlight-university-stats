@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T02:06:23+09:00",
-  "total_applications": 160,
+  "updated_at": "2025-11-28T02:20:22+09:00",
+  "total_applications": 162,
   "total_universities": 42,
   "excluded_personal_emails": 9,
   "data": [
@@ -54,38 +54,38 @@
     },
     {
       "rank": 9,
+      "university": "이화여자대학교",
+      "domain": "ewha.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 10,
       "university": "국립부경대학교",
       "domain": "pukyong.ac.kr",
       "count": 4
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
       "count": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
       "count": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr",
       "count": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
-      "count": 3
-    },
-    {
-      "rank": 10,
-      "university": "이화여자대학교",
-      "domain": "ewha.ac.kr",
       "count": 3
     },
     {
