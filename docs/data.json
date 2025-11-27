@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T20:36:23+09:00",
-  "total_applications": 125,
-  "total_universities": 38,
+  "updated_at": "2025-11-27T20:37:23+09:00",
+  "total_applications": 126,
+  "total_universities": 39,
   "excluded_personal_emails": 6,
   "data": [
     {
@@ -110,6 +110,12 @@
       "rank": null,
       "university": "[미등록] balam3298kknu.ac.kr",
       "domain": "balam3298kknu.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] chosun.ac.kr",
+      "domain": "chosun.ac.kr",
       "count": 1
     },
     {
