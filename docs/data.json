@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T20:17:24+09:00",
-  "total_applications": 114,
+  "updated_at": "2025-11-27T20:22:24+09:00",
+  "total_applications": 115,
   "total_universities": 34,
   "excluded_personal_emails": 5,
   "data": [
@@ -80,6 +80,12 @@
       "rank": 9,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 9,
+      "university": "이화여자대학교",
+      "domain": "ewha.ac.kr",
       "count": 2
     },
     {
@@ -170,12 +176,6 @@
       "rank": null,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "이화여자대학교",
-      "domain": "ewha.ac.kr",
       "count": 1
     },
     {
