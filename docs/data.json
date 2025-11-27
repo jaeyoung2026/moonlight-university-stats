@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-27T11:43:35+09:00",
-  "total_applications": 81,
-  "total_universities": 25,
+  "updated_at": "2025-11-27T11:49:35+09:00",
+  "total_applications": 82,
+  "total_universities": 26,
   "excluded_personal_emails": 3,
   "data": [
     {
@@ -69,6 +69,12 @@
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] catholic.ac.kr",
+      "domain": "catholic.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
