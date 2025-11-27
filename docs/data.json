@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T02:58:22+09:00",
-  "total_applications": 167,
+  "updated_at": "2025-11-28T03:08:22+09:00",
+  "total_applications": 168,
   "total_universities": 44,
   "excluded_personal_emails": 9,
   "data": [
@@ -44,10 +44,10 @@
       "rank": 7,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr",
-      "count": 7
+      "count": 8
     },
     {
-      "rank": 7,
+      "rank": 8,
       "university": "전남대학교",
       "domain": "jnu.ac.kr",
       "count": 7
