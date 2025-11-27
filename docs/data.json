@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-27T13:11:36+09:00",
-  "total_applications": 85,
+  "updated_at": "2025-11-27T13:21:35+09:00",
+  "total_applications": 86,
   "total_universities": 26,
   "excluded_personal_emails": 3,
   "data": [
@@ -48,6 +48,12 @@
     },
     {
       "rank": 8,
+      "university": "KAIST",
+      "domain": "kaist.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 8,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
       "count": 2
@@ -80,12 +86,6 @@
       "rank": null,
       "university": "[미등록] catholic.ac.kr",
       "domain": "catholic.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "KAIST",
-      "domain": "kaist.ac.kr",
       "count": 1
     },
     {
