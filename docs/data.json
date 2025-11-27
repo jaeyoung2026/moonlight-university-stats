@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T04:10:24+09:00",
-  "total_applications": 175,
-  "total_universities": 44,
+  "updated_at": "2025-11-28T04:19:24+09:00",
+  "total_applications": 176,
+  "total_universities": 45,
   "excluded_personal_emails": 9,
   "data": [
     {
@@ -129,6 +129,12 @@
       "university": "조선대학교",
       "domain": "chosun.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] ewhain.net",
+      "domain": "ewhain.net",
+      "count": 1
     },
     {
       "rank": null,
