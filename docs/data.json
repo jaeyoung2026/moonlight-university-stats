@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-29T06:50:56+09:00",
+  "updated_at": "2025-11-29T06:51:56+09:00",
   "total_applications": 510,
   "total_universities": 56,
   "excluded_personal_emails": 44,
@@ -198,7 +198,7 @@
     },
     {
       "rank": 30,
-      "university": "덕성여대",
+      "university": "경기대학교",
       "domain": "kyonggi.ac.kr",
       "count": 3
     },
