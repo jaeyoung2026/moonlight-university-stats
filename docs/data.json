@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T12:28:56+09:00",
-  "total_applications": 280,
-  "total_universities": 47,
+  "updated_at": "2025-11-28T12:35:58+09:00",
+  "total_applications": 281,
+  "total_universities": 48,
   "excluded_personal_emails": 14,
   "data": [
     {
@@ -177,6 +177,12 @@
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] sunmoon.ac.kr",
+      "domain": "sunmoon.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
