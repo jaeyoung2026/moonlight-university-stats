@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T20:47:57+09:00",
-  "total_applications": 453,
+  "updated_at": "2025-11-28T20:48:57+09:00",
+  "total_applications": 454,
   "total_universities": 55,
   "excluded_personal_emails": 38,
   "data": [
@@ -36,14 +36,14 @@
     },
     {
       "rank": 6,
-      "university": "고려대학교",
-      "domain": "korea.ac.kr",
-      "count": 23
-    },
-    {
-      "rank": 6,
       "university": "성균관대학교",
       "domain": "g.skku.edu, skku.edu",
+      "count": 24
+    },
+    {
+      "rank": 7,
+      "university": "고려대학교",
+      "domain": "korea.ac.kr",
       "count": 23
     },
     {
