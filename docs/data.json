@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T15:20:57+09:00",
-  "total_applications": 357,
-  "total_universities": 51,
+  "updated_at": "2025-11-28T15:24:57+09:00",
+  "total_applications": 358,
+  "total_universities": 52,
   "excluded_personal_emails": 23,
   "data": [
     {
@@ -201,6 +201,12 @@
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] kyonggi.ac.kr",
+      "domain": "kyonggi.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
