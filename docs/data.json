@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-28T16:54:56+09:00",
+  "updated_at": "2025-11-28T16:55:57+09:00",
   "total_applications": 397,
   "total_universities": 53,
   "excluded_personal_emails": 27,
@@ -346,6 +346,10 @@
     },
     {
       "id": "이화여자대학교",
+      "text": "축하합니다! 제휴를 준비하겠습니다!"
+    },
+    {
+      "id": "한양대학교",
       "text": "축하합니다! 제휴를 준비하겠습니다!"
     }
   ]
