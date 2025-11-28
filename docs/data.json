@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T23:48:56+09:00",
-  "total_applications": 493,
+  "updated_at": "2025-11-28T23:51:56+09:00",
+  "total_applications": 494,
   "total_universities": 57,
   "excluded_personal_emails": 41,
   "data": [
@@ -204,6 +204,12 @@
     },
     {
       "rank": 34,
+      "university": "[미등록] duksung.ac.kr",
+      "domain": "duksung.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 34,
       "university": "경기대학교",
       "domain": "kyonggi.ac.kr",
       "count": 2
@@ -231,12 +237,6 @@
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] duksung.ac.kr",
-      "domain": "duksung.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
