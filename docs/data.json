@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-29T06:43:57+09:00",
-  "total_applications": 511,
-  "total_universities": 59,
+  "updated_at": "2025-11-29T06:44:56+09:00",
+  "total_applications": 510,
+  "total_universities": 58,
   "excluded_personal_emails": 44,
   "data": [
     {
@@ -258,18 +258,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] sangmyung.kr",
-      "domain": "sangmyung.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] 없음",
-      "domain": "없음",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "UNIST",
       "domain": "unist.ac.kr",
       "count": 1
@@ -320,6 +308,12 @@
       "rank": null,
       "university": "배재대학교",
       "domain": "pcu.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "상명대학교",
+      "domain": "sangmyung.kr",
       "count": 1
     },
     {
