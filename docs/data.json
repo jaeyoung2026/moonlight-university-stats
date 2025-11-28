@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T23:51:56+09:00",
-  "total_applications": 494,
-  "total_universities": 57,
+  "updated_at": "2025-11-28T23:55:56+09:00",
+  "total_applications": 496,
+  "total_universities": 58,
   "excluded_personal_emails": 41,
   "data": [
     {
@@ -26,7 +26,7 @@
       "rank": 4,
       "university": "연세대학교",
       "domain": "yonsei.ac.kr",
-      "count": 33
+      "count": 34
     },
     {
       "rank": 5,
@@ -237,6 +237,12 @@
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] ds.ac.kr",
+      "domain": "ds.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
