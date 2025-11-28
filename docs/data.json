@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T13:07:56+09:00",
-  "total_applications": 310,
+  "updated_at": "2025-11-28T13:08:56+09:00",
+  "total_applications": 311,
   "total_universities": 51,
   "excluded_personal_emails": 16,
   "data": [
@@ -72,20 +72,20 @@
     },
     {
       "rank": 11,
+      "university": "경희대학교",
+      "domain": "khu.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 11,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 6
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 13,
-      "university": "경희대학교",
-      "domain": "khu.ac.kr",
       "count": 5
     },
     {
