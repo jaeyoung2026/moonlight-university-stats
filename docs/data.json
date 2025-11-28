@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T20:26:57+09:00",
-  "total_applications": 449,
+  "updated_at": "2025-11-28T20:30:57+09:00",
+  "total_applications": 450,
   "total_universities": 55,
   "excluded_personal_emails": 37,
   "data": [
@@ -138,6 +138,12 @@
     },
     {
       "rank": 22,
+      "university": "숙명여자대학교",
+      "domain": "sookmyung.ac.kr",
+      "count": 4
+    },
+    {
+      "rank": 22,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr",
       "count": 4
@@ -161,43 +167,37 @@
       "count": 4
     },
     {
-      "rank": 27,
+      "rank": 28,
       "university": "GIST",
       "domain": "gm.gist.ac.kr",
       "count": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "university": "가천대학교",
       "domain": "gachon.ac.kr",
       "count": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "university": "강원대학교",
       "domain": "kangwon.ac.kr",
       "count": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "university": "서강대학교",
       "domain": "sogang.ac.kr",
       "count": 3
     },
     {
-      "rank": 27,
+      "rank": 28,
       "university": "서울과학기술대학교",
       "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
       "count": 3
     },
     {
-      "rank": 27,
-      "university": "숙명여자대학교",
-      "domain": "sookmyung.ac.kr",
-      "count": 3
-    },
-    {
-      "rank": 27,
+      "rank": 28,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 3
