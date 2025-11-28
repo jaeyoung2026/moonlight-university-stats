@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-11-28T20:22:56+09:00",
-  "total_applications": 447,
+  "updated_at": "2025-11-28T20:24:56+09:00",
+  "total_applications": 448,
   "total_universities": 54,
-  "excluded_personal_emails": 36,
+  "excluded_personal_emails": 37,
   "data": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "rank": 5,
       "university": "서울대학교",
       "domain": "snu.ac.kr",
-      "count": 27
+      "count": 28
     },
     {
       "rank": 6,
