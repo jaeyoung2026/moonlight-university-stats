@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T09:42:56+09:00",
-  "total_applications": 195,
-  "total_universities": 44,
+  "updated_at": "2025-11-28T09:44:56+09:00",
+  "total_applications": 196,
+  "total_universities": 45,
   "excluded_personal_emails": 12,
   "data": [
     {
@@ -141,6 +141,12 @@
       "university": "조선대학교",
       "domain": "chosun.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] knu.ac.kr",
+      "domain": "knu.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
