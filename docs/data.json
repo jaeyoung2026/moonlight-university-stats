@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T11:58:57+09:00",
-  "total_applications": 264,
+  "updated_at": "2025-11-28T12:02:56+09:00",
+  "total_applications": 265,
   "total_universities": 49,
   "excluded_personal_emails": 13,
   "data": [
@@ -167,6 +167,12 @@
       "count": 2
     },
     {
+      "rank": 24,
+      "university": "한국외국어대학교",
+      "domain": "hufs.ac.kr",
+      "count": 2
+    },
+    {
       "rank": null,
       "university": "[미등록] chungbuk.ac.kr",
       "domain": "chungbuk.ac.kr",
@@ -272,12 +278,6 @@
       "rank": null,
       "university": "한국공학대학교",
       "domain": "tukorea.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "한국외국어대학교",
-      "domain": "hufs.ac.kr",
       "count": 1
     },
     {
