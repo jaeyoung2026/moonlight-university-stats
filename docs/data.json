@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-28T11:17:57+09:00",
+  "updated_at": "2025-11-28T11:18:56+09:00",
   "total_applications": 232,
   "total_universities": 45,
   "excluded_personal_emails": 12,
@@ -295,6 +295,10 @@
     {
       "id": "이화여자대학교",
       "text": "제휴 준비 중..."
+    },
+    {
+      "id": "연세대학교",
+      "text": "연세대학교"
     }
   ]
 }
