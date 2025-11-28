@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T09:10:56+09:00",
-  "total_applications": 191,
+  "updated_at": "2025-11-28T09:25:56+09:00",
+  "total_applications": 192,
   "total_universities": 44,
   "excluded_personal_emails": 11,
   "data": [
@@ -120,6 +120,12 @@
     },
     {
       "rank": 16,
+      "university": "서강대학교",
+      "domain": "sogang.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 16,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
       "count": 2
@@ -200,12 +206,6 @@
       "rank": null,
       "university": "배재대학교",
       "domain": "pcu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "서강대학교",
-      "domain": "sogang.ac.kr",
       "count": 1
     },
     {
