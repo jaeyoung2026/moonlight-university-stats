@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T12:03:56+09:00",
-  "total_applications": 266,
+  "updated_at": "2025-11-28T12:04:56+09:00",
+  "total_applications": 267,
   "total_universities": 49,
   "excluded_personal_emails": 13,
   "data": [
@@ -20,7 +20,7 @@
       "rank": 3,
       "university": "연세대학교",
       "domain": "yonsei.ac.kr",
-      "count": 22
+      "count": 23
     },
     {
       "rank": 4,
@@ -313,11 +313,11 @@
       "text": "대학 이메일만 집계됩니다!"
     },
     {
-      "id": "achive_title",
+      "id": "achieve_title",
       "text": "보너스 미션 : 200명 달성시 월 10%, 연 10% 추가 할인 혜택드려요!🎁"
     },
     {
-      "id": "achive_title2",
+      "id": "achieve_title2",
       "text": "목표 달성을 축하합니다!"
     },
     {
