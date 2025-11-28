@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T12:08:56+09:00",
-  "total_applications": 273,
+  "updated_at": "2025-11-28T12:09:56+09:00",
+  "total_applications": 274,
   "total_universities": 49,
   "excluded_personal_emails": 13,
   "data": [
@@ -14,7 +14,7 @@
       "rank": 2,
       "university": "한양대학교",
       "domain": "hanyang.ac.kr",
-      "count": 27
+      "count": 28
     },
     {
       "rank": 3,
@@ -314,7 +314,7 @@
     },
     {
       "id": "achieve_title",
-      "text": "보너스 미션 : 200명 달성시 월 10%, 연 10% 추가 할인 혜택드려요!🎁"
+      "text": "🎁 보너스 미션 : 200명 달성시 월 10%, 연 10% 추가 할인 혜택드려요!"
     },
     {
       "id": "achieve_title2",
