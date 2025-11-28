@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T14:02:57+09:00",
-  "total_applications": 329,
+  "updated_at": "2025-11-28T14:03:58+09:00",
+  "total_applications": 330,
   "total_universities": 50,
   "excluded_personal_emails": 20,
   "data": [
@@ -96,36 +96,36 @@
     },
     {
       "rank": 16,
+      "university": "경상국립대학교",
+      "domain": "gnu.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 17,
       "university": "POSTECH",
       "domain": "postech.ac.kr",
       "count": 4
     },
     {
-      "rank": 16,
-      "university": "경상국립대학교",
-      "domain": "gnu.ac.kr",
-      "count": 4
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "university": "국립부경대학교",
       "domain": "pukyong.ac.kr",
       "count": 4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
       "count": 4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 4
     },
     {
-      "rank": 16,
+      "rank": 17,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 4
