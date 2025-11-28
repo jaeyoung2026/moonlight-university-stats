@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-28T12:22:47+09:00",
+  "updated_at": "2025-11-28T12:24:56+09:00",
   "total_applications": 279,
   "total_universities": 48,
   "excluded_personal_emails": 14,
@@ -174,18 +174,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] inu.ac.kr",
-      "domain": "inu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] kw.ac.kr",
-      "domain": "kw.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] seoultech.ac.kr",
       "domain": "seoultech.ac.kr",
       "count": 1
@@ -212,6 +200,12 @@
       "rank": null,
       "university": "강남대학교",
       "domain": "kangnam.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "광운대학교",
+      "domain": "kw.ac.kr",
       "count": 1
     },
     {
@@ -254,6 +248,12 @@
       "rank": null,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "인천대학교",
+      "domain": "inu.ac.kr",
       "count": 1
     },
     {
