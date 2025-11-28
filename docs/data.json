@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-28T13:48:57+09:00",
+  "updated_at": "2025-11-28T13:49:57+09:00",
   "total_applications": 324,
   "total_universities": 50,
   "excluded_personal_emails": 20,
@@ -316,7 +316,7 @@
     },
     {
       "id": "notice3",
-      "text": "대학 이메일만 집계됩니다!"
+      "text": "대학교 도메인 이메일만 집계됩니다!"
     },
     {
       "id": "achieve_title",
