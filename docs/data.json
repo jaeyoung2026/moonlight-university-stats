@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T11:18:56+09:00",
-  "total_applications": 232,
+  "updated_at": "2025-11-28T11:19:56+09:00",
+  "total_applications": 233,
   "total_universities": 45,
   "excluded_personal_emails": 12,
   "data": [
@@ -66,60 +66,60 @@
     },
     {
       "rank": 11,
+      "university": "경희대학교",
+      "domain": "khu.ac.kr",
+      "count": 4
+    },
+    {
+      "rank": 11,
       "university": "국립부경대학교",
       "domain": "pukyong.ac.kr",
       "count": 4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "university": "경북대학교",
       "domain": "knu.ac.kr",
       "count": 3
     },
     {
-      "rank": 12,
-      "university": "경희대학교",
-      "domain": "khu.ac.kr",
-      "count": 3
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "university": "세종대학교",
       "domain": "sju.ac.kr",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 3
     },
     {
-      "rank": 12,
+      "rank": 13,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 3
@@ -298,7 +298,7 @@
     },
     {
       "id": "연세대학교",
-      "text": "연세대학교"
+      "text": "제휴 준비 중..."
     }
   ]
 }
