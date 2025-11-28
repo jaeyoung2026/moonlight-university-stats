@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T14:20:56+09:00",
-  "total_applications": 339,
-  "total_universities": 50,
+  "updated_at": "2025-11-28T14:26:56+09:00",
+  "total_applications": 341,
+  "total_universities": 51,
   "excluded_personal_emails": 21,
   "data": [
     {
@@ -50,7 +50,7 @@
       "rank": 8,
       "university": "세종대학교",
       "domain": "sejong.ac kr, sju.ac.kr",
-      "count": 11
+      "count": 12
     },
     {
       "rank": 9,
@@ -201,6 +201,12 @@
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] snu.co.kr",
+      "domain": "snu.co.kr",
+      "count": 1
     },
     {
       "rank": null,
