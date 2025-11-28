@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T23:47:56+09:00",
-  "total_applications": 492,
-  "total_universities": 56,
+  "updated_at": "2025-11-28T23:48:56+09:00",
+  "total_applications": 493,
+  "total_universities": 57,
   "excluded_personal_emails": 41,
   "data": [
     {
@@ -242,6 +242,12 @@
       "rank": null,
       "university": "[미등록] nia.or.kr",
       "domain": "nia.or.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] 없음",
+      "domain": "없음",
       "count": 1
     },
     {
