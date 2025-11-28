@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T16:52:56+09:00",
-  "total_applications": 395,
+  "updated_at": "2025-11-28T16:53:57+09:00",
+  "total_applications": 396,
   "total_universities": 53,
   "excluded_personal_emails": 27,
   "data": [
@@ -80,16 +80,16 @@
       "rank": 13,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
-      "count": 7
+      "count": 8
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
       "count": 7
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 7
@@ -330,11 +330,11 @@
     },
     {
       "id": "notice2",
-      "text": "🎉 이화여대 목표 달성을 축하합니다!"
+      "text": "한양대 목표 임박!"
     },
     {
       "id": "notice3",
-      "text": "대학교 도메인 이메일만 집계됩니다!"
+      "text": "🎉 이화여대 목표 달성을 축하합니다!"
     },
     {
       "id": "achieve_title",
