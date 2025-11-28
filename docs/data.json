@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T11:43:56+09:00",
-  "total_applications": 248,
+  "updated_at": "2025-11-28T11:44:56+09:00",
+  "total_applications": 249,
   "total_universities": 46,
   "excluded_personal_emails": 13,
   "data": [
@@ -77,55 +77,55 @@
       "count": 4
     },
     {
-      "rank": 13,
+      "rank": 12,
+      "university": "아주대학교",
+      "domain": "ajou.ac.kr",
+      "count": 4
+    },
+    {
+      "rank": 14,
       "university": "가천대학교",
       "domain": "gachon.ac.kr",
       "count": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
       "count": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "경북대학교",
       "domain": "knu.ac.kr",
       "count": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
       "count": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "세종대학교",
       "domain": "sju.ac.kr",
       "count": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr",
       "count": 3
     },
     {
-      "rank": 13,
-      "university": "아주대학교",
-      "domain": "ajou.ac.kr",
-      "count": 3
-    },
-    {
-      "rank": 13,
+      "rank": 14,
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 3
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 3
@@ -296,11 +296,11 @@
     },
     {
       "id": "achive_title",
-      "text": "🎉 50명 달성을 축하합니다!"
+      "text": "보너스 미션 : 200명 달성시 월 10%, 연 10% 추가 할인 혜택드려요!🎁"
     },
     {
       "id": "achive_title2",
-      "text": "보너스 미션 : 200명 달성시 월 10%, 연 10% 추가 할인 혜택드립니다. "
+      "text": "목표 달성을 축하합니다!"
     },
     {
       "id": "이화여자대학교",
