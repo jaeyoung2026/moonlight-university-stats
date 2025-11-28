@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T11:52:57+09:00",
-  "total_applications": 259,
-  "total_universities": 47,
+  "updated_at": "2025-11-28T11:55:58+09:00",
+  "total_applications": 260,
+  "total_universities": 48,
   "excluded_personal_emails": 13,
   "data": [
     {
@@ -176,6 +176,12 @@
       "rank": null,
       "university": "[미등록] inu.ac.kr",
       "domain": "inu.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] seoultech.ac.kr",
+      "domain": "seoultech.ac.kr",
       "count": 1
     },
     {
