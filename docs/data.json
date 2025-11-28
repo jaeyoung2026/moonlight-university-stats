@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T17:44:57+09:00",
-  "total_applications": 417,
+  "updated_at": "2025-11-28T17:51:56+09:00",
+  "total_applications": 418,
   "total_universities": 54,
   "excluded_personal_emails": 30,
   "data": [
@@ -192,26 +192,26 @@
     },
     {
       "rank": 25,
+      "university": "전북대학교",
+      "domain": "jbnu.ac.kr",
+      "count": 3
+    },
+    {
+      "rank": 25,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 3
     },
     {
-      "rank": 33,
+      "rank": 34,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
       "count": 2
     },
     {
-      "rank": 33,
+      "rank": 34,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 33,
-      "university": "전북대학교",
-      "domain": "jbnu.ac.kr",
       "count": 2
     },
     {
