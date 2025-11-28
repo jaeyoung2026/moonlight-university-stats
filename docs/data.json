@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T11:30:56+09:00",
-  "total_applications": 243,
+  "updated_at": "2025-11-28T11:31:56+09:00",
+  "total_applications": 245,
   "total_universities": 46,
   "excluded_personal_emails": 12,
   "data": [
@@ -60,21 +60,27 @@
     },
     {
       "rank": 10,
+      "university": "경희대학교",
+      "domain": "khu.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 10,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 5
     },
     {
-      "rank": 11,
-      "university": "경희대학교",
-      "domain": "khu.ac.kr",
-      "count": 4
-    },
-    {
-      "rank": 11,
+      "rank": 12,
       "university": "국립부경대학교",
       "domain": "pukyong.ac.kr",
       "count": 4
+    },
+    {
+      "rank": 13,
+      "university": "가천대학교",
+      "domain": "gachon.ac.kr",
+      "count": 3
     },
     {
       "rank": 13,
@@ -125,37 +131,31 @@
       "count": 3
     },
     {
-      "rank": 21,
+      "rank": 22,
       "university": "POSTECH",
       "domain": "postech.ac.kr",
       "count": 2
     },
     {
-      "rank": 21,
-      "university": "가천대학교",
-      "domain": "gachon.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 21,
+      "rank": 22,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
       "count": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "university": "부산대학교",
       "domain": "pusan.ac.kr",
       "count": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "university": "서강대학교",
       "domain": "sogang.ac.kr",
       "count": 2
     },
     {
-      "rank": 21,
+      "rank": 22,
       "university": "조선대학교",
       "domain": "chosun.ac.kr",
       "count": 2
@@ -300,11 +300,15 @@
     },
     {
       "id": "이화여자대학교",
-      "text": "목표 달성을 축하합니다!"
+      "text": "축하합니다! 제휴를 준비하겠습니다!"
     },
     {
       "id": "연세대학교",
       "text": "제휴 준비 중..."
+    },
+    {
+      "id": "achive_title2",
+      "text": "🎉 50달성을 축하합니다!"
     }
   ]
 }
