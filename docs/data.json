@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T14:06:57+09:00",
-  "total_applications": 332,
+  "updated_at": "2025-11-28T14:07:57+09:00",
+  "total_applications": 334,
   "total_universities": 50,
   "excluded_personal_emails": 20,
   "data": [
@@ -60,6 +60,12 @@
     },
     {
       "rank": 10,
+      "university": "세종대학교",
+      "domain": "sejong.ac kr, sju.ac.kr",
+      "count": 8
+    },
+    {
+      "rank": 10,
       "university": "전남대학교",
       "domain": "jnu.ac.kr",
       "count": 8
@@ -71,13 +77,7 @@
       "count": 8
     },
     {
-      "rank": 12,
-      "university": "세종대학교",
-      "domain": "sejong.ac kr, sju.ac.kr",
-      "count": 7
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 7
@@ -101,31 +101,31 @@
       "count": 5
     },
     {
-      "rank": 17,
+      "rank": 16,
+      "university": "국립부경대학교",
+      "domain": "pukyong.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 18,
       "university": "POSTECH",
       "domain": "postech.ac.kr",
       "count": 4
     },
     {
-      "rank": 17,
-      "university": "국립부경대학교",
-      "domain": "pukyong.ac.kr",
-      "count": 4
-    },
-    {
-      "rank": 17,
+      "rank": 18,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
       "count": 4
     },
     {
-      "rank": 17,
+      "rank": 18,
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 4
     },
     {
-      "rank": 17,
+      "rank": 18,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 4
