@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-28T16:37:56+09:00",
-  "total_applications": 388,
-  "total_universities": 54,
+  "updated_at": "2025-11-28T16:38:56+09:00",
+  "total_applications": 389,
+  "total_universities": 53,
   "excluded_personal_emails": 24,
   "data": [
     {
@@ -20,7 +20,7 @@
       "rank": 3,
       "university": "연세대학교",
       "domain": "yonsei.ac.kr",
-      "count": 30
+      "count": 31
     },
     {
       "rank": 4,
@@ -84,26 +84,26 @@
     },
     {
       "rank": 13,
+      "university": "성신여자대학교",
+      "domain": "sungshin.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 13,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 7
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
       "count": 6
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
-      "count": 6
-    },
-    {
-      "rank": 15,
-      "university": "성신여자대학교",
-      "domain": "sungshin.ac.kr",
       "count": 6
     },
     {
@@ -210,20 +210,8 @@
     },
     {
       "rank": null,
-      "university": "[미등록] kyonggi.ac.kr",
-      "domain": "kyonggi.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] snu.co.kr",
       "domain": "snu.co.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] yuhs.ac",
-      "domain": "yuhs.ac",
       "count": 1
     },
     {
@@ -242,6 +230,12 @@
       "rank": null,
       "university": "강남대학교",
       "domain": "kangnam.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "경기대학교",
+      "domain": "kyonggi.ac.kr",
       "count": 1
     },
     {
