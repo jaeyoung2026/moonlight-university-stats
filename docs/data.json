@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T12:45:56+09:00",
-  "total_applications": 288,
+  "updated_at": "2025-11-28T12:47:57+09:00",
+  "total_applications": 289,
   "total_universities": 48,
   "excluded_personal_emails": 14,
   "data": [
@@ -78,6 +78,12 @@
     },
     {
       "rank": 12,
+      "university": "경북대학교",
+      "domain": "knu.ac.kr",
+      "count": 4
+    },
+    {
+      "rank": 12,
       "university": "국립부경대학교",
       "domain": "pukyong.ac.kr",
       "count": 4
@@ -89,61 +95,55 @@
       "count": 4
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "가천대학교",
       "domain": "gachon.ac.kr",
       "count": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "강원대학교",
       "domain": "kangwon.ac.kr",
       "count": 3
     },
     {
-      "rank": 15,
-      "university": "경북대학교",
-      "domain": "knu.ac.kr",
-      "count": 3
-    },
-    {
-      "rank": 15,
+      "rank": 16,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
       "count": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "서강대학교",
       "domain": "sogang.ac.kr",
       "count": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
       "count": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "세종대학교",
       "domain": "sju.ac.kr",
       "count": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr",
       "count": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "인하대학교",
       "domain": "inha.edu",
       "count": 3
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 3
