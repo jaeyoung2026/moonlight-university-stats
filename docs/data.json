@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-29T06:47:57+09:00",
+  "updated_at": "2025-11-29T06:50:56+09:00",
   "total_applications": 510,
-  "total_universities": 57,
+  "total_universities": 56,
   "excluded_personal_emails": 44,
   "data": [
     {
@@ -114,36 +114,36 @@
     },
     {
       "rank": 18,
+      "university": "덕성여자대학교",
+      "domain": "ds.ac.kr, duksung.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 18,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
       "count": 6
     },
     {
-      "rank": 20,
-      "university": "[미등록] duksung.ac.kr",
-      "domain": "duksung.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 20,
+      "rank": 21,
       "university": "국립부경대학교",
       "domain": "pukyong.ac.kr",
       "count": 5
     },
     {
-      "rank": 20,
+      "rank": 21,
       "university": "부산대학교",
       "domain": "pusan.ac.kr",
       "count": 5
     },
     {
-      "rank": 20,
+      "rank": 21,
       "university": "숙명여자대학교",
       "domain": "sookmyung.ac.kr",
       "count": 5
     },
     {
-      "rank": 20,
+      "rank": 21,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 5
@@ -278,12 +278,6 @@
       "rank": null,
       "university": "대구대",
       "domain": "daegu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "덕성여자대학교",
-      "domain": "ds.ac.kr",
       "count": 1
     },
     {
