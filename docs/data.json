@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-29T06:46:56+09:00",
+  "updated_at": "2025-11-29T06:47:57+09:00",
   "total_applications": 510,
   "total_universities": 57,
   "excluded_personal_emails": 44,
@@ -246,12 +246,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] ds.ac.kr",
-      "domain": "ds.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "UNIST",
       "domain": "unist.ac.kr",
       "count": 1
@@ -284,6 +278,12 @@
       "rank": null,
       "university": "대구대",
       "domain": "daegu.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "덕성여자대학교",
+      "domain": "ds.ac.kr",
       "count": 1
     },
     {
