@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-29T00:39:56+09:00",
-  "total_applications": 502,
-  "total_universities": 59,
+  "updated_at": "2025-11-29T00:55:58+09:00",
+  "total_applications": 503,
+  "total_universities": 60,
   "excluded_personal_emails": 44,
   "data": [
     {
@@ -260,6 +260,12 @@
       "rank": null,
       "university": "[미등록] office.inha.ac.kr",
       "domain": "office.inha.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] sangmyung.kr",
+      "domain": "sangmyung.kr",
       "count": 1
     },
     {
