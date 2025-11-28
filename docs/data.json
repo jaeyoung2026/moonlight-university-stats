@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-29T00:26:57+09:00",
-  "total_applications": 501,
+  "updated_at": "2025-11-29T00:34:56+09:00",
+  "total_applications": 502,
   "total_universities": 59,
   "excluded_personal_emails": 43,
   "data": [
@@ -228,6 +228,12 @@
     },
     {
       "rank": 35,
+      "university": "서울시립대학교",
+      "domain": "uos.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 35,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
       "count": 2
@@ -314,12 +320,6 @@
       "rank": null,
       "university": "배재대학교",
       "domain": "pcu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "서울시립대학교",
-      "domain": "uos.ac.kr",
       "count": 1
     },
     {
