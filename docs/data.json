@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-28T17:54:56+09:00",
+  "updated_at": "2025-11-28T18:00:58+09:00",
   "total_applications": 419,
   "total_universities": 54,
   "excluded_personal_emails": 30,
@@ -216,12 +216,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] smail.kongju.ac.kr",
-      "domain": "smail.kongju.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "UNIST",
       "domain": "unist.ac.kr",
       "count": 1
@@ -254,6 +248,12 @@
       "rank": null,
       "university": "광운대학교",
       "domain": "kw.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "국립공주대학교",
+      "domain": "kongju.ac.kr",
       "count": 1
     },
     {
