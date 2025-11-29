@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-30T01:08:56+09:00",
-  "total_applications": 584,
+  "updated_at": "2025-11-30T01:11:56+09:00",
+  "total_applications": 585,
   "total_universities": 59,
   "excluded_personal_emails": 50,
   "data": [
@@ -234,6 +234,12 @@
     },
     {
       "rank": 36,
+      "university": "대구대",
+      "domain": "daegu.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 36,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
       "count": 2
@@ -284,12 +290,6 @@
       "rank": null,
       "university": "광운대학교",
       "domain": "kw.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "대구대",
-      "domain": "daegu.ac.kr",
       "count": 1
     },
     {
