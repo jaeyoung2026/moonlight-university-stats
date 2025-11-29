@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-30T01:11:56+09:00",
-  "total_applications": 585,
+  "updated_at": "2025-11-30T02:37:56+09:00",
+  "total_applications": 586,
   "total_universities": 59,
   "excluded_personal_emails": 50,
   "data": [
@@ -32,7 +32,7 @@
       "rank": 5,
       "university": "연세대학교",
       "domain": "yonsei.ac.kr",
-      "count": 37
+      "count": 38
     },
     {
       "rank": 6,
