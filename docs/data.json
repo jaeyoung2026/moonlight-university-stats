@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-29T21:07:56+09:00",
+  "updated_at": "2025-11-29T21:08:56+09:00",
   "total_applications": 562,
   "total_universities": 60,
   "excluded_personal_emails": 46,
@@ -252,12 +252,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] knue.ac.kr",
-      "domain": "knue.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] kyungnam.ac.kr",
       "domain": "kyungnam.ac.kr",
       "count": 1
@@ -344,6 +338,12 @@
       "rank": null,
       "university": "한국공학대학교",
       "domain": "tukorea.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "한국교원대학교",
+      "domain": "knue.ac.kr",
       "count": 1
     },
     {
