@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-29T14:27:56+09:00",
-  "total_applications": 540,
-  "total_universities": 60,
+  "updated_at": "2025-11-29T15:21:56+09:00",
+  "total_applications": 541,
+  "total_universities": 61,
   "excluded_personal_emails": 45,
   "data": [
     {
@@ -266,6 +266,12 @@
       "rank": null,
       "university": "[미등록] kyungnam.ac.kr",
       "domain": "kyungnam.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] soonsil.ac.kr",
+      "domain": "soonsil.ac.kr",
       "count": 1
     },
     {
