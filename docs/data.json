@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-29T13:26:58+09:00",
-  "total_applications": 533,
-  "total_universities": 59,
+  "updated_at": "2025-11-29T13:33:56+09:00",
+  "total_applications": 534,
+  "total_universities": 60,
   "excluded_personal_emails": 45,
   "data": [
     {
@@ -254,6 +254,12 @@
       "rank": null,
       "university": "[미등록] g.skk.edu",
       "domain": "g.skk.edu",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] knue.ac.kr",
+      "domain": "knue.ac.kr",
       "count": 1
     },
     {
