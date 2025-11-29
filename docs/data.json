@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-29T10:08:57+09:00",
+  "updated_at": "2025-11-29T10:09:56+09:00",
   "total_applications": 517,
-  "total_universities": 58,
+  "total_universities": 57,
   "excluded_personal_emails": 44,
   "data": [
     {
@@ -50,7 +50,7 @@
       "rank": 8,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
-      "count": 20
+      "count": 21
     },
     {
       "rank": 9,
@@ -249,12 +249,6 @@
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] sungshin.co.kr",
-      "domain": "sungshin.co.kr",
-      "count": 1
     },
     {
       "rank": null,
