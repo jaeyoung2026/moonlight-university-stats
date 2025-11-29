@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-29T09:41:56+09:00",
+  "updated_at": "2025-11-29T10:08:57+09:00",
   "total_applications": 517,
-  "total_universities": 59,
+  "total_universities": 58,
   "excluded_personal_emails": 44,
   "data": [
     {
@@ -216,6 +216,12 @@
     },
     {
       "rank": 36,
+      "university": "경성대학교",
+      "domain": "ks.ac.kr, kyungsung.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 36,
       "university": "국립공주대학교",
       "domain": "kongju.ac.kr, smail.kongju.ac.kr",
       "count": 2
@@ -246,12 +252,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] kyungsung.ac.kr",
-      "domain": "kyungsung.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] sungshin.co.kr",
       "domain": "sungshin.co.kr",
       "count": 1
@@ -272,12 +272,6 @@
       "rank": null,
       "university": "강남대학교",
       "domain": "kangnam.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "경성대학교",
-      "domain": "ks.ac.kr",
       "count": 1
     },
     {
