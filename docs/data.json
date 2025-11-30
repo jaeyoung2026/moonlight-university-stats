@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-30T15:55:56+09:00",
-  "total_applications": 608,
+  "updated_at": "2025-11-30T16:20:56+09:00",
+  "total_applications": 609,
   "total_universities": 61,
   "excluded_personal_emails": 50,
   "data": [
@@ -137,27 +137,27 @@
       "count": 6
     },
     {
-      "rank": 23,
+      "rank": 21,
+      "university": "충남대학교",
+      "domain": "o.cnu.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 24,
       "university": "국립부경대학교",
       "domain": "pukyong.ac.kr",
       "count": 5
     },
     {
-      "rank": 23,
+      "rank": 24,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr",
       "count": 5
     },
     {
-      "rank": 23,
+      "rank": 24,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 23,
-      "university": "충남대학교",
-      "domain": "o.cnu.ac.kr",
       "count": 5
     },
     {
