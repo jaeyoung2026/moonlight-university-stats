@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-30T22:52:56+09:00",
-  "total_applications": 647,
+  "updated_at": "2025-11-30T23:15:56+09:00",
+  "total_applications": 648,
   "total_universities": 61,
   "excluded_personal_emails": 56,
   "data": [
@@ -222,6 +222,12 @@
     },
     {
       "rank": 37,
+      "university": "UNIST",
+      "domain": "unist.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 37,
       "university": "경성대학교",
       "domain": "ks.ac.kr, kyungsung.ac.kr",
       "count": 2
@@ -267,12 +273,6 @@
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "UNIST",
-      "domain": "unist.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
