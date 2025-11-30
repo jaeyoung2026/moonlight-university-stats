@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-30T15:27:56+09:00",
-  "total_applications": 605,
-  "total_universities": 60,
+  "updated_at": "2025-11-30T15:38:56+09:00",
+  "total_applications": 606,
+  "total_universities": 61,
   "excluded_personal_emails": 50,
   "data": [
     {
@@ -260,6 +260,12 @@
       "rank": null,
       "university": "[미등록] chauniv.ac.kr",
       "domain": "chauniv.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] stud.assist.ac.kr",
+      "domain": "stud.assist.ac.kr",
       "count": 1
     },
     {
