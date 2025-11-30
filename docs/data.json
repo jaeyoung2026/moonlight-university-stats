@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-30T20:09:57+09:00",
-  "total_applications": 618,
+  "updated_at": "2025-11-30T20:32:57+09:00",
+  "total_applications": 619,
   "total_universities": 61,
   "excluded_personal_emails": 52,
   "data": [
@@ -30,15 +30,15 @@
     },
     {
       "rank": 5,
-      "university": "연세대학교",
-      "domain": "yonsei.ac.kr",
+      "university": "서울대학교",
+      "domain": "snu.ac.kr",
       "count": 38
     },
     {
-      "rank": 6,
-      "university": "서울대학교",
-      "domain": "snu.ac.kr",
-      "count": 37
+      "rank": 5,
+      "university": "연세대학교",
+      "domain": "yonsei.ac.kr",
+      "count": 38
     },
     {
       "rank": 7,
