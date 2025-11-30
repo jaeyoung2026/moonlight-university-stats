@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-01T08:24:56+09:00",
+  "updated_at": "2025-12-01T08:25:58+09:00",
   "total_applications": 663,
-  "total_universities": 64,
+  "total_universities": 63,
   "excluded_personal_emails": 56,
   "data": [
     {
@@ -275,10 +275,10 @@
       "count": 2
     },
     {
-      "rank": null,
-      "university": "[미등록] g.hongik.ac.kr",
-      "domain": "g.hongik.ac.kr",
-      "count": 1
+      "rank": 37,
+      "university": "홍익대학교",
+      "domain": "hongik.ac.kr",
+      "count": 2
     },
     {
       "rank": null,
@@ -380,12 +380,6 @@
       "rank": null,
       "university": "협성대학교",
       "domain": "office.uhs.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "홍익대학교",
-      "domain": "hongik.ac.kr",
       "count": 1
     }
   ],
