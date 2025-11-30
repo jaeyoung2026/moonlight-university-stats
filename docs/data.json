@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-30T17:35:57+09:00",
+  "updated_at": "2025-11-30T17:36:57+09:00",
   "total_applications": 612,
   "total_universities": 61,
   "excluded_personal_emails": 51,
@@ -264,12 +264,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] stud.assist.ac.kr",
-      "domain": "stud.assist.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "UNIST",
       "domain": "unist.ac.kr",
       "count": 1
@@ -326,6 +320,12 @@
       "rank": null,
       "university": "상명대학교",
       "domain": "sangmyung.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "서울과학종합대학원대학교",
+      "domain": "stud.assist.ac.kr",
       "count": 1
     },
     {
