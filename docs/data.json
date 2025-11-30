@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-30T21:23:56+09:00",
-  "total_applications": 636,
+  "updated_at": "2025-11-30T21:35:56+09:00",
+  "total_applications": 637,
   "total_universities": 62,
   "excluded_personal_emails": 54,
   "data": [
@@ -77,10 +77,10 @@
       "count": 11
     },
     {
-      "rank": 13,
+      "rank": 12,
       "university": "한국항공대학교",
       "domain": "kau.kr",
-      "count": 10
+      "count": 11
     },
     {
       "rank": 14,
