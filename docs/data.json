@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-30T17:00:57+09:00",
-  "total_applications": 611,
+  "updated_at": "2025-11-30T17:31:59+09:00",
+  "total_applications": 612,
   "total_universities": 61,
   "excluded_personal_emails": 51,
   "data": [
@@ -210,56 +210,56 @@
     },
     {
       "rank": 32,
+      "university": "인천대학교",
+      "domain": "inu.ac.kr",
+      "count": 3
+    },
+    {
+      "rank": 32,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 3
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "경성대학교",
       "domain": "ks.ac.kr, kyungsung.ac.kr",
       "count": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "국립공주대학교",
       "domain": "kongju.ac.kr, smail.kongju.ac.kr",
       "count": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
       "count": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
       "count": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
       "count": 2
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 36,
-      "university": "인천대학교",
-      "domain": "inu.ac.kr",
       "count": 2
     },
     {
