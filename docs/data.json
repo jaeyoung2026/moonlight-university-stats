@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-30T14:22:57+09:00",
-  "total_applications": 600,
-  "total_universities": 59,
+  "updated_at": "2025-11-30T14:28:56+09:00",
+  "total_applications": 601,
+  "total_universities": 60,
   "excluded_personal_emails": 50,
   "data": [
     {
@@ -255,6 +255,12 @@
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] chauniv.ac.kr",
+      "domain": "chauniv.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
