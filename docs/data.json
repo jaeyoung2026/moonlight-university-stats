@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-01T11:16:57+09:00",
+  "updated_at": "2025-12-01T11:18:56+09:00",
   "total_applications": 701,
-  "total_universities": 64,
+  "total_universities": 63,
   "excluded_personal_emails": 57,
   "data": [
     {
@@ -72,6 +72,12 @@
     },
     {
       "rank": 12,
+      "university": "GIST",
+      "domain": "gm.gist.ac.kr, gm.gist.kr",
+      "count": 11
+    },
+    {
+      "rank": 12,
       "university": "KAIST",
       "domain": "kaist.ac.kr",
       "count": 11
@@ -81,12 +87,6 @@
       "university": "한국항공대학교",
       "domain": "kau.kr",
       "count": 11
-    },
-    {
-      "rank": 14,
-      "university": "GIST",
-      "domain": "gm.gist.ac.kr",
-      "count": 10
     },
     {
       "rank": 15,
@@ -285,12 +285,6 @@
       "university": "홍익대학교",
       "domain": "hongik.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] gm.gist.kr",
-      "domain": "gm.gist.kr",
-      "count": 1
     },
     {
       "rank": null,
