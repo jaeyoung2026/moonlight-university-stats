@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T14:42:56+09:00",
-  "total_applications": 733,
+  "updated_at": "2025-12-01T14:44:56+09:00",
+  "total_applications": 734,
   "total_universities": 65,
   "excluded_personal_emails": 58,
   "data": [
@@ -138,6 +138,12 @@
     },
     {
       "rank": 23,
+      "university": "국립부경대학교",
+      "domain": "pukyong.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 23,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
@@ -155,19 +161,13 @@
       "count": 6
     },
     {
-      "rank": 26,
-      "university": "국립부경대학교",
-      "domain": "pukyong.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 26,
+      "rank": 27,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr",
       "count": 5
     },
     {
-      "rank": 26,
+      "rank": 27,
       "university": "인천대학교",
       "domain": "inu.ac.kr",
       "count": 5
