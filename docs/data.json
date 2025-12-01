@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T18:33:57+09:00",
-  "total_applications": 782,
+  "updated_at": "2025-12-01T18:39:56+09:00",
+  "total_applications": 783,
   "total_universities": 66,
   "excluded_personal_emails": 64,
   "data": [
@@ -264,6 +264,12 @@
     },
     {
       "rank": 39,
+      "university": "동국대학교",
+      "domain": "dgu.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 39,
       "university": "동아대학교",
       "domain": "dau.ac.kr, donga.ac.kr",
       "count": 2
@@ -320,12 +326,6 @@
       "rank": null,
       "university": "경남대학교",
       "domain": "kyungnam.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "동국대학교",
-      "domain": "dgu.ac.kr",
       "count": 1
     },
     {
