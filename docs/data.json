@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-02T08:53:57+09:00",
+  "updated_at": "2025-12-02T08:57:57+09:00",
   "total_applications": 820,
   "total_universities": 67,
   "excluded_personal_emails": 67,
@@ -431,6 +431,10 @@
     {
       "id": "achieve_title2",
       "text": "🎉 목표 달성을 축하합니다!"
+    },
+    {
+      "id": "share_text",
+      "text": ""
     },
     {
       "id": "이화여자대학교",
