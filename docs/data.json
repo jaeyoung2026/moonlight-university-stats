@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T18:57:57+09:00",
-  "total_applications": 786,
+  "updated_at": "2025-12-01T19:19:56+09:00",
+  "total_applications": 787,
   "total_universities": 66,
   "excluded_personal_emails": 64,
   "data": [
@@ -306,6 +306,12 @@
     },
     {
       "rank": 39,
+      "university": "충북대학교",
+      "domain": "chungbuk.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 39,
       "university": "홍익대학교",
       "domain": "hongik.ac.kr",
       "count": 2
@@ -368,12 +374,6 @@
       "rank": null,
       "university": "차의과학대학교",
       "domain": "chauniv.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "충북대학교",
-      "domain": "chungbuk.ac.kr",
       "count": 1
     },
     {
