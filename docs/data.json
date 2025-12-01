@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T20:42:56+09:00",
-  "total_applications": 796,
+  "updated_at": "2025-12-01T21:17:57+09:00",
+  "total_applications": 797,
   "total_universities": 66,
   "excluded_personal_emails": 65,
   "data": [
@@ -78,6 +78,12 @@
     },
     {
       "rank": 13,
+      "university": "경희대학교",
+      "domain": "khu.ac.kr",
+      "count": 12
+    },
+    {
+      "rank": 13,
       "university": "부산대학교",
       "domain": "pusan.ac.kr",
       "count": 12
@@ -89,25 +95,19 @@
       "count": 12
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "GIST",
       "domain": "gm.gist.ac.kr, gm.gist.kr",
       "count": 11
     },
     {
-      "rank": 15,
+      "rank": 16,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
       "count": 11
     },
     {
-      "rank": 15,
-      "university": "경희대학교",
-      "domain": "khu.ac.kr",
-      "count": 11
-    },
-    {
-      "rank": 15,
+      "rank": 16,
       "university": "국립부경대학교",
       "domain": "pknu.ac.kr, pukyong.ac.kr",
       "count": 11
