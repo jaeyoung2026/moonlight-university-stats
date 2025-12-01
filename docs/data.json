@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-01T10:03:56+09:00",
+  "updated_at": "2025-12-01T10:06:56+09:00",
   "total_applications": 675,
-  "total_universities": 64,
+  "total_universities": 63,
   "excluded_personal_emails": 56,
   "data": [
     {
@@ -240,6 +240,12 @@
     },
     {
       "rank": 39,
+      "university": "계명대학교",
+      "domain": "kmu.ac.kr, stu.kmu.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 39,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
       "count": 2
@@ -282,12 +288,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] stu.kmu.ac.kr",
-      "domain": "stu.kmu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "가톨릭대",
       "domain": "catholic.ac.kr",
       "count": 1
@@ -302,12 +302,6 @@
       "rank": null,
       "university": "경남대학교",
       "domain": "kyungnam.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "계명대학교",
-      "domain": "kmu.ac.kr",
       "count": 1
     },
     {
