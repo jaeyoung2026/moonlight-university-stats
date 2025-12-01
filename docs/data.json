@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T18:27:56+09:00",
-  "total_applications": 781,
+  "updated_at": "2025-12-01T18:28:56+09:00",
+  "total_applications": 782,
   "total_universities": 69,
   "excluded_personal_emails": 64,
   "data": [
@@ -162,24 +162,24 @@
     },
     {
       "rank": 26,
+      "university": "숭실대학교",
+      "domain": "soongsil.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 26,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 6
     },
     {
-      "rank": 28,
-      "university": "숭실대학교",
-      "domain": "soongsil.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 28,
+      "rank": 29,
       "university": "인천대학교",
       "domain": "inu.ac.kr",
       "count": 5
     },
     {
-      "rank": 28,
+      "rank": 29,
       "university": "조선대학교",
       "domain": "chosun.ac.kr",
       "count": 5
