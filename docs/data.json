@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-01T13:03:57+09:00",
-  "total_applications": 715,
-  "total_universities": 63,
+  "updated_at": "2025-12-01T13:04:56+09:00",
+  "total_applications": 716,
+  "total_universities": 64,
   "excluded_personal_emails": 57,
   "data": [
     {
@@ -285,6 +285,12 @@
       "university": "홍익대학교",
       "domain": "hongik.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] korea",
+      "domain": "korea",
+      "count": 1
     },
     {
       "rank": null,
