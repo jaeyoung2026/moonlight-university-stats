@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T20:36:57+09:00",
-  "total_applications": 793,
+  "updated_at": "2025-12-01T20:37:57+09:00",
+  "total_applications": 794,
   "total_universities": 66,
   "excluded_personal_emails": 65,
   "data": [
@@ -96,6 +96,12 @@
     },
     {
       "rank": 15,
+      "university": "경상국립대학교",
+      "domain": "gnu.ac.kr",
+      "count": 11
+    },
+    {
+      "rank": 15,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
       "count": 11
@@ -105,12 +111,6 @@
       "university": "국립부경대학교",
       "domain": "pknu.ac.kr, pukyong.ac.kr",
       "count": 11
-    },
-    {
-      "rank": 18,
-      "university": "경상국립대학교",
-      "domain": "gnu.ac.kr",
-      "count": 10
     },
     {
       "rank": 19,
