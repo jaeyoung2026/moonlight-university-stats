@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-01T15:50:58+09:00",
+  "updated_at": "2025-12-01T15:51:57+09:00",
   "total_applications": 758,
-  "total_universities": 67,
+  "total_universities": 66,
   "excluded_personal_emails": 61,
   "data": [
     {
@@ -96,42 +96,42 @@
     },
     {
       "rank": 16,
+      "university": "국립부경대학교",
+      "domain": "pknu.ac.kr, pukyong.ac.kr",
+      "count": 10
+    },
+    {
+      "rank": 17,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
       "count": 9
     },
     {
-      "rank": 16,
+      "rank": 17,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
       "count": 9
     },
     {
-      "rank": 16,
+      "rank": 17,
       "university": "숙명여자대학교",
       "domain": "sookmyung.ac.kr",
       "count": 9
     },
     {
-      "rank": 19,
+      "rank": 20,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
       "count": 8
     },
     {
-      "rank": 19,
-      "university": "국립부경대학교",
-      "domain": "pukyong.ac.kr",
-      "count": 8
-    },
-    {
-      "rank": 19,
+      "rank": 20,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 8
     },
     {
-      "rank": 19,
+      "rank": 20,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 8
@@ -231,12 +231,6 @@
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 3
-    },
-    {
-      "rank": 39,
-      "university": "[미등록] pknu.ac.kr",
-      "domain": "pknu.ac.kr",
-      "count": 2
     },
     {
       "rank": 39,
