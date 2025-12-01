@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T14:31:57+09:00",
-  "total_applications": 731,
+  "updated_at": "2025-12-01T14:34:57+09:00",
+  "total_applications": 732,
   "total_universities": 65,
   "excluded_personal_emails": 57,
   "data": [
@@ -32,7 +32,7 @@
       "rank": 5,
       "university": "중앙대학교",
       "domain": "cau.ac.kr",
-      "count": 46
+      "count": 47
     },
     {
       "rank": 6,
@@ -288,12 +288,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] dgu.ac.kr",
-      "domain": "dgu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "가톨릭대",
       "domain": "catholic.ac.kr",
       "count": 1
@@ -314,6 +308,12 @@
       "rank": null,
       "university": "광운대학교",
       "domain": "kw.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "동국대학교",
+      "domain": "dgu.ac.kr",
       "count": 1
     },
     {
