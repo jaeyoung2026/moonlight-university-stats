@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T16:53:56+09:00",
-  "total_applications": 773,
+  "updated_at": "2025-12-01T17:03:58+09:00",
+  "total_applications": 775,
   "total_universities": 67,
   "excluded_personal_emails": 63,
   "data": [
@@ -138,6 +138,12 @@
     },
     {
       "rank": 23,
+      "university": "서울과학기술대학교",
+      "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 23,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
       "count": 7
@@ -149,19 +155,13 @@
       "count": 7
     },
     {
-      "rank": 25,
+      "rank": 26,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
     },
     {
-      "rank": 25,
-      "university": "서울과학기술대학교",
-      "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
-      "count": 6
-    },
-    {
-      "rank": 25,
+      "rank": 26,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 6
@@ -270,6 +270,12 @@
     },
     {
       "rank": 39,
+      "university": "서울과학종합대학원대학교",
+      "domain": "stud.assist.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 39,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
       "count": 2
@@ -350,12 +356,6 @@
       "rank": null,
       "university": "상명대학교",
       "domain": "sangmyung.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "서울과학종합대학원대학교",
-      "domain": "stud.assist.ac.kr",
       "count": 1
     },
     {
