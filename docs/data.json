@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T11:20:56+09:00",
-  "total_applications": 704,
+  "updated_at": "2025-12-01T11:26:57+09:00",
+  "total_applications": 705,
   "total_universities": 63,
   "excluded_personal_emails": 57,
   "data": [
@@ -131,25 +131,25 @@
       "count": 7
     },
     {
-      "rank": 22,
+      "rank": 21,
+      "university": "아주대학교",
+      "domain": "ajou.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 23,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
     },
     {
-      "rank": 22,
-      "university": "아주대학교",
-      "domain": "ajou.ac.kr",
-      "count": 6
-    },
-    {
-      "rank": 22,
+      "rank": 23,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
       "count": 6
     },
     {
-      "rank": 22,
+      "rank": 23,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 6
@@ -410,11 +410,15 @@
     },
     {
       "id": "한양대학교",
-      "text": "🎉목표달성!"
+      "text": "🎉목표달성! 제휴를 준비하겠습니다!"
     },
     {
       "id": "성신여자대학교",
-      "text": "🎉목표달성!"
+      "text": "🎉목표달성! 제휴를 준비하겠습니다!"
+    },
+    {
+      "id": "고려대학교",
+      "text": "🎉목표달성! 제휴를 준비하겠습니다!"
     }
   ]
 }
