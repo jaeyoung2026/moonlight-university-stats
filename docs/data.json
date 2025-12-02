@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T10:48:56+09:00",
-  "total_applications": 834,
+  "updated_at": "2025-12-02T10:50:58+09:00",
+  "total_applications": 833,
   "total_universities": 68,
   "excluded_personal_emails": 67,
   "data": [
@@ -126,12 +126,6 @@
     },
     {
       "rank": 20,
-      "university": "영남대학교",
-      "domain": "yu.ac.kr",
-      "count": 8
-    },
-    {
-      "rank": 20,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
       "count": 8
@@ -143,19 +137,25 @@
       "count": 8
     },
     {
-      "rank": 24,
+      "rank": 23,
       "university": "서울과학기술대학교",
       "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
       "count": 7
     },
     {
-      "rank": 24,
+      "rank": 23,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
       "count": 7
     },
     {
-      "rank": 24,
+      "rank": 23,
+      "university": "영남대학교",
+      "domain": "yu.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 23,
       "university": "조선대학교",
       "domain": "chosun.ac.kr, chosun.kr",
       "count": 7
