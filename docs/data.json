@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-02T20:39:57+09:00",
-  "total_applications": 1012,
-  "total_universities": 73,
+  "updated_at": "2025-12-02T20:40:58+09:00",
+  "total_applications": 1011,
+  "total_universities": 72,
   "excluded_personal_emails": 79,
   "data": [
     {
@@ -333,12 +333,6 @@
       "university": "충북대학교",
       "domain": "chungbuk.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] ssu.com",
-      "domain": "ssu.com",
-      "count": 1
     },
     {
       "rank": null,
