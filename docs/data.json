@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T20:52:56+09:00",
-  "total_applications": 1015,
+  "updated_at": "2025-12-02T20:53:56+09:00",
+  "total_applications": 1016,
   "total_universities": 72,
   "excluded_personal_emails": 80,
   "data": [
@@ -180,36 +180,36 @@
     },
     {
       "rank": 27,
+      "university": "서울시립대학교",
+      "domain": "uos.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 27,
       "university": "인천대학교",
       "domain": "inu.ac.kr",
       "count": 7
     },
     {
-      "rank": 31,
+      "rank": 32,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
       "count": 6
     },
     {
-      "rank": 31,
+      "rank": 32,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
     },
     {
-      "rank": 31,
-      "university": "서울시립대학교",
-      "domain": "uos.ac.kr",
-      "count": 6
-    },
-    {
-      "rank": 31,
+      "rank": 32,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 6
     },
     {
-      "rank": 31,
+      "rank": 32,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 6
