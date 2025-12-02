@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T11:05:57+09:00",
-  "total_applications": 819,
+  "updated_at": "2025-12-02T11:06:57+09:00",
+  "total_applications": 821,
   "total_universities": 68,
   "excluded_personal_emails": 68,
   "data": [
@@ -20,7 +20,7 @@
       "rank": 3,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
-      "count": 68
+      "count": 69
     },
     {
       "rank": 4,
@@ -120,6 +120,12 @@
     },
     {
       "rank": 20,
+      "university": "건국대학교",
+      "domain": "konkuk.ac.kr",
+      "count": 8
+    },
+    {
+      "rank": 20,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
       "count": 8
@@ -131,25 +137,19 @@
       "count": 8
     },
     {
-      "rank": 22,
-      "university": "건국대학교",
-      "domain": "konkuk.ac.kr",
-      "count": 7
-    },
-    {
-      "rank": 22,
+      "rank": 23,
       "university": "서울과학기술대학교",
       "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
       "count": 7
     },
     {
-      "rank": 22,
+      "rank": 23,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
       "count": 7
     },
     {
-      "rank": 22,
+      "rank": 23,
       "university": "조선대학교",
       "domain": "chosun.ac.kr, chosun.kr",
       "count": 7
@@ -440,7 +440,7 @@
     },
     {
       "id": "share_text",
-      "text": "논문 읽기 최적화 AI 서비스문라이트. 다른 대학에선 문라이트로 앞서가는중! 우리 대학이 50명을 달성하면 모두 할인! 12월 10일까지 문라이트 대학 제휴 챌린지에 참여하세요!"
+      "text": "논문 읽기 최적화 AI 서비스 문라이트. 다른 대학에선 문라이트로 앞서가는중! 우리 대학이 50명을 달성하면 모두 할인! 12월 10일까지 문라이트 대학 제휴 챌린지에 참여하세요!"
     },
     {
       "id": "이화여자대학교",
