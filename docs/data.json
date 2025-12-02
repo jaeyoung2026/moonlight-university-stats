@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T16:27:57+09:00",
-  "total_applications": 893,
+  "updated_at": "2025-12-02T16:29:56+09:00",
+  "total_applications": 894,
   "total_universities": 73,
   "excluded_personal_emails": 72,
   "data": [
@@ -26,7 +26,7 @@
       "rank": 4,
       "university": "성신여자대학교",
       "domain": "sungshin.ac.kr",
-      "count": 71
+      "count": 72
     },
     {
       "rank": 5,
