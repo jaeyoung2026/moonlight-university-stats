@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T10:50:58+09:00",
-  "total_applications": 833,
+  "updated_at": "2025-12-02T10:51:57+09:00",
+  "total_applications": 831,
   "total_universities": 68,
   "excluded_personal_emails": 67,
   "data": [
@@ -14,7 +14,7 @@
       "rank": 2,
       "university": "한양대학교",
       "domain": "hanyang.ac.kr",
-      "count": 71
+      "count": 70
     },
     {
       "rank": 3,
@@ -300,12 +300,6 @@
     },
     {
       "rank": 39,
-      "university": "제주대학교",
-      "domain": "office.jejunu.ac.kr, stu.jejunu.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 39,
       "university": "충북대학교",
       "domain": "chungbuk.ac.kr",
       "count": 2
@@ -380,6 +374,12 @@
       "rank": null,
       "university": "전주대학교",
       "domain": "jj.co.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "제주대학교",
+      "domain": "stu.jejunu.ac.kr",
       "count": 1
     },
     {
