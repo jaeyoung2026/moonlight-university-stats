@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-02T10:52:58+09:00",
+  "updated_at": "2025-12-02T10:53:56+09:00",
   "total_applications": 830,
   "total_universities": 68,
   "excluded_personal_emails": 67,
@@ -116,7 +116,7 @@
       "rank": 19,
       "university": "숙명여자대학교",
       "domain": "sookmyung.ac.kr",
-      "count": 9
+      "count": 10
     },
     {
       "rank": 20,
@@ -179,15 +179,15 @@
       "count": 6
     },
     {
-      "rank": 27,
-      "university": "충남대학교",
-      "domain": "o.cnu.ac.kr",
-      "count": 6
-    },
-    {
-      "rank": 31,
+      "rank": 30,
       "university": "국립공주대학교",
       "domain": "kongju.ac.kr, smail.kongju.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 30,
+      "university": "충남대학교",
+      "domain": "o.cnu.ac.kr",
       "count": 5
     },
     {
