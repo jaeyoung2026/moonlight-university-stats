@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-02T14:03:56+09:00",
+  "updated_at": "2025-12-02T14:04:57+09:00",
   "total_applications": 842,
   "total_universities": 69,
   "excluded_personal_emails": 69,
@@ -474,6 +474,14 @@
     },
     {
       "id": "중앙대학교_배경색",
+      "text": "#DADCE0"
+    },
+    {
+      "id": "서울대학교_배경색",
+      "text": "#80868B"
+    },
+    {
+      "id": "고려대학교",
       "text": ""
     }
   ]
