@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T11:34:56+09:00",
-  "total_applications": 828,
+  "updated_at": "2025-12-02T11:37:57+09:00",
+  "total_applications": 829,
   "total_universities": 69,
   "excluded_personal_emails": 68,
   "data": [
@@ -276,6 +276,12 @@
     },
     {
       "rank": 40,
+      "university": "명지대학교",
+      "domain": "mju.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 40,
       "university": "서울과학종합대학원대학교",
       "domain": "stud.assist.ac.kr",
       "count": 2
@@ -350,12 +356,6 @@
       "rank": null,
       "university": "동덕여자대학교",
       "domain": "dongduk.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "명지대학교",
-      "domain": "mju.ac.kr",
       "count": 1
     },
     {
