@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T01:31:58+09:00",
-  "total_applications": 1055,
+  "updated_at": "2025-12-03T01:47:57+09:00",
+  "total_applications": 1056,
   "total_universities": 74,
   "excluded_personal_emails": 81,
   "data": [
@@ -335,6 +335,12 @@
       "count": 2
     },
     {
+      "rank": 46,
+      "university": "차의과학대학교",
+      "domain": "chauniv.ac.kr",
+      "count": 2
+    },
+    {
       "rank": null,
       "university": "[미등록] o365.yonsei.ac.kr",
       "domain": "o365.yonsei.ac.kr",
@@ -404,12 +410,6 @@
       "rank": null,
       "university": "제주대학교",
       "domain": "stu.jejunu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "차의과학대학교",
-      "domain": "chauniv.ac.kr",
       "count": 1
     },
     {
