@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T00:17:58+09:00",
-  "total_applications": 1045,
+  "updated_at": "2025-12-03T00:22:56+09:00",
+  "total_applications": 1046,
   "total_universities": 73,
   "excluded_personal_emails": 81,
   "data": [
@@ -269,69 +269,69 @@
       "count": 3
     },
     {
-      "rank": 45,
+      "rank": 43,
+      "university": "충북대학교",
+      "domain": "chungbuk.ac.kr",
+      "count": 3
+    },
+    {
+      "rank": 46,
       "university": "UNIST",
       "domain": "unist.ac.kr",
       "count": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "대구가톨릭대학교",
       "domain": "cu.ac.kr",
       "count": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "동국대학교",
       "domain": "dgu.ac.kr",
       "count": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "동아대학교",
       "domain": "dau.ac.kr, donga.ac.kr",
       "count": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "상명대학교",
       "domain": "sangmyung.kr",
       "count": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "서울과학종합대학원대학교",
       "domain": "stud.assist.ac.kr",
       "count": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
       "count": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "전주대학교",
       "domain": "jj.ac.kr, jj.co.kr",
-      "count": 2
-    },
-    {
-      "rank": 45,
-      "university": "충북대학교",
-      "domain": "chungbuk.ac.kr",
       "count": 2
     },
     {
