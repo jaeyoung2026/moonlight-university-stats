@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T22:24:58+09:00",
-  "total_applications": 1036,
+  "updated_at": "2025-12-02T22:25:57+09:00",
+  "total_applications": 1037,
   "total_universities": 73,
   "excluded_personal_emails": 81,
   "data": [
@@ -113,19 +113,19 @@
       "count": 14
     },
     {
-      "rank": 19,
+      "rank": 18,
+      "university": "아주대학교",
+      "domain": "ajou.ac.kr",
+      "count": 14
+    },
+    {
+      "rank": 20,
       "university": "국립부경대학교",
       "domain": "pknu.ac.kr, pukyong.ac.kr",
       "count": 13
     },
     {
-      "rank": 19,
-      "university": "아주대학교",
-      "domain": "ajou.ac.kr",
-      "count": 13
-    },
-    {
-      "rank": 19,
+      "rank": 20,
       "university": "한국항공대학교",
       "domain": "kau.kr",
       "count": 13
