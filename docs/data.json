@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-02T12:47:58+09:00",
-  "total_applications": 834,
-  "total_universities": 69,
+  "updated_at": "2025-12-02T12:57:56+09:00",
+  "total_applications": 836,
+  "total_universities": 70,
   "excluded_personal_emails": 68,
   "data": [
     {
@@ -14,7 +14,7 @@
       "rank": 2,
       "university": "한양대학교",
       "domain": "hanyang.ac.kr",
-      "count": 73
+      "count": 74
     },
     {
       "rank": 3,
@@ -315,6 +315,12 @@
       "university": "홍익대학교",
       "domain": "hongik.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] ewha.ac.rk",
+      "domain": "ewha.ac.rk",
+      "count": 1
     },
     {
       "rank": null,
