@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T16:49:56+09:00",
-  "total_applications": 903,
+  "updated_at": "2025-12-02T16:51:56+09:00",
+  "total_applications": 905,
   "total_universities": 70,
   "excluded_personal_emails": 72,
   "data": [
@@ -20,7 +20,7 @@
       "rank": 3,
       "university": "고려대학교",
       "domain": "korea.ac.kr",
-      "count": 75
+      "count": 76
     },
     {
       "rank": 4,
@@ -294,6 +294,12 @@
     },
     {
       "rank": 44,
+      "university": "상명대학교",
+      "domain": "sangmyung.kr",
+      "count": 2
+    },
+    {
+      "rank": 44,
       "university": "서울과학종합대학원대학교",
       "domain": "stud.assist.ac.kr",
       "count": 2
@@ -362,12 +368,6 @@
       "rank": null,
       "university": "배재대학교",
       "domain": "pcu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "상명대학교",
-      "domain": "sangmyung.kr",
       "count": 1
     },
     {
@@ -477,6 +477,10 @@
     {
       "id": "중앙대학교",
       "text": "🚀 제안메일 발송완료!"
+    },
+    {
+      "id": "연세대학교",
+      "text": "🎉 목표 달성을 축하합니다!"
     }
   ]
 }
