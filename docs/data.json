@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T21:07:57+09:00",
-  "total_applications": 1023,
+  "updated_at": "2025-12-02T21:08:56+09:00",
+  "total_applications": 1025,
   "total_universities": 73,
   "excluded_personal_emails": 81,
   "data": [
@@ -8,7 +8,7 @@
       "rank": 1,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr, ewhain.net, i.ewha.ac.kr",
-      "count": 144
+      "count": 145
     },
     {
       "rank": 2,
@@ -72,15 +72,15 @@
     },
     {
       "rank": 12,
-      "university": "전남대학교",
-      "domain": "jnu.ac.kr",
+      "university": "GIST",
+      "domain": "gm.gist.ac.kr",
       "count": 19
     },
     {
-      "rank": 13,
-      "university": "GIST",
-      "domain": "gm.gist.ac.kr",
-      "count": 18
+      "rank": 12,
+      "university": "전남대학교",
+      "domain": "jnu.ac.kr",
+      "count": 19
     },
     {
       "rank": 14,
