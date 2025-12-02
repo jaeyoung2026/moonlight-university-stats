@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T11:09:57+09:00",
-  "total_applications": 823,
+  "updated_at": "2025-12-02T11:14:57+09:00",
+  "total_applications": 824,
   "total_universities": 68,
   "excluded_personal_emails": 68,
   "data": [
@@ -228,84 +228,84 @@
     },
     {
       "rank": 36,
+      "university": "광운대학교",
+      "domain": "kw.ac.kr",
+      "count": 3
+    },
+    {
+      "rank": 36,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 3
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "UNIST",
       "domain": "unist.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "계명대학교",
       "domain": "kmu.ac.kr, stu.kmu.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
-      "university": "광운대학교",
-      "domain": "kw.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 39,
+      "rank": 40,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "동국대학교",
       "domain": "dgu.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "동아대학교",
       "domain": "dau.ac.kr, donga.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "서울과학종합대학원대학교",
       "domain": "stud.assist.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "충북대학교",
       "domain": "chungbuk.ac.kr",
       "count": 2
     },
     {
-      "rank": 39,
+      "rank": 40,
       "university": "홍익대학교",
       "domain": "hongik.ac.kr",
       "count": 2
