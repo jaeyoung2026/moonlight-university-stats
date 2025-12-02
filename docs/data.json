@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T01:47:57+09:00",
-  "total_applications": 1056,
+  "updated_at": "2025-12-03T01:57:56+09:00",
+  "total_applications": 1057,
   "total_universities": 74,
   "excluded_personal_emails": 81,
   "data": [
@@ -336,6 +336,12 @@
     },
     {
       "rank": 46,
+      "university": "제주대학교",
+      "domain": "stu.jejunu.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 46,
       "university": "차의과학대학교",
       "domain": "chauniv.ac.kr",
       "count": 2
@@ -404,12 +410,6 @@
       "rank": null,
       "university": "수원대학교",
       "domain": "suwon.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "제주대학교",
-      "domain": "stu.jejunu.ac.kr",
       "count": 1
     },
     {
