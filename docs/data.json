@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-02T15:45:57+09:00",
-  "total_applications": 869,
-  "total_universities": 70,
+  "updated_at": "2025-12-02T15:48:57+09:00",
+  "total_applications": 871,
+  "total_universities": 71,
   "excluded_personal_emails": 70,
   "data": [
     {
@@ -122,16 +122,16 @@
       "rank": 20,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
-      "count": 8
+      "count": 9
     },
     {
-      "rank": 20,
+      "rank": 21,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
       "count": 8
     },
     {
-      "rank": 20,
+      "rank": 21,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 8
@@ -320,6 +320,12 @@
       "rank": null,
       "university": "[미등록] g.kmou.ac.kr",
       "domain": "g.kmou.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] o.skku.edu",
+      "domain": "o.skku.edu",
       "count": 1
     },
     {
