@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-02T20:36:57+09:00",
+  "updated_at": "2025-12-02T20:38:56+09:00",
   "total_applications": 1012,
-  "total_universities": 75,
+  "total_universities": 74,
   "excluded_personal_emails": 79,
   "data": [
     {
@@ -38,7 +38,7 @@
       "rank": 6,
       "university": "성균관대학교",
       "domain": "g.skku.edu, o.skku.edu, skku.edu",
-      "count": 60
+      "count": 61
     },
     {
       "rank": 7,
@@ -332,12 +332,6 @@
       "rank": null,
       "university": "[미등록] changwon.ac.kr",
       "domain": "changwon.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] g.skuu.edu",
-      "domain": "g.skuu.edu",
       "count": 1
     },
     {
