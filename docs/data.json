@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-02T10:53:56+09:00",
-  "total_applications": 830,
+  "updated_at": "2025-12-02T10:54:57+09:00",
+  "total_applications": 827,
   "total_universities": 68,
   "excluded_personal_emails": 67,
   "data": [
@@ -8,7 +8,7 @@
       "rank": 1,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr, ewhain.net, i.ewha.ac.kr",
-      "count": 141
+      "count": 140
     },
     {
       "rank": 2,
@@ -38,7 +38,7 @@
       "rank": 6,
       "university": "중앙대학교",
       "domain": "cau.ac.kr",
-      "count": 52
+      "count": 50
     },
     {
       "rank": 7,
