@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-03T01:08:01+09:00",
-  "total_applications": 1053,
-  "total_universities": 73,
+  "updated_at": "2025-12-03T01:16:59+09:00",
+  "total_applications": 1054,
+  "total_universities": 74,
   "excluded_personal_emails": 81,
   "data": [
     {
@@ -333,6 +333,12 @@
       "university": "전주대학교",
       "domain": "jj.ac.kr, jj.co.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] o365.yonsei.ac.kr",
+      "domain": "o365.yonsei.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
