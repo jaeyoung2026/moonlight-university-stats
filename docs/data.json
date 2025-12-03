@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T12:58:58+09:00",
-  "total_applications": 1117,
+  "updated_at": "2025-12-03T13:06:56+09:00",
+  "total_applications": 1118,
   "total_universities": 74,
   "excluded_personal_emails": 85,
   "data": [
@@ -162,18 +162,18 @@
     },
     {
       "rank": 27,
+      "university": "서울과학기술대학교",
+      "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
+      "count": 9
+    },
+    {
+      "rank": 27,
       "university": "조선대학교",
       "domain": "chosun.ac.kr, chosun.kr",
       "count": 9
     },
     {
-      "rank": 28,
-      "university": "서울과학기술대학교",
-      "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
-      "count": 8
-    },
-    {
-      "rank": 28,
+      "rank": 29,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 8
