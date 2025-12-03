@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-12-03T16:53:56+09:00",
-  "total_applications": 1230,
-  "total_universities": 77,
-  "excluded_personal_emails": 95,
+  "updated_at": "2025-12-03T16:55:56+09:00",
+  "total_applications": 1233,
+  "total_universities": 79,
+  "excluded_personal_emails": 96,
   "data": [
     {
       "rank": 1,
@@ -60,15 +60,15 @@
     },
     {
       "rank": 10,
-      "university": "경북대학교",
-      "domain": "knu.ac.kr",
+      "university": "KAIST",
+      "domain": "kaist.ac.kr",
       "count": 27
     },
     {
-      "rank": 11,
-      "university": "KAIST",
-      "domain": "kaist.ac.kr",
-      "count": 26
+      "rank": 10,
+      "university": "경북대학교",
+      "domain": "knu.ac.kr",
+      "count": 27
     },
     {
       "rank": 12,
@@ -366,8 +366,20 @@
     },
     {
       "rank": null,
+      "university": "[미등록] chungbuk.ac.k",
+      "domain": "chungbuk.ac.k",
+      "count": 1
+    },
+    {
+      "rank": null,
       "university": "[미등록] edu.dju.ac.kr",
       "domain": "edu.dju.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] gskku.edu",
+      "domain": "gskku.edu",
       "count": 1
     },
     {
