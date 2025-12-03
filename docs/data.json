@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-03T23:59:57+09:00",
-  "total_applications": 1363,
-  "total_universities": 83,
+  "updated_at": "2025-12-04T07:41:56+09:00",
+  "total_applications": 1362,
+  "total_universities": 82,
   "excluded_personal_emails": 105,
   "data": [
     {
@@ -369,12 +369,6 @@
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] gamil.com",
-      "domain": "gamil.com",
-      "count": 1
     },
     {
       "rank": null,
