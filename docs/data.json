@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T17:05:57+09:00",
-  "total_applications": 1246,
+  "updated_at": "2025-12-03T17:06:57+09:00",
+  "total_applications": 1248,
   "total_universities": 80,
   "excluded_personal_emails": 97,
   "data": [
@@ -29,10 +29,10 @@
       "count": 82
     },
     {
-      "rank": 5,
+      "rank": 4,
       "university": "성균관대학교",
       "domain": "g.skku.edu, o.skku.edu, skku.edu",
-      "count": 81
+      "count": 82
     },
     {
       "rank": 6,
@@ -62,7 +62,7 @@
       "rank": 10,
       "university": "KAIST",
       "domain": "kaist.ac.kr",
-      "count": 29
+      "count": 30
     },
     {
       "rank": 11,
