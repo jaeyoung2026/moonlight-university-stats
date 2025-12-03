@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T23:49:57+09:00",
-  "total_applications": 1360,
+  "updated_at": "2025-12-03T23:50:57+09:00",
+  "total_applications": 1361,
   "total_universities": 83,
   "excluded_personal_emails": 105,
   "data": [
@@ -138,20 +138,20 @@
     },
     {
       "rank": 23,
+      "university": "조선대학교",
+      "domain": "chosun.ac.kr, chosun.kr",
+      "count": 15
+    },
+    {
+      "rank": 23,
       "university": "한국항공대학교",
       "domain": "kau.kr",
       "count": 15
     },
     {
-      "rank": 24,
+      "rank": 25,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
-      "count": 14
-    },
-    {
-      "rank": 24,
-      "university": "조선대학교",
-      "domain": "chosun.ac.kr, chosun.kr",
       "count": 14
     },
     {
