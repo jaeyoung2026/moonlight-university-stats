@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-03T10:00:56+09:00",
-  "total_applications": 1082,
-  "total_universities": 73,
+  "updated_at": "2025-12-03T10:01:57+09:00",
+  "total_applications": 1083,
+  "total_universities": 74,
   "excluded_personal_emails": 83,
   "data": [
     {
@@ -351,6 +351,12 @@
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] cmcnu.or.kr",
+      "domain": "cmcnu.or.kr",
+      "count": 1
     },
     {
       "rank": null,
