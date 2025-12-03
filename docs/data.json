@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T18:31:57+09:00",
-  "total_applications": 1291,
+  "updated_at": "2025-12-03T18:34:58+09:00",
+  "total_applications": 1292,
   "total_universities": 79,
   "excluded_personal_emails": 100,
   "data": [
@@ -197,15 +197,15 @@
       "count": 9
     },
     {
-      "rank": 33,
-      "university": "강원대학교",
-      "domain": "kangwon.ac.kr",
-      "count": 8
-    },
-    {
-      "rank": 33,
+      "rank": 31,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
+      "count": 9
+    },
+    {
+      "rank": 34,
+      "university": "강원대학교",
+      "domain": "kangwon.ac.kr",
       "count": 8
     },
     {
