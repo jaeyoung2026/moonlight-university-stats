@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T16:38:57+09:00",
-  "total_applications": 1205,
+  "updated_at": "2025-12-03T16:39:56+09:00",
+  "total_applications": 1210,
   "total_universities": 76,
   "excluded_personal_emails": 90,
   "data": [
@@ -29,10 +29,10 @@
       "count": 80
     },
     {
-      "rank": 5,
+      "rank": 4,
       "university": "성균관대학교",
       "domain": "g.skku.edu, o.skku.edu, skku.edu",
-      "count": 79
+      "count": 80
     },
     {
       "rank": 6,
@@ -96,20 +96,20 @@
     },
     {
       "rank": 15,
+      "university": "인하대학교",
+      "domain": "inha.edu, office.inha.ac.kr",
+      "count": 20
+    },
+    {
+      "rank": 15,
       "university": "전남대학교",
       "domain": "jnu.ac.kr",
       "count": 20
     },
     {
-      "rank": 17,
+      "rank": 18,
       "university": "경상국립대학교",
       "domain": "gnu.ac.kr",
-      "count": 19
-    },
-    {
-      "rank": 17,
-      "university": "인하대학교",
-      "domain": "inha.edu, office.inha.ac.kr",
       "count": 19
     },
     {
@@ -168,24 +168,24 @@
     },
     {
       "rank": 28,
+      "university": "인천대학교",
+      "domain": "inu.ac.kr",
+      "count": 10
+    },
+    {
+      "rank": 29,
       "university": "서울과학기술대학교",
       "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
       "count": 9
     },
     {
-      "rank": 28,
+      "rank": 29,
       "university": "조선대학교",
       "domain": "chosun.ac.kr, chosun.kr",
       "count": 9
     },
     {
-      "rank": 30,
-      "university": "인천대학교",
-      "domain": "inu.ac.kr",
-      "count": 8
-    },
-    {
-      "rank": 30,
+      "rank": 31,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 8
@@ -203,27 +203,27 @@
       "count": 7
     },
     {
-      "rank": 34,
+      "rank": 32,
+      "university": "충남대학교",
+      "domain": "o.cnu.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 35,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
       "count": 6
     },
     {
-      "rank": 34,
+      "rank": 35,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
     },
     {
-      "rank": 34,
+      "rank": 35,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
-      "count": 6
-    },
-    {
-      "rank": 34,
-      "university": "충남대학교",
-      "domain": "o.cnu.ac.kr",
       "count": 6
     },
     {
