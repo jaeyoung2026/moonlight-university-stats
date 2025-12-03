@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T14:31:56+09:00",
-  "total_applications": 1139,
+  "updated_at": "2025-12-03T14:33:56+09:00",
+  "total_applications": 1140,
   "total_universities": 74,
   "excluded_personal_emails": 86,
   "data": [
@@ -234,24 +234,24 @@
     },
     {
       "rank": 38,
+      "university": "서강대학교",
+      "domain": "sogang.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 38,
       "university": "홍익대학교",
       "domain": "g.hongik.ac.kr, hongik.ac.kr",
       "count": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "university": "경기대학교",
       "domain": "kyonggi.ac.kr",
       "count": 4
     },
     {
-      "rank": 40,
-      "university": "서강대학교",
-      "domain": "sogang.ac.kr",
-      "count": 4
-    },
-    {
-      "rank": 40,
+      "rank": 41,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 4
