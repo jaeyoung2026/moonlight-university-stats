@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-03T20:17:56+09:00",
+  "updated_at": "2025-12-03T20:19:00+09:00",
   "total_applications": 1313,
   "total_universities": 81,
   "excluded_personal_emails": 102,
@@ -372,12 +372,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] office.hknu.ac.kr",
-      "domain": "office.hknu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "DGIST",
       "domain": "dgist.ac.kr",
       "count": 1
@@ -452,6 +446,12 @@
       "rank": null,
       "university": "창원대학교",
       "domain": "changwon.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "한경국립대학교",
+      "domain": "office.hknu.ac.kr",
       "count": 1
     },
     {
