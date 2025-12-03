@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T23:05:56+09:00",
-  "total_applications": 1351,
+  "updated_at": "2025-12-03T23:09:59+09:00",
+  "total_applications": 1352,
   "total_universities": 81,
   "excluded_personal_emails": 105,
   "data": [
@@ -287,33 +287,33 @@
       "count": 4
     },
     {
-      "rank": 48,
+      "rank": 44,
+      "university": "한국공학대학교",
+      "domain": "tukorea.ac.kr",
+      "count": 4
+    },
+    {
+      "rank": 49,
       "university": "경성대학교",
       "domain": "ks.ac.kr, kyungsung.ac.kr",
       "count": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "university": "광운대학교",
       "domain": "kw.ac.kr",
       "count": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "university": "상명대학교",
       "domain": "sangmyung.kr",
       "count": 3
     },
     {
-      "rank": 48,
+      "rank": 49,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
-      "count": 3
-    },
-    {
-      "rank": 48,
-      "university": "한국공학대학교",
-      "domain": "tukorea.ac.kr",
       "count": 3
     },
     {
