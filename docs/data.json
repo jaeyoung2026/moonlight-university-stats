@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T22:41:57+09:00",
-  "total_applications": 1348,
+  "updated_at": "2025-12-03T22:48:57+09:00",
+  "total_applications": 1349,
   "total_universities": 81,
   "excluded_personal_emails": 104,
   "data": [
@@ -90,14 +90,14 @@
     },
     {
       "rank": 15,
-      "university": "GIST",
-      "domain": "gm.gist.ac.kr",
-      "count": 22
-    },
-    {
-      "rank": 15,
       "university": "POSTECH",
       "domain": "postech.ac.kr",
+      "count": 23
+    },
+    {
+      "rank": 16,
+      "university": "GIST",
+      "domain": "gm.gist.ac.kr",
       "count": 22
     },
     {
