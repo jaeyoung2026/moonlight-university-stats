@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T19:21:57+09:00",
-  "total_applications": 1302,
+  "updated_at": "2025-12-03T19:22:58+09:00",
+  "total_applications": 1303,
   "total_universities": 80,
   "excluded_personal_emails": 100,
   "data": [
@@ -68,7 +68,7 @@
       "rank": 11,
       "university": "경북대학교",
       "domain": "knu.ac.kr",
-      "count": 30
+      "count": 31
     },
     {
       "rank": 12,
