@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T17:37:58+09:00",
-  "total_applications": 1274,
+  "updated_at": "2025-12-03T17:39:57+09:00",
+  "total_applications": 1276,
   "total_universities": 82,
   "excluded_personal_emails": 98,
   "data": [
@@ -68,7 +68,7 @@
       "rank": 11,
       "university": "경북대학교",
       "domain": "knu.ac.kr",
-      "count": 27
+      "count": 28
     },
     {
       "rank": 12,
@@ -186,18 +186,18 @@
     },
     {
       "rank": 31,
+      "university": "가천대학교",
+      "domain": "gachon.ac.kr",
+      "count": 9
+    },
+    {
+      "rank": 31,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 9
     },
     {
-      "rank": 32,
-      "university": "가천대학교",
-      "domain": "gachon.ac.kr",
-      "count": 8
-    },
-    {
-      "rank": 32,
+      "rank": 33,
       "university": "강원대학교",
       "domain": "kangwon.ac.kr",
       "count": 8
