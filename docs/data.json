@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T18:52:57+09:00",
-  "total_applications": 1295,
+  "updated_at": "2025-12-03T18:58:58+09:00",
+  "total_applications": 1296,
   "total_universities": 79,
   "excluded_personal_emails": 100,
   "data": [
@@ -128,16 +128,16 @@
       "rank": 21,
       "university": "POSTECH",
       "domain": "postech.ac.kr",
-      "count": 15
+      "count": 16
     },
     {
-      "rank": 21,
+      "rank": 22,
       "university": "숙명여자대학교",
       "domain": "sookmyung.ac.kr",
       "count": 15
     },
     {
-      "rank": 21,
+      "rank": 22,
       "university": "한국항공대학교",
       "domain": "kau.kr",
       "count": 15
