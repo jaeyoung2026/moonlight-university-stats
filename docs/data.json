@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T19:04:57+09:00",
-  "total_applications": 1300,
+  "updated_at": "2025-12-03T19:07:57+09:00",
+  "total_applications": 1301,
   "total_universities": 80,
   "excluded_personal_emails": 100,
   "data": [
@@ -72,18 +72,18 @@
     },
     {
       "rank": 12,
+      "university": "명지대학교",
+      "domain": "mju.ac.kr",
+      "count": 27
+    },
+    {
+      "rank": 13,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
       "count": 26
     },
     {
-      "rank": 12,
-      "university": "명지대학교",
-      "domain": "mju.ac.kr",
-      "count": 26
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
       "count": 26
