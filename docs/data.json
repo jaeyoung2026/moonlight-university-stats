@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T09:16:57+09:00",
-  "total_applications": 1067,
+  "updated_at": "2025-12-03T09:26:57+09:00",
+  "total_applications": 1068,
   "total_universities": 73,
   "excluded_personal_emails": 83,
   "data": [
@@ -137,21 +137,21 @@
       "count": 11
     },
     {
-      "rank": 23,
+      "rank": 22,
+      "university": "인하대학교",
+      "domain": "inha.edu, office.inha.ac.kr",
+      "count": 11
+    },
+    {
+      "rank": 24,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
       "count": 10
     },
     {
-      "rank": 23,
+      "rank": 24,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr, ssu.com",
-      "count": 10
-    },
-    {
-      "rank": 23,
-      "university": "인하대학교",
-      "domain": "inha.edu, office.inha.ac.kr",
       "count": 10
     },
     {
