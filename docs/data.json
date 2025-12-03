@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-03T17:45:57+09:00",
+  "updated_at": "2025-12-03T17:46:57+09:00",
   "total_applications": 1278,
-  "total_universities": 80,
+  "total_universities": 79,
   "excluded_personal_emails": 99,
   "data": [
     {
@@ -31,7 +31,7 @@
     {
       "rank": 5,
       "university": "성균관대학교",
-      "domain": "g.skku.edu, gskku.edu, o.skku.edu, skku.edu",
+      "domain": "g.skku.edu, o.skku.edu, skku.edu",
       "count": 83
     },
     {
@@ -203,15 +203,15 @@
       "count": 8
     },
     {
-      "rank": 34,
-      "university": "영남대학교",
-      "domain": "yu.ac.kr",
-      "count": 7
-    },
-    {
-      "rank": 34,
+      "rank": 33,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
+      "count": 8
+    },
+    {
+      "rank": 35,
+      "university": "영남대학교",
+      "domain": "yu.ac.kr",
       "count": 7
     },
     {
@@ -363,12 +363,6 @@
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] yopmail.com",
-      "domain": "yopmail.com",
-      "count": 1
     },
     {
       "rank": null,
