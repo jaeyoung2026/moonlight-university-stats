@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T21:53:57+09:00",
-  "total_applications": 1337,
+  "updated_at": "2025-12-03T21:56:57+09:00",
+  "total_applications": 1338,
   "total_universities": 81,
   "excluded_personal_emails": 103,
   "data": [
@@ -221,21 +221,21 @@
       "count": 7
     },
     {
-      "rank": 37,
+      "rank": 35,
+      "university": "충북대학교",
+      "domain": "cbnu.ac.kr, chungbuk.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 38,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
     },
     {
-      "rank": 37,
+      "rank": 38,
       "university": "서강대학교",
       "domain": "sogang.ac.kr",
-      "count": 6
-    },
-    {
-      "rank": 37,
-      "university": "충북대학교",
-      "domain": "cbnu.ac.kr, chungbuk.ac.kr",
       "count": 6
     },
     {
