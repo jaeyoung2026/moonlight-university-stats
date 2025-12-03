@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T12:21:57+09:00",
-  "total_applications": 1111,
+  "updated_at": "2025-12-03T12:35:57+09:00",
+  "total_applications": 1112,
   "total_universities": 74,
   "excluded_personal_emails": 85,
   "data": [
@@ -12,15 +12,15 @@
     },
     {
       "rank": 2,
-      "university": "한양대학교",
-      "domain": "hanyang.ac.kr",
+      "university": "고려대학교",
+      "domain": "korea.ac.kr",
       "count": 88
     },
     {
-      "rank": 3,
-      "university": "고려대학교",
-      "domain": "korea.ac.kr",
-      "count": 87
+      "rank": 2,
+      "university": "한양대학교",
+      "domain": "hanyang.ac.kr",
+      "count": 88
     },
     {
       "rank": 4,
