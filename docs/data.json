@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-03T16:57:57+09:00",
-  "total_applications": 1237,
-  "total_universities": 79,
+  "updated_at": "2025-12-03T16:58:59+09:00",
+  "total_applications": 1238,
+  "total_universities": 80,
   "excluded_personal_emails": 96,
   "data": [
     {
@@ -368,6 +368,12 @@
       "rank": null,
       "university": "[미등록] chungbuk.ac.k",
       "domain": "chungbuk.ac.k",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] deu.ac.kr",
+      "domain": "deu.ac.kr",
       "count": 1
     },
     {
