@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-03T18:59:57+09:00",
-  "total_applications": 1297,
-  "total_universities": 79,
+  "updated_at": "2025-12-03T19:04:00+09:00",
+  "total_applications": 1299,
+  "total_universities": 80,
   "excluded_personal_emails": 100,
   "data": [
     {
@@ -68,7 +68,7 @@
       "rank": 11,
       "university": "경북대학교",
       "domain": "knu.ac.kr",
-      "count": 29
+      "count": 30
     },
     {
       "rank": 12,
@@ -369,6 +369,12 @@
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] hansung.ac.kr",
+      "domain": "hansung.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
