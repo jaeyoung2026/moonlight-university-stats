@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T20:16:57+09:00",
-  "total_applications": 1312,
+  "updated_at": "2025-12-03T20:17:56+09:00",
+  "total_applications": 1313,
   "total_universities": 81,
   "excluded_personal_emails": 102,
   "data": [
@@ -227,31 +227,31 @@
       "count": 6
     },
     {
-      "rank": 38,
+      "rank": 36,
+      "university": "서강대학교",
+      "domain": "sogang.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 39,
       "university": "계명대학교",
       "domain": "kmu.ac.kr, stu.kmu.ac.kr",
       "count": 5
     },
     {
-      "rank": 38,
-      "university": "서강대학교",
-      "domain": "sogang.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 38,
+      "rank": 39,
       "university": "충북대학교",
       "domain": "cbnu.ac.kr, chungbuk.ac.kr",
       "count": 5
     },
     {
-      "rank": 38,
+      "rank": 39,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 5
     },
     {
-      "rank": 38,
+      "rank": 39,
       "university": "홍익대학교",
       "domain": "g.hongik.ac.kr, hongik.ac.kr",
       "count": 5
@@ -372,12 +372,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] khcu.ac.kr",
-      "domain": "khcu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] office.hknu.ac.kr",
       "domain": "office.hknu.ac.kr",
       "count": 1
@@ -404,6 +398,12 @@
       "rank": null,
       "university": "경남대학교",
       "domain": "kyungnam.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "경희사이버대학교",
+      "domain": "khcu.ac.kr",
       "count": 1
     },
     {
