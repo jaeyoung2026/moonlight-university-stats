@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T17:20:56+09:00",
-  "total_applications": 1254,
+  "updated_at": "2025-12-03T17:21:56+09:00",
+  "total_applications": 1256,
   "total_universities": 80,
   "excluded_personal_emails": 97,
   "data": [
@@ -20,7 +20,7 @@
       "rank": 3,
       "university": "고려대학교",
       "domain": "korea.ac.kr",
-      "count": 92
+      "count": 93
     },
     {
       "rank": 4,
@@ -86,7 +86,7 @@
       "rank": 14,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
-      "count": 23
+      "count": 24
     },
     {
       "rank": 15,
