@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T23:09:59+09:00",
-  "total_applications": 1352,
+  "updated_at": "2025-12-03T23:11:58+09:00",
+  "total_applications": 1353,
   "total_universities": 81,
   "excluded_personal_emails": 105,
   "data": [
@@ -234,30 +234,30 @@
     },
     {
       "rank": 39,
+      "university": "UNIST",
+      "domain": "unist.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 39,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
     },
     {
-      "rank": 40,
-      "university": "UNIST",
-      "domain": "unist.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 40,
+      "rank": 41,
       "university": "계명대학교",
       "domain": "kmu.ac.kr, stu.kmu.ac.kr",
       "count": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 5
     },
     {
-      "rank": 40,
+      "rank": 41,
       "university": "홍익대학교",
       "domain": "g.hongik.ac.kr, hongik.ac.kr",
       "count": 5
