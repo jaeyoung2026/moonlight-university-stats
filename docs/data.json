@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T17:13:56+09:00",
-  "total_applications": 1252,
+  "updated_at": "2025-12-03T17:20:56+09:00",
+  "total_applications": 1254,
   "total_universities": 80,
   "excluded_personal_emails": 97,
   "data": [
@@ -86,7 +86,7 @@
       "rank": 14,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
-      "count": 22
+      "count": 23
     },
     {
       "rank": 15,
@@ -138,18 +138,18 @@
     },
     {
       "rank": 23,
+      "university": "POSTECH",
+      "domain": "postech.ac.kr",
+      "count": 13
+    },
+    {
+      "rank": 23,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
       "count": 13
     },
     {
-      "rank": 24,
-      "university": "POSTECH",
-      "domain": "postech.ac.kr",
-      "count": 12
-    },
-    {
-      "rank": 24,
+      "rank": 25,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
       "count": 12
