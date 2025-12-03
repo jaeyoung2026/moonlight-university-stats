@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T17:36:57+09:00",
-  "total_applications": 1273,
+  "updated_at": "2025-12-03T17:37:58+09:00",
+  "total_applications": 1274,
   "total_universities": 82,
   "excluded_personal_emails": 98,
   "data": [
@@ -300,66 +300,66 @@
     },
     {
       "rank": 47,
+      "university": "서울과학종합대학원대학교",
+      "domain": "stud.assist.ac.kr",
+      "count": 3
+    },
+    {
+      "rank": 47,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
       "count": 3
     },
     {
-      "rank": 51,
+      "rank": 52,
       "university": "가톨릭대학교",
       "domain": "catholic.ac.kr, cmcnu.or.kr",
       "count": 2
     },
     {
-      "rank": 51,
+      "rank": 52,
       "university": "대구가톨릭대학교",
       "domain": "cu.ac.kr",
       "count": 2
     },
     {
-      "rank": 51,
+      "rank": 52,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 2
     },
     {
-      "rank": 51,
+      "rank": 52,
       "university": "동국대학교",
       "domain": "dgu.ac.kr",
       "count": 2
     },
     {
-      "rank": 51,
-      "university": "서울과학종합대학원대학교",
-      "domain": "stud.assist.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 51,
+      "rank": 52,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
     },
     {
-      "rank": 51,
+      "rank": 52,
       "university": "전주대학교",
       "domain": "jj.ac.kr, jj.co.kr",
       "count": 2
     },
     {
-      "rank": 51,
+      "rank": 52,
       "university": "제주대학교",
       "domain": "stu.jejunu.ac.kr",
       "count": 2
     },
     {
-      "rank": 51,
+      "rank": 52,
       "university": "차의과학대학교",
       "domain": "chauniv.ac.kr",
       "count": 2
     },
     {
-      "rank": 51,
+      "rank": 52,
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
