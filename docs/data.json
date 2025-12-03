@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T14:50:57+09:00",
-  "total_applications": 1145,
+  "updated_at": "2025-12-03T14:51:56+09:00",
+  "total_applications": 1146,
   "total_universities": 74,
   "excluded_personal_emails": 86,
   "data": [
@@ -276,6 +276,12 @@
     },
     {
       "rank": 44,
+      "university": "동아대학교",
+      "domain": "dau.ac.kr, donga.ac.kr",
+      "count": 3
+    },
+    {
+      "rank": 44,
       "university": "상명대학교",
       "domain": "sangmyung.kr",
       "count": 3
@@ -293,67 +299,61 @@
       "count": 3
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "가톨릭대학교",
       "domain": "catholic.ac.kr, cmcnu.or.kr",
       "count": 2
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "대구가톨릭대학교",
       "domain": "cu.ac.kr",
       "count": 2
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 2
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "동국대학교",
       "domain": "dgu.ac.kr",
       "count": 2
     },
     {
-      "rank": 49,
-      "university": "동아대학교",
-      "domain": "dau.ac.kr, donga.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 49,
+      "rank": 50,
       "university": "서울과학종합대학원대학교",
       "domain": "stud.assist.ac.kr",
       "count": 2
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "전주대학교",
       "domain": "jj.ac.kr, jj.co.kr",
       "count": 2
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "제주대학교",
       "domain": "stu.jejunu.ac.kr",
       "count": 2
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "차의과학대학교",
       "domain": "chauniv.ac.kr",
       "count": 2
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
