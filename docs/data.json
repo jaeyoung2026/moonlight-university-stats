@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T16:36:57+09:00",
-  "total_applications": 1200,
+  "updated_at": "2025-12-03T16:37:57+09:00",
+  "total_applications": 1203,
   "total_universities": 76,
   "excluded_personal_emails": 88,
   "data": [
@@ -66,14 +66,14 @@
     },
     {
       "rank": 11,
-      "university": "경희대학교",
-      "domain": "khu.ac.kr",
-      "count": 24
-    },
-    {
-      "rank": 11,
       "university": "명지대학교",
       "domain": "mju.ac.kr",
+      "count": 25
+    },
+    {
+      "rank": 12,
+      "university": "경희대학교",
+      "domain": "khu.ac.kr",
       "count": 24
     },
     {
@@ -114,14 +114,14 @@
     },
     {
       "rank": 19,
-      "university": "국립부경대학교",
-      "domain": "pknu.ac.kr, pukyong.ac.kr",
-      "count": 16
-    },
-    {
-      "rank": 19,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
+      "count": 17
+    },
+    {
+      "rank": 20,
+      "university": "국립부경대학교",
+      "domain": "pknu.ac.kr, pukyong.ac.kr",
       "count": 16
     },
     {
@@ -180,26 +180,26 @@
     },
     {
       "rank": 30,
+      "university": "인천대학교",
+      "domain": "inu.ac.kr",
+      "count": 8
+    },
+    {
+      "rank": 30,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 8
     },
     {
-      "rank": 31,
+      "rank": 32,
       "university": "가천대학교",
       "domain": "gachon.ac.kr",
       "count": 7
     },
     {
-      "rank": 31,
+      "rank": 32,
       "university": "강원대학교",
       "domain": "kangwon.ac.kr",
-      "count": 7
-    },
-    {
-      "rank": 31,
-      "university": "인천대학교",
-      "domain": "inu.ac.kr",
       "count": 7
     },
     {
