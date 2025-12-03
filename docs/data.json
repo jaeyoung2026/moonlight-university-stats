@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T17:31:57+09:00",
-  "total_applications": 1266,
+  "updated_at": "2025-12-03T17:32:57+09:00",
+  "total_applications": 1268,
   "total_universities": 81,
   "excluded_personal_emails": 98,
   "data": [
@@ -26,7 +26,7 @@
       "rank": 4,
       "university": "서울대학교",
       "domain": "snu.ac.kr",
-      "count": 84
+      "count": 85
     },
     {
       "rank": 5,
@@ -179,15 +179,15 @@
       "count": 10
     },
     {
-      "rank": 30,
-      "university": "전북대학교",
-      "domain": "jbnu.ac.kr",
-      "count": 9
-    },
-    {
-      "rank": 30,
+      "rank": 28,
       "university": "조선대학교",
       "domain": "chosun.ac.kr, chosun.kr",
+      "count": 10
+    },
+    {
+      "rank": 31,
+      "university": "전북대학교",
+      "domain": "jbnu.ac.kr",
       "count": 9
     },
     {
