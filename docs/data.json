@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T20:53:56+09:00",
-  "total_applications": 1319,
+  "updated_at": "2025-12-03T20:55:57+09:00",
+  "total_applications": 1320,
   "total_universities": 81,
   "excluded_personal_emails": 103,
   "data": [
@@ -113,10 +113,10 @@
       "count": 20
     },
     {
-      "rank": 19,
+      "rank": 18,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
-      "count": 19
+      "count": 20
     },
     {
       "rank": 20,
