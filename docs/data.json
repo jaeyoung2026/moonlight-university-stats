@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-03T17:24:57+09:00",
-  "total_applications": 1258,
-  "total_universities": 80,
+  "updated_at": "2025-12-03T17:26:57+09:00",
+  "total_applications": 1260,
+  "total_universities": 81,
   "excluded_personal_emails": 97,
   "data": [
     {
@@ -44,7 +44,7 @@
       "rank": 7,
       "university": "연세대학교",
       "domain": "o365.yonsei.ac.kr, yonsei.ac.kr, yuhs.ac",
-      "count": 64
+      "count": 65
     },
     {
       "rank": 8,
@@ -392,6 +392,12 @@
       "rank": null,
       "university": "[미등록] mail.ulsan.ac.kr",
       "domain": "mail.ulsan.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] yopmail.com",
+      "domain": "yopmail.com",
       "count": 1
     },
     {
