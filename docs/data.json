@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-12-03T17:41:57+09:00",
+  "updated_at": "2025-12-03T17:42:56+09:00",
   "total_applications": 1277,
-  "total_universities": 82,
-  "excluded_personal_emails": 98,
+  "total_universities": 81,
+  "excluded_personal_emails": 99,
   "data": [
     {
       "rank": 1,
@@ -240,42 +240,42 @@
     },
     {
       "rank": 38,
+      "university": "충북대학교",
+      "domain": "cbnu.ac.kr, chungbuk.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 38,
       "university": "홍익대학교",
       "domain": "g.hongik.ac.kr, hongik.ac.kr",
       "count": 5
     },
     {
-      "rank": 41,
+      "rank": 42,
       "university": "UNIST",
       "domain": "unist.ac.kr",
       "count": 4
     },
     {
-      "rank": 41,
+      "rank": 42,
       "university": "경기대학교",
       "domain": "kyonggi.ac.kr",
       "count": 4
     },
     {
-      "rank": 41,
+      "rank": 42,
       "university": "국립금오공과대학교",
       "domain": "kumoh.ac.kr",
       "count": 4
     },
     {
-      "rank": 41,
+      "rank": 42,
       "university": "동아대학교",
       "domain": "dau.ac.kr, donga.ac.kr",
       "count": 4
     },
     {
-      "rank": 41,
-      "university": "충북대학교",
-      "domain": "cbnu.ac.kr, chungbuk.ac.kr",
-      "count": 4
-    },
-    {
-      "rank": 41,
+      "rank": 42,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 4
@@ -363,12 +363,6 @@
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] chungbuk.ac.k",
-      "domain": "chungbuk.ac.k",
-      "count": 1
     },
     {
       "rank": null,
