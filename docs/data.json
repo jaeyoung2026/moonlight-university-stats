@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-03T14:03:57+09:00",
+  "updated_at": "2025-12-03T14:04:57+09:00",
   "total_applications": 1140,
   "total_universities": 74,
   "excluded_personal_emails": 85,
@@ -360,12 +360,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] kumoh.ac.kr",
-      "domain": "kumoh.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "DGIST",
       "domain": "dgist.ac.kr",
       "count": 1
@@ -386,6 +380,12 @@
       "rank": null,
       "university": "경남대학교",
       "domain": "kyungnam.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "국립금오공과대학교",
+      "domain": "kumoh.ac.kr",
       "count": 1
     },
     {
