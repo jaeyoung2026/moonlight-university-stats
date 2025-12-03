@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T15:30:57+09:00",
-  "total_applications": 1162,
+  "updated_at": "2025-12-03T15:31:56+09:00",
+  "total_applications": 1165,
   "total_universities": 75,
   "excluded_personal_emails": 86,
   "data": [
@@ -258,6 +258,12 @@
     },
     {
       "rank": 41,
+      "university": "국립금오공과대학교",
+      "domain": "kumoh.ac.kr",
+      "count": 4
+    },
+    {
+      "rank": 41,
       "university": "동아대학교",
       "domain": "dau.ac.kr, donga.ac.kr",
       "count": 4
@@ -269,91 +275,91 @@
       "count": 4
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "경성대학교",
       "domain": "ks.ac.kr, kyungsung.ac.kr",
       "count": 3
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "광운대학교",
       "domain": "kw.ac.kr",
       "count": 3
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "상명대학교",
       "domain": "sangmyung.kr",
       "count": 3
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
       "count": 3
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "충북대학교",
       "domain": "chungbuk.ac.kr",
       "count": 3
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "가톨릭대학교",
       "domain": "catholic.ac.kr, cmcnu.or.kr",
       "count": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "대구가톨릭대학교",
       "domain": "cu.ac.kr",
       "count": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "동국대학교",
       "domain": "dgu.ac.kr",
       "count": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "서울과학종합대학원대학교",
       "domain": "stud.assist.ac.kr",
       "count": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "전주대학교",
       "domain": "jj.ac.kr, jj.co.kr",
       "count": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "제주대학교",
       "domain": "stu.jejunu.ac.kr",
       "count": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "차의과학대학교",
       "domain": "chauniv.ac.kr",
       "count": 2
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
@@ -386,12 +392,6 @@
       "rank": null,
       "university": "경남대학교",
       "domain": "kyungnam.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "국립금오공과대학교",
-      "domain": "kumoh.ac.kr",
       "count": 1
     },
     {
