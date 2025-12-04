@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T18:16:57+09:00",
-  "total_applications": 1613,
+  "updated_at": "2025-12-04T18:18:57+09:00",
+  "total_applications": 1614,
   "total_universities": 92,
   "excluded_personal_emails": 123,
   "data": [
@@ -150,14 +150,14 @@
     },
     {
       "rank": 25,
-      "university": "숙명여자대학교",
-      "domain": "sookmyung.ac.kr",
-      "count": 16
-    },
-    {
-      "rank": 25,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr, ssu.ac.kr, ssu.com",
+      "count": 17
+    },
+    {
+      "rank": 26,
+      "university": "숙명여자대학교",
+      "domain": "sookmyung.ac.kr",
       "count": 16
     },
     {
