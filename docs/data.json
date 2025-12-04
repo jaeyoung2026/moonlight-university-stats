@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T21:22:59+09:00",
-  "total_applications": 1646,
+  "updated_at": "2025-12-04T21:24:00+09:00",
+  "total_applications": 1647,
   "total_universities": 92,
   "excluded_personal_emails": 126,
   "data": [
@@ -210,15 +210,15 @@
     },
     {
       "rank": 35,
-      "university": "충북대학교",
-      "domain": "cbnu.ac.kr, chungbuk.ac.kr",
+      "university": "UNIST",
+      "domain": "unist.ac.kr",
       "count": 10
     },
     {
-      "rank": 36,
-      "university": "UNIST",
-      "domain": "unist.ac.kr",
-      "count": 9
+      "rank": 35,
+      "university": "충북대학교",
+      "domain": "cbnu.ac.kr, chungbuk.ac.kr",
+      "count": 10
     },
     {
       "rank": 37,
