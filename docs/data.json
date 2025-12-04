@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T17:53:57+09:00",
-  "total_applications": 1600,
+  "updated_at": "2025-12-04T17:54:58+09:00",
+  "total_applications": 1603,
   "total_universities": 92,
   "excluded_personal_emails": 121,
   "data": [
@@ -38,7 +38,7 @@
       "rank": 6,
       "university": "중앙대학교",
       "domain": "cau.ac.kr",
-      "count": 82
+      "count": 84
     },
     {
       "rank": 7,
@@ -143,10 +143,10 @@
       "count": 19
     },
     {
-      "rank": 24,
+      "rank": 23,
       "university": "국립부경대학교",
       "domain": "pknu.ac.kr, pukyong.ac.kr",
-      "count": 18
+      "count": 19
     },
     {
       "rank": 25,
