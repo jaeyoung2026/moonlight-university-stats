@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-05T08:21:56+09:00",
-  "total_applications": 1673,
-  "total_universities": 94,
+  "updated_at": "2025-12-05T08:35:58+09:00",
+  "total_applications": 1672,
+  "total_universities": 93,
   "excluded_personal_emails": 127,
   "data": [
     {
@@ -422,12 +422,6 @@
       "rank": null,
       "university": "[미등록] psotech.ac.kr",
       "domain": "psotech.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] 약대",
-      "domain": "약대",
       "count": 1
     },
     {
