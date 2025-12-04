@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-04T13:51:56+09:00",
-  "total_applications": 1463,
-  "total_universities": 85,
+  "updated_at": "2025-12-04T13:53:57+09:00",
+  "total_applications": 1466,
+  "total_universities": 86,
   "excluded_personal_emails": 113,
   "data": [
     {
@@ -41,10 +41,10 @@
       "count": 76
     },
     {
-      "rank": 7,
+      "rank": 6,
       "university": "연세대학교",
       "domain": "o365.yonsei.ac.kr, yonsei.ac.kr, yuhs.ac",
-      "count": 75
+      "count": 76
     },
     {
       "rank": 8,
@@ -62,7 +62,7 @@
       "rank": 10,
       "university": "KAIST",
       "domain": "kaist.ac.kr",
-      "count": 40
+      "count": 41
     },
     {
       "rank": 11,
@@ -392,6 +392,12 @@
       "rank": null,
       "university": "[미등록] mokpo.ac.kr",
       "domain": "mokpo.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] vision.hoseo.edu",
+      "domain": "vision.hoseo.edu",
       "count": 1
     },
     {
