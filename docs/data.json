@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-04T13:05:00+09:00",
-  "total_applications": 1449,
-  "total_universities": 84,
+  "updated_at": "2025-12-04T13:13:57+09:00",
+  "total_applications": 1450,
+  "total_universities": 85,
   "excluded_personal_emails": 113,
   "data": [
     {
@@ -392,6 +392,12 @@
       "rank": null,
       "university": "[미등록] mokpo.ac.kr",
       "domain": "mokpo.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] yonsei.ac.rk",
+      "domain": "yonsei.ac.rk",
       "count": 1
     },
     {
