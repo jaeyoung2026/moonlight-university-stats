@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-04T11:37:57+09:00",
+  "updated_at": "2025-12-04T11:44:56+09:00",
   "total_applications": 1433,
   "total_universities": 84,
   "excluded_personal_emails": 110,
@@ -84,15 +84,15 @@
     },
     {
       "rank": 14,
-      "university": "명지대학교",
-      "domain": "mju.ac.kr",
+      "university": "POSTECH",
+      "domain": "postech.ac.kr",
       "count": 30
     },
     {
-      "rank": 15,
-      "university": "POSTECH",
-      "domain": "postech.ac.kr",
-      "count": 29
+      "rank": 14,
+      "university": "명지대학교",
+      "domain": "mju.ac.kr",
+      "count": 30
     },
     {
       "rank": 16,
@@ -216,12 +216,6 @@
     },
     {
       "rank": 36,
-      "university": "UNIST",
-      "domain": "unist.ac.kr",
-      "count": 8
-    },
-    {
-      "rank": 36,
       "university": "강원대학교",
       "domain": "kangwon.ac.kr",
       "count": 8
@@ -233,13 +227,19 @@
       "count": 8
     },
     {
-      "rank": 39,
+      "rank": 38,
+      "university": "UNIST",
+      "domain": "unist.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 38,
       "university": "서강대학교",
       "domain": "sogang.ac.kr",
       "count": 7
     },
     {
-      "rank": 39,
+      "rank": 38,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 7
