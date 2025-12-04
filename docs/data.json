@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T14:35:56+09:00",
-  "total_applications": 1487,
+  "updated_at": "2025-12-04T14:36:57+09:00",
+  "total_applications": 1488,
   "total_universities": 87,
   "excluded_personal_emails": 113,
   "data": [
@@ -38,7 +38,7 @@
       "rank": 6,
       "university": "연세대학교",
       "domain": "o365.yonsei.ac.kr, yonsei.ac.kr, yuhs.ac",
-      "count": 77
+      "count": 78
     },
     {
       "rank": 7,
@@ -542,7 +542,7 @@
     },
     {
       "id": "notice3",
-      "text": "🎉 연세대, 성균관대 목표 달성을 축하합니다!"
+      "text": "🎉 세종대학교 목표 달성을 축하합니다!"
     },
     {
       "id": "achieve_title",
