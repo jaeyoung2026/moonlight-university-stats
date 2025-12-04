@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T16:14:57+09:00",
-  "total_applications": 1542,
+  "updated_at": "2025-12-04T16:16:57+09:00",
+  "total_applications": 1543,
   "total_universities": 89,
   "excluded_personal_emails": 115,
   "data": [
@@ -140,10 +140,10 @@
       "rank": 23,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
-      "count": 18
+      "count": 19
     },
     {
-      "rank": 23,
+      "rank": 24,
       "university": "국립부경대학교",
       "domain": "pknu.ac.kr, pukyong.ac.kr",
       "count": 18
