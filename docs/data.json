@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T12:53:57+09:00",
-  "total_applications": 1445,
+  "updated_at": "2025-12-04T12:56:57+09:00",
+  "total_applications": 1447,
   "total_universities": 84,
   "excluded_personal_emails": 113,
   "data": [
@@ -56,7 +56,7 @@
       "rank": 9,
       "university": "세종대학교",
       "domain": "sejong.ac.kr, sju.ac.kr",
-      "count": 50
+      "count": 51
     },
     {
       "rank": 10,
@@ -132,14 +132,14 @@
     },
     {
       "rank": 22,
-      "university": "건국대학교",
-      "domain": "konkuk.ac.kr",
-      "count": 17
-    },
-    {
-      "rank": 22,
       "university": "국립부경대학교",
       "domain": "pknu.ac.kr, pukyong.ac.kr",
+      "count": 18
+    },
+    {
+      "rank": 23,
+      "university": "건국대학교",
+      "domain": "konkuk.ac.kr",
       "count": 17
     },
     {
