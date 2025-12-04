@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T17:14:01+09:00",
-  "total_applications": 1571,
+  "updated_at": "2025-12-04T17:16:57+09:00",
+  "total_applications": 1572,
   "total_universities": 91,
   "excluded_personal_emails": 117,
   "data": [
@@ -104,7 +104,7 @@
       "rank": 17,
       "university": "전남대학교",
       "domain": "jnu.ac.kr",
-      "count": 25
+      "count": 26
     },
     {
       "rank": 18,
