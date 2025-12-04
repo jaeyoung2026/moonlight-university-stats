@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T18:40:57+09:00",
-  "total_applications": 1622,
+  "updated_at": "2025-12-04T18:41:57+09:00",
+  "total_applications": 1623,
   "total_universities": 91,
   "excluded_personal_emails": 124,
   "data": [
@@ -119,10 +119,10 @@
       "count": 24
     },
     {
-      "rank": 20,
+      "rank": 18,
       "university": "한국항공대학교",
       "domain": "kau.kr",
-      "count": 23
+      "count": 24
     },
     {
       "rank": 21,
@@ -574,7 +574,7 @@
     },
     {
       "id": "achieve_title2",
-      "text": "🎉 목표 달성을 축하합니다!"
+      "text": "🎉 10개의 대학이 목표를 달성했습니다!"
     },
     {
       "id": "share_text",
