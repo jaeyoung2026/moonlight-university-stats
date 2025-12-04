@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T11:50:57+09:00",
-  "total_applications": 1431,
+  "updated_at": "2025-12-04T11:59:57+09:00",
+  "total_applications": 1432,
   "total_universities": 84,
   "excluded_personal_emails": 110,
   "data": [
@@ -137,15 +137,15 @@
       "count": 17
     },
     {
-      "rank": 23,
-      "university": "숙명여자대학교",
-      "domain": "sookmyung.ac.kr",
-      "count": 16
-    },
-    {
-      "rank": 23,
+      "rank": 21,
       "university": "한국항공대학교",
       "domain": "kau.kr",
+      "count": 17
+    },
+    {
+      "rank": 24,
+      "university": "숙명여자대학교",
+      "domain": "sookmyung.ac.kr",
       "count": 16
     },
     {
@@ -568,7 +568,7 @@
     },
     {
       "id": "성균관대학교",
-      "text": "🎉 목표 달성을 축하합니다!"
+      "text": "🚀 학생회로 제안메일 발송완료!"
     }
   ]
 }
