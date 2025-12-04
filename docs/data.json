@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-04T14:58:56+09:00",
+  "updated_at": "2025-12-04T15:00:57+09:00",
   "total_applications": 1497,
-  "total_universities": 88,
+  "total_universities": 87,
   "excluded_personal_emails": 114,
   "data": [
     {
@@ -378,6 +378,12 @@
     },
     {
       "rank": 56,
+      "university": "창원대학교",
+      "domain": "changwon.ac.kr, gs.cwnu.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 56,
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
@@ -387,12 +393,6 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] gs.cwnu.ac.kr",
-      "domain": "gs.cwnu.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
@@ -410,12 +410,6 @@
       "rank": null,
       "university": "[미등록] sch.ac.kr",
       "domain": "sch.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] vision.hoseo.edu",
-      "domain": "vision.hoseo.edu",
       "count": 1
     },
     {
@@ -486,12 +480,6 @@
     },
     {
       "rank": null,
-      "university": "창원대학교",
-      "domain": "changwon.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "한경국립대학교",
       "domain": "office.hknu.ac.kr",
       "count": 1
@@ -530,6 +518,12 @@
       "rank": null,
       "university": "협성대학교",
       "domain": "office.uhs.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "호서대학교",
+      "domain": "vision.hoseo.edu",
       "count": 1
     }
   ],
