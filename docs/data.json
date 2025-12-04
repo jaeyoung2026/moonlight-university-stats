@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T09:44:56+09:00",
-  "total_applications": 1397,
+  "updated_at": "2025-12-04T09:47:57+09:00",
+  "total_applications": 1398,
   "total_universities": 82,
   "excluded_personal_emails": 107,
   "data": [
@@ -44,7 +44,7 @@
       "rank": 7,
       "university": "연세대학교",
       "domain": "o365.yonsei.ac.kr, yonsei.ac.kr, yuhs.ac",
-      "count": 73
+      "count": 74
     },
     {
       "rank": 8,
