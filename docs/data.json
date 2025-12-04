@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T12:05:56+09:00",
-  "total_applications": 1434,
+  "updated_at": "2025-12-04T12:07:56+09:00",
+  "total_applications": 1435,
   "total_universities": 84,
   "excluded_personal_emails": 111,
   "data": [
@@ -126,20 +126,20 @@
     },
     {
       "rank": 21,
+      "university": "한국항공대학교",
+      "domain": "kau.kr",
+      "count": 18
+    },
+    {
+      "rank": 22,
       "university": "건국대학교",
       "domain": "konkuk.ac.kr",
       "count": 17
     },
     {
-      "rank": 21,
+      "rank": 22,
       "university": "국립부경대학교",
       "domain": "pknu.ac.kr, pukyong.ac.kr",
-      "count": 17
-    },
-    {
-      "rank": 21,
-      "university": "한국항공대학교",
-      "domain": "kau.kr",
       "count": 17
     },
     {
