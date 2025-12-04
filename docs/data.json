@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-04T13:55:56+09:00",
+  "updated_at": "2025-12-04T13:56:57+09:00",
   "total_applications": 1468,
-  "total_universities": 86,
+  "total_universities": 85,
   "excluded_personal_emails": 113,
   "data": [
     {
@@ -32,7 +32,7 @@
       "rank": 5,
       "university": "성균관대학교",
       "domain": "g.skku.edu, o.skku.edu, skku.edu",
-      "count": 90
+      "count": 91
     },
     {
       "rank": 6,
@@ -384,18 +384,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] g.ssku.edu",
-      "domain": "g.ssku.edu",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] mokpo.ac.kr",
-      "domain": "mokpo.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] vision.hoseo.edu",
       "domain": "vision.hoseo.edu",
       "count": 1
@@ -452,6 +440,12 @@
       "rank": null,
       "university": "동의대학교",
       "domain": "deu.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "목포대학교",
+      "domain": "mokpo.ac.kr",
       "count": 1
     },
     {
