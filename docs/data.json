@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T13:37:56+09:00",
-  "total_applications": 1458,
+  "updated_at": "2025-12-04T13:42:21+09:00",
+  "total_applications": 1459,
   "total_universities": 85,
   "excluded_personal_emails": 113,
   "data": [
@@ -56,7 +56,7 @@
       "rank": 9,
       "university": "세종대학교",
       "domain": "sejong.ac.kr, sju.ac.kr",
-      "count": 51
+      "count": 52
     },
     {
       "rank": 10,
