@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T14:41:56+09:00",
-  "total_applications": 1490,
+  "updated_at": "2025-12-04T14:44:56+09:00",
+  "total_applications": 1493,
   "total_universities": 87,
   "excluded_personal_emails": 113,
   "data": [
@@ -14,7 +14,7 @@
       "rank": 2,
       "university": "한양대학교",
       "domain": "hanyang.ac.kr",
-      "count": 109
+      "count": 110
     },
     {
       "rank": 3,
@@ -80,10 +80,10 @@
       "rank": 13,
       "university": "POSTECH",
       "domain": "postech.ac.kr",
-      "count": 31
+      "count": 32
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
       "count": 31
@@ -174,6 +174,12 @@
     },
     {
       "rank": 29,
+      "university": "가톨릭대학교",
+      "domain": "catholic.ac.kr, cmcnu.or.kr",
+      "count": 12
+    },
+    {
+      "rank": 29,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr, ssu.com",
       "count": 12
@@ -191,15 +197,9 @@
       "count": 12
     },
     {
-      "rank": 32,
+      "rank": 33,
       "university": "가천대학교",
       "domain": "gachon.ac.kr",
-      "count": 11
-    },
-    {
-      "rank": 32,
-      "university": "가톨릭대학교",
-      "domain": "catholic.ac.kr, cmcnu.or.kr",
       "count": 11
     },
     {
