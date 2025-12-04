@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-04T22:23:58+09:00",
-  "total_applications": 1655,
-  "total_universities": 92,
+  "updated_at": "2025-12-04T22:30:57+09:00",
+  "total_applications": 1656,
+  "total_universities": 93,
   "excluded_personal_emails": 126,
   "data": [
     {
@@ -411,6 +411,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] mail.ube.ac.kr",
+      "domain": "mail.ube.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
