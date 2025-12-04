@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T17:33:57+09:00",
-  "total_applications": 1578,
+  "updated_at": "2025-12-04T17:34:57+09:00",
+  "total_applications": 1579,
   "total_universities": 91,
   "excluded_personal_emails": 117,
   "data": [
@@ -126,14 +126,14 @@
     },
     {
       "rank": 21,
-      "university": "서울시립대학교",
-      "domain": "uos.ac.kr",
-      "count": 20
-    },
-    {
-      "rank": 21,
       "university": "한국항공대학교",
       "domain": "kau.kr",
+      "count": 21
+    },
+    {
+      "rank": 22,
+      "university": "서울시립대학교",
+      "domain": "uos.ac.kr",
       "count": 20
     },
     {
