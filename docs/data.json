@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-04T15:01:56+09:00",
+  "updated_at": "2025-12-04T15:02:57+09:00",
   "total_applications": 1498,
   "total_universities": 87,
   "excluded_personal_emails": 114,
@@ -396,12 +396,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] handong.ac.kr",
-      "domain": "handong.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] sch.ac.kr",
       "domain": "sch.ac.kr",
       "count": 1
@@ -506,6 +500,12 @@
       "rank": null,
       "university": "한국해양대학교",
       "domain": "g.kmou.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "한동대학교",
+      "domain": "handong.ac.kr",
       "count": 1
     },
     {
