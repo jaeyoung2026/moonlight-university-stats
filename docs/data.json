@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-04T16:51:15+09:00",
-  "total_applications": 1567,
-  "total_universities": 89,
+  "updated_at": "2025-12-04T16:56:57+09:00",
+  "total_applications": 1568,
+  "total_universities": 90,
   "excluded_personal_emails": 116,
   "data": [
     {
@@ -405,6 +405,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] kunsan.ac.kr",
+      "domain": "kunsan.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
