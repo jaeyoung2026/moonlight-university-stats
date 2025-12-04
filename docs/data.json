@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T09:59:57+09:00",
-  "total_applications": 1403,
+  "updated_at": "2025-12-04T10:02:57+09:00",
+  "total_applications": 1404,
   "total_universities": 82,
   "excluded_personal_emails": 108,
   "data": [
@@ -156,20 +156,20 @@
     },
     {
       "rank": 26,
+      "university": "서울시립대학교",
+      "domain": "uos.ac.kr",
+      "count": 14
+    },
+    {
+      "rank": 27,
       "university": "국립공주대학교",
       "domain": "kongju.ac.kr, smail.kongju.ac.kr",
       "count": 13
     },
     {
-      "rank": 26,
+      "rank": 27,
       "university": "서울과학기술대학교",
       "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
-      "count": 13
-    },
-    {
-      "rank": 26,
-      "university": "서울시립대학교",
-      "domain": "uos.ac.kr",
       "count": 13
     },
     {
