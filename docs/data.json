@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-04T18:38:57+09:00",
+  "updated_at": "2025-12-04T18:40:57+09:00",
   "total_applications": 1622,
   "total_universities": 91,
   "excluded_personal_emails": 124,
@@ -414,18 +414,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] gm.hannam.ac.kr",
-      "domain": "gm.hannam.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] kunsan.ac.kr",
-      "domain": "kunsan.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "KENTECH",
       "domain": "kentech.ac.kr",
       "count": 1
@@ -458,6 +446,12 @@
       "rank": null,
       "university": "국립한밭대학교",
       "domain": "hanbat.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "군산대학교",
+      "domain": "kunsan.ac.kr",
       "count": 1
     },
     {
@@ -524,6 +518,12 @@
       "rank": null,
       "university": "한국전통문화대학교",
       "domain": "knuh.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "한남대학교",
+      "domain": "gm.hannam.ac.kr",
       "count": 1
     },
     {
