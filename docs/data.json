@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-12-04T15:17:56+09:00",
-  "total_applications": 1510,
-  "total_universities": 88,
-  "excluded_personal_emails": 114,
+  "updated_at": "2025-12-04T15:18:57+09:00",
+  "total_applications": 1511,
+  "total_universities": 87,
+  "excluded_personal_emails": 115,
   "data": [
     {
       "rank": 1,
@@ -174,38 +174,38 @@
     },
     {
       "rank": 27,
+      "university": "숭실대학교",
+      "domain": "soongsil.ac.kr, ssu.ac.kr, ssu.com",
+      "count": 13
+    },
+    {
+      "rank": 27,
       "university": "인천대학교",
       "domain": "inu.ac.kr",
       "count": 13
     },
     {
-      "rank": 30,
+      "rank": 31,
       "university": "가톨릭대학교",
       "domain": "catholic.ac.kr, cmcnu.or.kr",
       "count": 12
     },
     {
-      "rank": 30,
-      "university": "숭실대학교",
-      "domain": "soongsil.ac.kr, ssu.com",
-      "count": 12
-    },
-    {
-      "rank": 30,
+      "rank": 31,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 12
     },
     {
-      "rank": 33,
-      "university": "가천대학교",
-      "domain": "gachon.ac.kr",
-      "count": 11
-    },
-    {
-      "rank": 33,
+      "rank": 31,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
+      "count": 12
+    },
+    {
+      "rank": 34,
+      "university": "가천대학교",
+      "domain": "gachon.ac.kr",
       "count": 11
     },
     {
@@ -402,18 +402,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] sch.ac.kr",
-      "domain": "sch.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] ssu.ac.kr",
-      "domain": "ssu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "가톨릭관동대학교",
       "domain": "cku.ac.kr",
       "count": 1
@@ -476,6 +464,12 @@
       "rank": null,
       "university": "수원대학교",
       "domain": "suwon.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "순천향대학교",
+      "domain": "sch.ac.kr",
       "count": 1
     },
     {
