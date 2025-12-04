@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-04T14:52:57+09:00",
-  "total_applications": 1495,
-  "total_universities": 87,
+  "updated_at": "2025-12-04T14:53:56+09:00",
+  "total_applications": 1496,
+  "total_universities": 88,
   "excluded_personal_emails": 113,
   "data": [
     {
@@ -381,6 +381,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] gs.cwnu.ac.kr",
+      "domain": "gs.cwnu.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
