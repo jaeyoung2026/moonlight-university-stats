@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T15:43:57+09:00",
-  "total_applications": 1524,
+  "updated_at": "2025-12-04T15:45:10+09:00",
+  "total_applications": 1526,
   "total_universities": 88,
   "excluded_personal_emails": 115,
   "data": [
@@ -56,7 +56,7 @@
       "rank": 9,
       "university": "세종대학교",
       "domain": "sejong.ac.kr, sju.ac.kr",
-      "count": 52
+      "count": 53
     },
     {
       "rank": 10,
@@ -83,13 +83,13 @@
       "count": 32
     },
     {
-      "rank": 14,
+      "rank": 13,
       "university": "명지대학교",
       "domain": "mju.ac.kr",
-      "count": 31
+      "count": 32
     },
     {
-      "rank": 14,
+      "rank": 15,
       "university": "인하대학교",
       "domain": "inha.edu, office.inha.ac.kr",
       "count": 31
