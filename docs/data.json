@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T10:28:56+09:00",
-  "total_applications": 1414,
+  "updated_at": "2025-12-04T10:30:00+09:00",
+  "total_applications": 1417,
   "total_universities": 83,
   "excluded_personal_emails": 109,
   "data": [
@@ -62,7 +62,7 @@
       "rank": 10,
       "university": "KAIST",
       "domain": "kaist.ac.kr",
-      "count": 38
+      "count": 39
     },
     {
       "rank": 11,
@@ -84,15 +84,15 @@
     },
     {
       "rank": 14,
-      "university": "인하대학교",
-      "domain": "inha.edu, office.inha.ac.kr",
+      "university": "POSTECH",
+      "domain": "postech.ac.kr",
       "count": 28
     },
     {
-      "rank": 15,
-      "university": "POSTECH",
-      "domain": "postech.ac.kr",
-      "count": 27
+      "rank": 14,
+      "university": "인하대학교",
+      "domain": "inha.edu, office.inha.ac.kr",
+      "count": 28
     },
     {
       "rank": 16,
@@ -198,6 +198,12 @@
     },
     {
       "rank": 32,
+      "university": "가톨릭대학교",
+      "domain": "catholic.ac.kr, cmcnu.or.kr",
+      "count": 9
+    },
+    {
+      "rank": 32,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 9
@@ -209,19 +215,13 @@
       "count": 9
     },
     {
-      "rank": 35,
-      "university": "가톨릭대학교",
-      "domain": "catholic.ac.kr, cmcnu.or.kr",
-      "count": 8
-    },
-    {
-      "rank": 35,
+      "rank": 36,
       "university": "강원대학교",
       "domain": "kangwon.ac.kr",
       "count": 8
     },
     {
-      "rank": 35,
+      "rank": 36,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
       "count": 8
