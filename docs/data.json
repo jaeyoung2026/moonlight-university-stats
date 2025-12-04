@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T09:57:56+09:00",
-  "total_applications": 1402,
+  "updated_at": "2025-12-04T09:59:57+09:00",
+  "total_applications": 1403,
   "total_universities": 82,
   "excluded_personal_emails": 108,
   "data": [
@@ -330,6 +330,12 @@
     },
     {
       "rank": 55,
+      "university": "DGIST",
+      "domain": "dgist.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 55,
       "university": "대구가톨릭대학교",
       "domain": "cu.ac.kr",
       "count": 2
@@ -375,12 +381,6 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "DGIST",
-      "domain": "dgist.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
