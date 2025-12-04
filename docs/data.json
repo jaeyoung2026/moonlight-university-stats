@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T16:20:59+09:00",
-  "total_applications": 1547,
+  "updated_at": "2025-12-04T16:22:58+09:00",
+  "total_applications": 1548,
   "total_universities": 89,
   "excluded_personal_emails": 115,
   "data": [
@@ -98,7 +98,7 @@
       "rank": 16,
       "university": "GIST",
       "domain": "gm.gist.ac.kr",
-      "count": 30
+      "count": 31
     },
     {
       "rank": 17,
@@ -402,12 +402,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] koreatech.ac.kr",
-      "domain": "koreatech.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "KENTECH",
       "domain": "kentech.ac.kr",
       "count": 1
@@ -500,6 +494,12 @@
       "rank": null,
       "university": "한국교통대학교",
       "domain": "ut.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "한국기술교육대학교",
+      "domain": "koreatech.ac.kr",
       "count": 1
     },
     {
