@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T23:20:56+09:00",
-  "total_applications": 1661,
+  "updated_at": "2025-12-04T23:46:58+09:00",
+  "total_applications": 1662,
   "total_universities": 93,
   "excluded_personal_emails": 126,
   "data": [
@@ -120,15 +120,15 @@
     },
     {
       "rank": 20,
-      "university": "한국항공대학교",
-      "domain": "kau.kr",
+      "university": "경상국립대학교",
+      "domain": "gnu.ac.kr",
       "count": 24
     },
     {
-      "rank": 21,
-      "university": "경상국립대학교",
-      "domain": "gnu.ac.kr",
-      "count": 23
+      "rank": 20,
+      "university": "한국항공대학교",
+      "domain": "kau.kr",
+      "count": 24
     },
     {
       "rank": 22,
