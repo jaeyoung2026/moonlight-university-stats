@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-04T18:46:57+09:00",
+  "updated_at": "2025-12-04T18:51:57+09:00",
   "total_applications": 1624,
-  "total_universities": 91,
+  "total_universities": 92,
   "excluded_personal_emails": 124,
   "data": [
     {
@@ -26,7 +26,7 @@
       "rank": 4,
       "university": "서울대학교",
       "domain": "snu.ac.kr",
-      "count": 103
+      "count": 102
     },
     {
       "rank": 5,
@@ -411,6 +411,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] 약대",
+      "domain": "약대",
+      "count": 1
     },
     {
       "rank": null,
