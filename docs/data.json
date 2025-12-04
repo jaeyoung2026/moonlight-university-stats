@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-04T14:10:57+09:00",
-  "total_applications": 1477,
-  "total_universities": 86,
+  "updated_at": "2025-12-04T14:15:56+09:00",
+  "total_applications": 1478,
+  "total_universities": 87,
   "excluded_personal_emails": 113,
   "data": [
     {
@@ -386,6 +386,12 @@
       "rank": null,
       "university": "[미등록] hanbat.ac.kr",
       "domain": "hanbat.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] handong.ac.kr",
+      "domain": "handong.ac.kr",
       "count": 1
     },
     {
