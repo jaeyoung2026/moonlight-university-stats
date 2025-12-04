@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05T07:14:57+09:00",
-  "total_applications": 1672,
+  "updated_at": "2025-12-05T08:21:56+09:00",
+  "total_applications": 1673,
   "total_universities": 94,
   "excluded_personal_emails": 127,
   "data": [
@@ -257,33 +257,33 @@
       "count": 6
     },
     {
-      "rank": 43,
+      "rank": 41,
+      "university": "홍익대학교",
+      "domain": "g.hongik.ac.kr, hongik.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 44,
       "university": "계명대학교",
       "domain": "kmu.ac.kr, stu.kmu.ac.kr",
       "count": 5
     },
     {
-      "rank": 43,
+      "rank": 44,
       "university": "국립금오공과대학교",
       "domain": "kumoh.ac.kr",
       "count": 5
     },
     {
-      "rank": 43,
+      "rank": 44,
       "university": "서울과학종합대학원대학교",
       "domain": "stud.assist.ac.kr",
       "count": 5
     },
     {
-      "rank": 43,
+      "rank": 44,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 43,
-      "university": "홍익대학교",
-      "domain": "g.hongik.ac.kr, hongik.ac.kr",
       "count": 5
     },
     {
