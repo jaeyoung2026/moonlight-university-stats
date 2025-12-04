@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-04T13:56:57+09:00",
-  "total_applications": 1468,
+  "updated_at": "2025-12-04T13:58:06+09:00",
+  "total_applications": 1469,
   "total_universities": 85,
   "excluded_personal_emails": 113,
   "data": [
@@ -36,14 +36,14 @@
     },
     {
       "rank": 6,
-      "university": "성신여자대학교",
-      "domain": "sungshin.ac.kr",
-      "count": 76
-    },
-    {
-      "rank": 6,
       "university": "연세대학교",
       "domain": "o365.yonsei.ac.kr, yonsei.ac.kr, yuhs.ac",
+      "count": 77
+    },
+    {
+      "rank": 7,
+      "university": "성신여자대학교",
+      "domain": "sungshin.ac.kr",
       "count": 76
     },
     {
@@ -384,14 +384,14 @@
     },
     {
       "rank": null,
-      "university": "[미등록] vision.hoseo.edu",
-      "domain": "vision.hoseo.edu",
+      "university": "[미등록] sch.ac.kr",
+      "domain": "sch.ac.kr",
       "count": 1
     },
     {
       "rank": null,
-      "university": "[미등록] yonsei.ac.rk",
-      "domain": "yonsei.ac.rk",
+      "university": "[미등록] vision.hoseo.edu",
+      "domain": "vision.hoseo.edu",
       "count": 1
     },
     {
