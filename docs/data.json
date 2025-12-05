@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05T10:17:58+09:00",
-  "total_applications": 1679,
+  "updated_at": "2025-12-05T10:18:57+09:00",
+  "total_applications": 1680,
   "total_universities": 92,
   "excluded_personal_emails": 127,
   "data": [
@@ -408,6 +408,12 @@
     },
     {
       "rank": 59,
+      "university": "한동대학교",
+      "domain": "handong.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 59,
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
@@ -530,12 +536,6 @@
       "rank": null,
       "university": "한남대학교",
       "domain": "gm.hannam.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "한동대학교",
-      "domain": "handong.ac.kr",
       "count": 1
     },
     {
