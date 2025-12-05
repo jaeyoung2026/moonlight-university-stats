@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05T14:55:57+09:00",
-  "total_applications": 1729,
+  "updated_at": "2025-12-05T15:03:57+09:00",
+  "total_applications": 1730,
   "total_universities": 92,
   "excluded_personal_emails": 128,
   "data": [
@@ -78,15 +78,15 @@
     },
     {
       "rank": 12,
-      "university": "인하대학교",
-      "domain": "inha.ac.kr, inha.edu, office.inha.ac.kr",
+      "university": "아주대학교",
+      "domain": "ajou.ac.kr",
       "count": 38
     },
     {
-      "rank": 14,
-      "university": "아주대학교",
-      "domain": "ajou.ac.kr",
-      "count": 37
+      "rank": 12,
+      "university": "인하대학교",
+      "domain": "inha.ac.kr, inha.edu, office.inha.ac.kr",
+      "count": 38
     },
     {
       "rank": 15,
