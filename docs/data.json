@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05T14:53:56+09:00",
-  "total_applications": 1728,
+  "updated_at": "2025-12-05T14:55:57+09:00",
+  "total_applications": 1729,
   "total_universities": 92,
   "excluded_personal_emails": 128,
   "data": [
@@ -360,6 +360,12 @@
     },
     {
       "rank": 59,
+      "university": "군산대학교",
+      "domain": "kunsan.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 59,
       "university": "대구가톨릭대학교",
       "domain": "cu.ac.kr",
       "count": 2
@@ -458,12 +464,6 @@
       "rank": null,
       "university": "국제뇌교육종합대학원대학교",
       "domain": "mail.ube.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "군산대학교",
-      "domain": "kunsan.ac.kr",
       "count": 1
     },
     {
