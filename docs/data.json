@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05T11:01:56+09:00",
-  "total_applications": 1686,
+  "updated_at": "2025-12-05T11:02:56+09:00",
+  "total_applications": 1688,
   "total_universities": 92,
   "excluded_personal_emails": 127,
   "data": [
@@ -14,7 +14,7 @@
       "rank": 2,
       "university": "한양대학교",
       "domain": "hanyang.ac.kr",
-      "count": 115
+      "count": 116
     },
     {
       "rank": 3,
@@ -90,15 +90,15 @@
     },
     {
       "rank": 15,
-      "university": "명지대학교",
-      "domain": "mju.ac.kr",
+      "university": "GIST",
+      "domain": "gm.gist.ac.kr",
       "count": 33
     },
     {
-      "rank": 16,
-      "university": "GIST",
-      "domain": "gm.gist.ac.kr",
-      "count": 32
+      "rank": 15,
+      "university": "명지대학교",
+      "domain": "mju.ac.kr",
+      "count": 33
     },
     {
       "rank": 17,
