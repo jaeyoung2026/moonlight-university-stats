@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-06T00:09:59+09:00",
-  "total_applications": 1772,
+  "updated_at": "2025-12-06T00:53:57+09:00",
+  "total_applications": 1773,
   "total_universities": 92,
   "excluded_personal_emails": 128,
   "data": [
@@ -252,6 +252,12 @@
     },
     {
       "rank": 42,
+      "university": "국립금오공과대학교",
+      "domain": "kumoh.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 42,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
@@ -269,25 +275,19 @@
       "count": 6
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "계명대학교",
       "domain": "kmu.ac.kr, stu.kmu.ac.kr",
       "count": 5
     },
     {
-      "rank": 45,
-      "university": "국립금오공과대학교",
-      "domain": "kumoh.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 45,
+      "rank": 46,
       "university": "국민대학교",
       "domain": "kookmin.ac.kr",
       "count": 5
     },
     {
-      "rank": 45,
+      "rank": 46,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 5
