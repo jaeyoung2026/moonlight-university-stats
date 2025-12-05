@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05T16:21:59+09:00",
-  "total_applications": 1747,
+  "updated_at": "2025-12-05T16:29:02+09:00",
+  "total_applications": 1748,
   "total_universities": 93,
   "excluded_personal_emails": 128,
   "data": [
@@ -222,18 +222,18 @@
     },
     {
       "rank": 37,
+      "university": "강원대학교",
+      "domain": "kangwon.ac.kr",
+      "count": 9
+    },
+    {
+      "rank": 37,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
       "count": 9
     },
     {
-      "rank": 38,
-      "university": "강원대학교",
-      "domain": "kangwon.ac.kr",
-      "count": 8
-    },
-    {
-      "rank": 38,
+      "rank": 39,
       "university": "서강대학교",
       "domain": "sogang.ac.kr",
       "count": 8
