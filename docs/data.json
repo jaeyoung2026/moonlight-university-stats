@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05T15:50:57+09:00",
-  "total_applications": 1741,
+  "updated_at": "2025-12-05T15:56:57+09:00",
+  "total_applications": 1742,
   "total_universities": 92,
   "excluded_personal_emails": 128,
   "data": [
@@ -72,20 +72,20 @@
     },
     {
       "rank": 12,
+      "university": "아주대학교",
+      "domain": "ajou.ac.kr",
+      "count": 40
+    },
+    {
+      "rank": 13,
       "university": "GIST",
       "domain": "gm.gist.ac.kr",
       "count": 39
     },
     {
-      "rank": 12,
+      "rank": 13,
       "university": "POSTECH",
       "domain": "postech.ac.kr",
-      "count": 39
-    },
-    {
-      "rank": 12,
-      "university": "아주대학교",
-      "domain": "ajou.ac.kr",
       "count": 39
     },
     {
