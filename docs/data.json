@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05T17:13:58+09:00",
-  "total_applications": 1756,
+  "updated_at": "2025-12-05T17:39:56+09:00",
+  "total_applications": 1757,
   "total_universities": 92,
   "excluded_personal_emails": 128,
   "data": [
@@ -162,18 +162,18 @@
     },
     {
       "rank": 27,
+      "university": "가천대학교",
+      "domain": "gachon.ac.kr",
+      "count": 17
+    },
+    {
+      "rank": 27,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr, ssu.ac.kr, ssu.com",
       "count": 17
     },
     {
-      "rank": 28,
-      "university": "가천대학교",
-      "domain": "gachon.ac.kr",
-      "count": 16
-    },
-    {
-      "rank": 28,
+      "rank": 29,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 16
