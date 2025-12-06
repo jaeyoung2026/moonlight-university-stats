@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-06T18:46:57+09:00",
-  "total_applications": 1799,
+  "updated_at": "2025-12-06T18:48:56+09:00",
+  "total_applications": 1800,
   "total_universities": 93,
   "excluded_personal_emails": 129,
   "data": [
@@ -288,36 +288,36 @@
     },
     {
       "rank": 46,
+      "university": "동아대학교",
+      "domain": "dau.ac.kr, donga.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 46,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 5
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "경기대학교",
       "domain": "kyonggi.ac.kr",
       "count": 4
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "동국대학교",
       "domain": "dgu.ac.kr",
       "count": 4
     },
     {
-      "rank": 49,
-      "university": "동아대학교",
-      "domain": "dau.ac.kr, donga.ac.kr",
-      "count": 4
-    },
-    {
-      "rank": 49,
+      "rank": 50,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 4
     },
     {
-      "rank": 49,
+      "rank": 50,
       "university": "제주대학교",
       "domain": "stu.jejunu.ac.kr",
       "count": 4
