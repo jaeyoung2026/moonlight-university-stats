@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-07T16:38:58+09:00",
-  "total_applications": 1826,
+  "updated_at": "2025-12-07T16:40:57+09:00",
+  "total_applications": 1827,
   "total_universities": 93,
   "excluded_personal_emails": 132,
   "data": [
@@ -384,6 +384,12 @@
     },
     {
       "rank": 60,
+      "university": "울산대학교",
+      "domain": "mail.ulsan.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 60,
       "university": "전주대학교",
       "domain": "jj.ac.kr, jj.co.kr",
       "count": 2
@@ -506,12 +512,6 @@
       "rank": null,
       "university": "순천향대학교",
       "domain": "sch.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "울산대학교",
-      "domain": "mail.ulsan.ac.kr",
       "count": 1
     },
     {
