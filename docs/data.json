@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-08T06:27:57+09:00",
+  "updated_at": "2025-12-08T07:49:56+09:00",
   "total_applications": 1855,
   "total_universities": 94,
   "excluded_personal_emails": 133,
@@ -432,12 +432,6 @@
     },
     {
       "rank": null,
-      "university": "[미등록] gwnu.ac.kr",
-      "domain": "gwnu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "[미등록] student.cnue.ac.kr",
       "domain": "student.cnue.ac.kr",
       "count": 1
@@ -458,6 +452,12 @@
       "rank": null,
       "university": "강남대학교",
       "domain": "kangnam.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "강릉원주대학교",
+      "domain": "gwnu.ac.kr",
       "count": 1
     },
     {
