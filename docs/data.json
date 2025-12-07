@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-07T16:33:56+09:00",
-  "total_applications": 1825,
+  "updated_at": "2025-12-07T16:38:58+09:00",
+  "total_applications": 1826,
   "total_universities": 93,
   "excluded_personal_emails": 132,
   "data": [
@@ -242,10 +242,10 @@
       "rank": 40,
       "university": "국민대학교",
       "domain": "kookmin.ac.kr",
-      "count": 7
+      "count": 8
     },
     {
-      "rank": 40,
+      "rank": 41,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 7
