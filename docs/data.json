@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-07T20:10:56+09:00",
-  "total_applications": 1839,
+  "updated_at": "2025-12-07T20:36:56+09:00",
+  "total_applications": 1840,
   "total_universities": 93,
   "excluded_personal_emails": 132,
   "data": [
@@ -203,10 +203,10 @@
       "count": 14
     },
     {
-      "rank": 34,
+      "rank": 32,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
-      "count": 13
+      "count": 14
     },
     {
       "rank": 35,
