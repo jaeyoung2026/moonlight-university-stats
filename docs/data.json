@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-07T16:40:57+09:00",
-  "total_applications": 1827,
+  "updated_at": "2025-12-07T16:49:56+09:00",
+  "total_applications": 1828,
   "total_universities": 93,
   "excluded_personal_emails": 132,
   "data": [
@@ -354,78 +354,78 @@
     },
     {
       "rank": 54,
+      "university": "울산대학교",
+      "domain": "mail.ulsan.ac.kr",
+      "count": 3
+    },
+    {
+      "rank": 54,
       "university": "차의과학대학교",
       "domain": "chauniv.ac.kr",
       "count": 3
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "군산대학교",
       "domain": "kunsan.ac.kr",
       "count": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "대구가톨릭대학교",
       "domain": "cu.ac.kr",
       "count": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "목포대학교",
       "domain": "mokpo.ac.kr",
       "count": 2
     },
     {
-      "rank": 60,
-      "university": "울산대학교",
-      "domain": "mail.ulsan.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 60,
+      "rank": 61,
       "university": "전주대학교",
       "domain": "jj.ac.kr, jj.co.kr",
       "count": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "창원대학교",
       "domain": "changwon.ac.kr, gs.cwnu.ac.kr",
       "count": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "한국기술교육대학교",
       "domain": "koreatech.ac.kr",
       "count": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "한국해양대학교",
       "domain": "g.kmou.ac.kr",
       "count": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "한동대학교",
       "domain": "handong.ac.kr",
       "count": 2
     },
     {
-      "rank": 60,
+      "rank": 61,
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
