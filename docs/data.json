@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T13:57:56+09:00",
-  "total_applications": 1957,
+  "updated_at": "2025-12-08T14:07:56+09:00",
+  "total_applications": 1958,
   "total_universities": 100,
   "excluded_personal_emails": 141,
   "data": [
@@ -252,30 +252,30 @@
     },
     {
       "rank": 42,
+      "university": "국립금오공과대학교",
+      "domain": "kumoh.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 42,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 7
     },
     {
-      "rank": 43,
-      "university": "국립금오공과대학교",
-      "domain": "kumoh.ac.kr",
-      "count": 6
-    },
-    {
-      "rank": 43,
+      "rank": 44,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
     },
     {
-      "rank": 43,
+      "rank": 44,
       "university": "한국공학대학교",
       "domain": "tukorea.ac.kr",
       "count": 6
     },
     {
-      "rank": 43,
+      "rank": 44,
       "university": "홍익대학교",
       "domain": "g.hongik.ac.kr, hongik.ac.kr",
       "count": 6
