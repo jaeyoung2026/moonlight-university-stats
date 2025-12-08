@@ -1,14 +1,14 @@
 {
-  "updated_at": "2025-12-08T15:34:57+09:00",
-  "total_applications": 2002,
+  "updated_at": "2025-12-08T15:36:57+09:00",
+  "total_applications": 2005,
   "total_universities": 94,
-  "excluded_personal_emails": 143,
+  "excluded_personal_emails": 144,
   "data": [
     {
       "rank": 1,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr, ewhain.net, i.ewha.ac.kr",
-      "count": 237
+      "count": 238
     },
     {
       "rank": 2,
@@ -78,15 +78,15 @@
     },
     {
       "rank": 13,
-      "university": "인하대학교",
-      "domain": "inha.ac.kr, inha.edu, office.inha.ac.kr",
+      "university": "GIST",
+      "domain": "gm.gist.ac.kr",
       "count": 46
     },
     {
-      "rank": 14,
-      "university": "GIST",
-      "domain": "gm.gist.ac.kr",
-      "count": 45
+      "rank": 13,
+      "university": "인하대학교",
+      "domain": "inha.ac.kr, inha.edu, office.inha.ac.kr",
+      "count": 46
     },
     {
       "rank": 15,
@@ -312,6 +312,12 @@
     },
     {
       "rank": 50,
+      "university": "상명대학교",
+      "domain": "sangmyung.kr",
+      "count": 4
+    },
+    {
+      "rank": 50,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 4
@@ -323,55 +329,49 @@
       "count": 4
     },
     {
-      "rank": 54,
+      "rank": 55,
       "university": "DGIST",
       "domain": "dgist.ac.kr",
       "count": 3
     },
     {
-      "rank": 54,
+      "rank": 55,
       "university": "경성대학교",
       "domain": "ks.ac.kr, kyungsung.ac.kr",
       "count": 3
     },
     {
-      "rank": 54,
+      "rank": 55,
       "university": "광운대학교",
       "domain": "kw.ac.kr",
       "count": 3
     },
     {
-      "rank": 54,
+      "rank": 55,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 3
     },
     {
-      "rank": 54,
-      "university": "상명대학교",
-      "domain": "sangmyung.kr",
-      "count": 3
-    },
-    {
-      "rank": 54,
+      "rank": 55,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
       "count": 3
     },
     {
-      "rank": 54,
+      "rank": 55,
       "university": "울산대학교",
       "domain": "mail.ulsan.ac.kr",
       "count": 3
     },
     {
-      "rank": 54,
+      "rank": 55,
       "university": "차의과학대학교",
       "domain": "chauniv.ac.kr",
       "count": 3
     },
     {
-      "rank": 54,
+      "rank": 55,
       "university": "한국기술교육대학교",
       "domain": "koreatech.ac.kr",
       "count": 3
