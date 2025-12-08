@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T16:02:56+09:00",
-  "total_applications": 2033,
+  "updated_at": "2025-12-08T16:03:57+09:00",
+  "total_applications": 2034,
   "total_universities": 95,
   "excluded_personal_emails": 146,
   "data": [
@@ -227,10 +227,10 @@
       "count": 13
     },
     {
-      "rank": 38,
+      "rank": 37,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
-      "count": 12
+      "count": 13
     },
     {
       "rank": 39,
