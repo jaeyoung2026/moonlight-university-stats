@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T15:31:56+09:00",
-  "total_applications": 1997,
+  "updated_at": "2025-12-08T15:32:56+09:00",
+  "total_applications": 1998,
   "total_universities": 94,
   "excluded_personal_emails": 143,
   "data": [
@@ -140,7 +140,7 @@
       "rank": 23,
       "university": "서울과학기술대학교",
       "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
-      "count": 24
+      "count": 25
     },
     {
       "rank": 24,
