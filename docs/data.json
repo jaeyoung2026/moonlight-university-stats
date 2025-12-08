@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T14:26:56+09:00",
-  "total_applications": 1965,
+  "updated_at": "2025-12-08T14:27:56+09:00",
+  "total_applications": 1969,
   "total_universities": 94,
   "excluded_personal_emails": 142,
   "data": [
@@ -32,7 +32,7 @@
       "rank": 5,
       "university": "성균관대학교",
       "domain": "g.skku.edu, o.skku.edu, skku.edu",
-      "count": 106
+      "count": 107
     },
     {
       "rank": 6,
@@ -149,16 +149,16 @@
       "count": 22
     },
     {
-      "rank": 25,
-      "university": "건국대학교",
-      "domain": "konkuk.ac.kr",
-      "count": 21
+      "rank": 24,
+      "university": "서울과학기술대학교",
+      "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
+      "count": 22
     },
     {
       "rank": 26,
-      "university": "서울과학기술대학교",
-      "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
-      "count": 20
+      "university": "건국대학교",
+      "domain": "konkuk.ac.kr",
+      "count": 21
     },
     {
       "rank": 27,
@@ -420,6 +420,12 @@
     },
     {
       "rank": 62,
+      "university": "한국방송통신대학교",
+      "domain": "knou.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 62,
       "university": "한국해양대학교",
       "domain": "g.kmou.ac.kr",
       "count": 2
@@ -534,12 +540,6 @@
     },
     {
       "rank": null,
-      "university": "한국방송통신대학교",
-      "domain": "knou.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
       "university": "한국전통문화대학교",
       "domain": "knuh.ac.kr",
       "count": 1
@@ -592,7 +592,7 @@
     },
     {
       "id": "achieve_title2",
-      "text": "🎉 10개의 대학이 목표를 달성했습니다!"
+      "text": "🎉 아주대학교 목표 달성을 축하합니다!"
     },
     {
       "id": "share_text",
@@ -639,12 +639,8 @@
       "text": "🚀 학생회로 제안메일 발송완료!"
     },
     {
-      "id": "이화여자대학교_배경색",
-      "text": "#eff9ee6"
-    },
-    {
-      "id": "한양대학교_배경색",
-      "text": "#fff9ee6"
+      "id": "아주대학교",
+      "text": "🎉 목표 달성을 축하합니다!"
     }
   ]
 }
