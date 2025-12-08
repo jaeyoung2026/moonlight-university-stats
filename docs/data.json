@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T18:33:57+09:00",
-  "total_applications": 2158,
+  "updated_at": "2025-12-08T18:37:56+09:00",
+  "total_applications": 2159,
   "total_universities": 97,
   "excluded_personal_emails": 152,
   "data": [
@@ -143,10 +143,10 @@
       "count": 25
     },
     {
-      "rank": 24,
+      "rank": 23,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
-      "count": 24
+      "count": 25
     },
     {
       "rank": 25,
