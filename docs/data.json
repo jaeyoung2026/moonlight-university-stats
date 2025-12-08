@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T15:00:56+09:00",
-  "total_applications": 1984,
+  "updated_at": "2025-12-08T15:04:56+09:00",
+  "total_applications": 1987,
   "total_universities": 94,
   "excluded_personal_emails": 142,
   "data": [
@@ -8,7 +8,7 @@
       "rank": 1,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr, ewhain.net, i.ewha.ac.kr",
-      "count": 233
+      "count": 234
     },
     {
       "rank": 2,
@@ -137,13 +137,13 @@
       "count": 24
     },
     {
-      "rank": 23,
+      "rank": 22,
       "university": "서울과학종합대학원대학교",
       "domain": "assist.ac.kr, stud.assist.ac.kr, stud.assist.edu.kr",
-      "count": 23
+      "count": 24
     },
     {
-      "rank": 23,
+      "rank": 24,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
       "count": 23
@@ -263,21 +263,21 @@
       "count": 7
     },
     {
-      "rank": 44,
+      "rank": 42,
+      "university": "홍익대학교",
+      "domain": "g.hongik.ac.kr, hongik.ac.kr",
+      "count": 7
+    },
+    {
+      "rank": 45,
       "university": "덕성여자대학교",
       "domain": "ds.ac.kr, duksung.ac.kr",
       "count": 6
     },
     {
-      "rank": 44,
+      "rank": 45,
       "university": "한국공학대학교",
       "domain": "tukorea.ac.kr",
-      "count": 6
-    },
-    {
-      "rank": 44,
-      "university": "홍익대학교",
-      "domain": "g.hongik.ac.kr, hongik.ac.kr",
       "count": 6
     },
     {
