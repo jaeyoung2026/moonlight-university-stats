@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-08T22:31:56+09:00",
-  "total_applications": 2237,
-  "total_universities": 96,
+  "updated_at": "2025-12-08T22:32:59+09:00",
+  "total_applications": 2238,
+  "total_universities": 97,
   "excluded_personal_emails": 158,
   "data": [
     {
@@ -441,6 +441,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] chaunvi.ac.kr",
+      "domain": "chaunvi.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
