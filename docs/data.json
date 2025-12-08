@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T08:40:58+09:00",
-  "total_applications": 2261,
+  "updated_at": "2025-12-09T08:41:57+09:00",
+  "total_applications": 2262,
   "total_universities": 95,
   "excluded_personal_emails": 158,
   "data": [
@@ -233,15 +233,15 @@
       "count": 13
     },
     {
-      "rank": 39,
-      "university": "서강대학교",
-      "domain": "sogang.ac.kr, u.sogang.ac.kr",
-      "count": 12
-    },
-    {
-      "rank": 39,
+      "rank": 38,
       "university": "차의과학대학교",
       "domain": "cha.ac.kr, chauniv.ac.kr, student.cha.ac.kr",
+      "count": 13
+    },
+    {
+      "rank": 40,
+      "university": "서강대학교",
+      "domain": "sogang.ac.kr, u.sogang.ac.kr",
       "count": 12
     },
     {
@@ -582,7 +582,7 @@
     },
     {
       "id": "notice1",
-      "text": "🎉 이화여자대학교 200명 초과달성 축하합니다!"
+      "text": "🎉 이화여자대학교 400명 달성 축하합니다!"
     },
     {
       "id": "notice2",
