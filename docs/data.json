@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T14:25:56+09:00",
-  "total_applications": 1963,
+  "updated_at": "2025-12-08T14:26:56+09:00",
+  "total_applications": 1965,
   "total_universities": 94,
   "excluded_personal_emails": 142,
   "data": [
@@ -44,7 +44,7 @@
       "rank": 7,
       "university": "연세대학교",
       "domain": "o365.yonsei.ac.kr, yonsei.ac.kr, yuhs.ac",
-      "count": 85
+      "count": 86
     },
     {
       "rank": 8,
@@ -86,10 +86,10 @@
       "rank": 14,
       "university": "GIST",
       "domain": "gm.gist.ac.kr",
-      "count": 41
+      "count": 42
     },
     {
-      "rank": 14,
+      "rank": 15,
       "university": "POSTECH",
       "domain": "postech.ac.kr",
       "count": 41
