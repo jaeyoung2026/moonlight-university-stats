@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-08T14:20:57+09:00",
-  "total_applications": 1962,
-  "total_universities": 100,
+  "updated_at": "2025-12-08T14:21:56+09:00",
+  "total_applications": 1963,
+  "total_universities": 99,
   "excluded_personal_emails": 142,
   "data": [
     {
@@ -218,10 +218,10 @@
       "rank": 36,
       "university": "UNIST",
       "domain": "unist.ac.kr",
-      "count": 12
+      "count": 13
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "강원대학교",
       "domain": "kangwon.ac.kr",
       "count": 12
@@ -408,6 +408,12 @@
     },
     {
       "rank": 62,
+      "university": "한국교통대학교",
+      "domain": "a.ut.ac.kr, ut.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 62,
       "university": "한국기술교육대학교",
       "domain": "koreatech.ac.kr",
       "count": 2
@@ -429,12 +435,6 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] a.ut.ac.kr",
-      "domain": "a.ut.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
@@ -560,12 +560,6 @@
       "rank": null,
       "university": "한경국립대학교",
       "domain": "office.hknu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "한국교통대학교",
-      "domain": "ut.ac.kr",
       "count": 1
     },
     {
