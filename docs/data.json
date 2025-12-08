@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T01:55:57+09:00",
-  "total_applications": 2259,
+  "updated_at": "2025-12-09T05:50:57+09:00",
+  "total_applications": 2260,
   "total_universities": 98,
   "excluded_personal_emails": 158,
   "data": [
@@ -186,30 +186,30 @@
     },
     {
       "rank": 31,
+      "university": "인천대학교",
+      "domain": "inu.ac.kr",
+      "count": 16
+    },
+    {
+      "rank": 31,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 16
     },
     {
-      "rank": 32,
+      "rank": 33,
       "university": "가톨릭대학교",
       "domain": "catholic.ac.kr, cmcnu.or.kr",
       "count": 15
     },
     {
-      "rank": 32,
-      "university": "인천대학교",
-      "domain": "inu.ac.kr",
-      "count": 15
-    },
-    {
-      "rank": 32,
+      "rank": 33,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 15
     },
     {
-      "rank": 32,
+      "rank": 33,
       "university": "조선대학교",
       "domain": "chosun.ac.kr, chosun.kr",
       "count": 15
