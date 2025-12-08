@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T12:51:57+09:00",
-  "total_applications": 1928,
+  "updated_at": "2025-12-08T12:53:56+09:00",
+  "total_applications": 1929,
   "total_universities": 98,
   "excluded_personal_emails": 136,
   "data": [
@@ -239,10 +239,10 @@
       "count": 10
     },
     {
-      "rank": 40,
+      "rank": 39,
       "university": "서울과학종합대학원대학교",
       "domain": "stud.assist.ac.kr",
-      "count": 9
+      "count": 10
     },
     {
       "rank": 41,
