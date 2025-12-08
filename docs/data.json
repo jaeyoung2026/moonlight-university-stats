@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T19:25:58+09:00",
-  "total_applications": 2185,
+  "updated_at": "2025-12-08T19:27:57+09:00",
+  "total_applications": 2186,
   "total_universities": 97,
   "excluded_personal_emails": 152,
   "data": [
@@ -86,7 +86,7 @@
       "rank": 14,
       "university": "인하대학교",
       "domain": "inha.ac.kr, inha.edu, office.inha.ac.kr",
-      "count": 46
+      "count": 47
     },
     {
       "rank": 15,
