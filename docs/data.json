@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T13:18:09+09:00",
-  "total_applications": 1940,
+  "updated_at": "2025-12-08T13:21:56+09:00",
+  "total_applications": 1941,
   "total_universities": 99,
   "excluded_personal_emails": 138,
   "data": [
@@ -162,18 +162,18 @@
     },
     {
       "rank": 27,
+      "university": "서울과학종합대학원대학교",
+      "domain": "stud.assist.ac.kr",
+      "count": 18
+    },
+    {
+      "rank": 28,
       "university": "가천대학교",
       "domain": "gachon.ac.kr",
       "count": 17
     },
     {
-      "rank": 27,
-      "university": "서울과학종합대학원대학교",
-      "domain": "stud.assist.ac.kr",
-      "count": 17
-    },
-    {
-      "rank": 27,
+      "rank": 28,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr, ssu.ac.kr, ssu.com",
       "count": 17
