@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T14:32:56+09:00",
-  "total_applications": 1973,
+  "updated_at": "2025-12-08T14:35:56+09:00",
+  "total_applications": 1975,
   "total_universities": 94,
   "excluded_personal_emails": 142,
   "data": [
@@ -80,13 +80,13 @@
       "rank": 13,
       "university": "인하대학교",
       "domain": "inha.ac.kr, inha.edu, office.inha.ac.kr",
-      "count": 44
+      "count": 45
     },
     {
       "rank": 14,
       "university": "GIST",
       "domain": "gm.gist.ac.kr",
-      "count": 42
+      "count": 43
     },
     {
       "rank": 15,
