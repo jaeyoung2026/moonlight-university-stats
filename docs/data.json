@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-08T17:07:57+09:00",
-  "total_applications": 2089,
-  "total_universities": 96,
+  "updated_at": "2025-12-08T17:12:56+09:00",
+  "total_applications": 2091,
+  "total_universities": 97,
   "excluded_personal_emails": 150,
   "data": [
     {
@@ -92,7 +92,7 @@
       "rank": 15,
       "university": "POSTECH",
       "domain": "postech.ac.kr",
-      "count": 42
+      "count": 43
     },
     {
       "rank": 16,
@@ -446,6 +446,12 @@
       "rank": null,
       "university": "[미등록] eeha.ac.kr",
       "domain": "eeha.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] ewha.ac kr",
+      "domain": "ewha.ac kr",
       "count": 1
     },
     {
