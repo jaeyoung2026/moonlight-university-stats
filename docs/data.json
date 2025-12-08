@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-08T12:55:56+09:00",
-  "total_applications": 1930,
-  "total_universities": 98,
+  "updated_at": "2025-12-08T12:56:57+09:00",
+  "total_applications": 1931,
+  "total_universities": 99,
   "excluded_personal_emails": 136,
   "data": [
     {
@@ -452,6 +452,12 @@
       "rank": null,
       "university": "[미등록] stud.assist.edu.kr",
       "domain": "stud.assist.edu.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] 강현창",
+      "domain": "강현창",
       "count": 1
     },
     {
