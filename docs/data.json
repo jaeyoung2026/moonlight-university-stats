@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T16:14:56+09:00",
-  "total_applications": 2044,
+  "updated_at": "2025-12-08T16:18:56+09:00",
+  "total_applications": 2046,
   "total_universities": 95,
   "excluded_personal_emails": 146,
   "data": [
@@ -56,7 +56,7 @@
       "rank": 9,
       "university": "KAIST",
       "domain": "kaist.ac.kr",
-      "count": 71
+      "count": 72
     },
     {
       "rank": 10,
@@ -146,7 +146,7 @@
       "rank": 24,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
-      "count": 23
+      "count": 24
     },
     {
       "rank": 25,
