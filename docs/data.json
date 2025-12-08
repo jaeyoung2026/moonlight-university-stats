@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-08T15:52:56+09:00",
-  "total_applications": 2023,
-  "total_universities": 94,
+  "updated_at": "2025-12-08T15:54:56+09:00",
+  "total_applications": 2024,
+  "total_universities": 95,
   "excluded_personal_emails": 146,
   "data": [
     {
@@ -441,6 +441,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] rwha.ac.kr",
+      "domain": "rwha.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
