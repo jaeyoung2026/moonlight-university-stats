@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-08T16:36:56+09:00",
-  "total_applications": 2065,
-  "total_universities": 95,
+  "updated_at": "2025-12-08T16:37:57+09:00",
+  "total_applications": 2066,
+  "total_universities": 96,
   "excluded_personal_emails": 148,
   "data": [
     {
@@ -441,6 +441,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] eeha.ac.kr",
+      "domain": "eeha.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
