@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-09T05:50:57+09:00",
+  "updated_at": "2025-12-09T08:18:57+09:00",
   "total_applications": 2260,
-  "total_universities": 98,
+  "total_universities": 97,
   "excluded_personal_emails": 158,
   "data": [
     {
@@ -240,15 +240,15 @@
     },
     {
       "rank": 39,
-      "university": "충북대학교",
-      "domain": "cbnu.ac.kr, chungbuk.ac.kr",
+      "university": "차의과학대학교",
+      "domain": "cha.ac.kr, chauniv.ac.kr",
       "count": 11
     },
     {
-      "rank": 41,
-      "university": "차의과학대학교",
-      "domain": "cha.ac.kr, chauniv.ac.kr",
-      "count": 10
+      "rank": 39,
+      "university": "충북대학교",
+      "domain": "cbnu.ac.kr, chungbuk.ac.kr",
+      "count": 11
     },
     {
       "rank": 42,
@@ -447,12 +447,6 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] chaunvi.ac.kr",
-      "domain": "chaunvi.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
