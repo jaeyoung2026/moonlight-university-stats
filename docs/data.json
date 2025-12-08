@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-08T23:32:57+09:00",
-  "total_applications": 2254,
-  "total_universities": 97,
+  "updated_at": "2025-12-08T23:37:58+09:00",
+  "total_applications": 2255,
+  "total_universities": 98,
   "excluded_personal_emails": 158,
   "data": [
     {
@@ -464,6 +464,12 @@
       "rank": null,
       "university": "[미등록] sogamg.ac.kr",
       "domain": "sogamg.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] student.cha.ac.kr",
+      "domain": "student.cha.ac.kr",
       "count": 1
     },
     {
