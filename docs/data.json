@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-08T14:24:57+09:00",
-  "total_applications": 1962,
-  "total_universities": 95,
+  "updated_at": "2025-12-08T14:25:56+09:00",
+  "total_applications": 1963,
+  "total_universities": 94,
   "excluded_personal_emails": 142,
   "data": [
     {
@@ -44,7 +44,7 @@
       "rank": 7,
       "university": "연세대학교",
       "domain": "o365.yonsei.ac.kr, yonsei.ac.kr, yuhs.ac",
-      "count": 84
+      "count": 85
     },
     {
       "rank": 8,
@@ -132,20 +132,20 @@
     },
     {
       "rank": 22,
+      "university": "서울과학종합대학원대학교",
+      "domain": "assist.ac.kr, stud.assist.ac.kr, stud.assist.edu.kr",
+      "count": 23
+    },
+    {
+      "rank": 22,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
       "count": 23
     },
     {
-      "rank": 23,
+      "rank": 24,
       "university": "국립부경대학교",
       "domain": "pknu.ac.kr, pukyong.ac.kr",
-      "count": 22
-    },
-    {
-      "rank": 23,
-      "university": "서울과학종합대학원대학교",
-      "domain": "stud.assist.ac.kr, stud.assist.edu.kr",
       "count": 22
     },
     {
@@ -435,12 +435,6 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] assist.ac.kr",
-      "domain": "assist.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
