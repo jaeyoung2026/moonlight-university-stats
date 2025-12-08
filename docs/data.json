@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-09T08:41:57+09:00",
+  "updated_at": "2025-12-09T08:59:37+09:00",
   "total_applications": 2262,
   "total_universities": 95,
   "excluded_personal_emails": 158,
@@ -655,6 +655,388 @@
     {
       "id": "GIST",
       "text": "🚀 학생회로 제안메일 발송완료!"
+    }
+  ],
+  "completes": [
+    {
+      "university": "이화여자대학교",
+      "applicants": 400
+    },
+    {
+      "university": "서울대학교",
+      "applicants": 128
+    },
+    {
+      "university": "한양대학교",
+      "applicants": 125
+    },
+    {
+      "university": "고려대학교",
+      "applicants": 120
+    },
+    {
+      "university": "성균관대학교",
+      "applicants": 109
+    },
+    {
+      "university": "중앙대학교",
+      "applicants": 108
+    },
+    {
+      "university": "연세대학교",
+      "applicants": 88
+    },
+    {
+      "university": "성신여자대학교",
+      "applicants": 85
+    },
+    {
+      "university": "KAIST",
+      "applicants": 74
+    },
+    {
+      "university": "세종대학교",
+      "applicants": 65
+    },
+    {
+      "university": "경희대학교",
+      "applicants": 52
+    },
+    {
+      "university": "아주대학교",
+      "applicants": 52
+    },
+    {
+      "university": "GIST",
+      "applicants": 51
+    },
+    {
+      "university": "인하대학교",
+      "applicants": 47
+    },
+    {
+      "university": "POSTECH",
+      "applicants": 44
+    },
+    {
+      "university": "경북대학교",
+      "applicants": 43
+    },
+    {
+      "university": "명지대학교",
+      "applicants": 41
+    },
+    {
+      "university": "서울과학종합대학원대학교",
+      "applicants": 37
+    },
+    {
+      "university": "부산대학교",
+      "applicants": 33
+    },
+    {
+      "university": "경상국립대학교",
+      "applicants": 29
+    },
+    {
+      "university": "전남대학교",
+      "applicants": 29
+    },
+    {
+      "university": "한국항공대학교",
+      "applicants": 29
+    },
+    {
+      "university": "서울과학기술대학교",
+      "applicants": 26
+    },
+    {
+      "university": "서울시립대학교",
+      "applicants": 26
+    },
+    {
+      "university": "국립부경대학교",
+      "applicants": 22
+    },
+    {
+      "university": "건국대학교",
+      "applicants": 21
+    },
+    {
+      "university": "UNIST",
+      "applicants": 20
+    },
+    {
+      "university": "숙명여자대학교",
+      "applicants": 19
+    },
+    {
+      "university": "가천대학교",
+      "applicants": 18
+    },
+    {
+      "university": "숭실대학교",
+      "applicants": 17
+    },
+    {
+      "university": "인천대학교",
+      "applicants": 16
+    },
+    {
+      "university": "충남대학교",
+      "applicants": 16
+    },
+    {
+      "university": "가톨릭대학교",
+      "applicants": 15
+    },
+    {
+      "university": "전북대학교",
+      "applicants": 15
+    },
+    {
+      "university": "조선대학교",
+      "applicants": 15
+    },
+    {
+      "university": "국립공주대학교",
+      "applicants": 14
+    },
+    {
+      "university": "단국대학교",
+      "applicants": 14
+    },
+    {
+      "university": "강원대학교",
+      "applicants": 13
+    },
+    {
+      "university": "차의과학대학교",
+      "applicants": 13
+    },
+    {
+      "university": "서강대학교",
+      "applicants": 12
+    },
+    {
+      "university": "충북대학교",
+      "applicants": 11
+    },
+    {
+      "university": "국민대학교",
+      "applicants": 9
+    },
+    {
+      "university": "국립금오공과대학교",
+      "applicants": 8
+    },
+    {
+      "university": "홍익대학교",
+      "applicants": 8
+    },
+    {
+      "university": "영남대학교",
+      "applicants": 7
+    },
+    {
+      "university": "한국공학대학교",
+      "applicants": 7
+    },
+    {
+      "university": "계명대학교",
+      "applicants": 6
+    },
+    {
+      "university": "덕성여자대학교",
+      "applicants": 6
+    },
+    {
+      "university": "경기대학교",
+      "applicants": 5
+    },
+    {
+      "university": "광운대학교",
+      "applicants": 5
+    },
+    {
+      "university": "동아대학교",
+      "applicants": 5
+    },
+    {
+      "university": "한국외국어대학교",
+      "applicants": 5
+    },
+    {
+      "university": "동국대학교",
+      "applicants": 4
+    },
+    {
+      "university": "상명대학교",
+      "applicants": 4
+    },
+    {
+      "university": "선문대학교",
+      "applicants": 4
+    },
+    {
+      "university": "제주대학교",
+      "applicants": 4
+    },
+    {
+      "university": "DGIST",
+      "applicants": 3
+    },
+    {
+      "university": "경성대학교",
+      "applicants": 3
+    },
+    {
+      "university": "대구대",
+      "applicants": 3
+    },
+    {
+      "university": "서울여자대학교",
+      "applicants": 3
+    },
+    {
+      "university": "울산대학교",
+      "applicants": 3
+    },
+    {
+      "university": "한국기술교육대학교",
+      "applicants": 3
+    },
+    {
+      "university": "강릉원주대학교",
+      "applicants": 2
+    },
+    {
+      "university": "군산대학교",
+      "applicants": 2
+    },
+    {
+      "university": "대구가톨릭대학교",
+      "applicants": 2
+    },
+    {
+      "university": "목포대학교",
+      "applicants": 2
+    },
+    {
+      "university": "전주대학교",
+      "applicants": 2
+    },
+    {
+      "university": "창원대학교",
+      "applicants": 2
+    },
+    {
+      "university": "한국교원대학교",
+      "applicants": 2
+    },
+    {
+      "university": "한국교통대학교",
+      "applicants": 2
+    },
+    {
+      "university": "한국방송통신대학교",
+      "applicants": 2
+    },
+    {
+      "university": "한국해양대학교",
+      "applicants": 2
+    },
+    {
+      "university": "한동대학교",
+      "applicants": 2
+    },
+    {
+      "university": "한신대",
+      "applicants": 2
+    },
+    {
+      "university": "[미등록] bufs.ac.kr",
+      "applicants": 1
+    },
+    {
+      "university": "KENTECH",
+      "applicants": 1
+    },
+    {
+      "university": "가톨릭관동대학교",
+      "applicants": 1
+    },
+    {
+      "university": "강남대학교",
+      "applicants": 1
+    },
+    {
+      "university": "경남대학교",
+      "applicants": 1
+    },
+    {
+      "university": "경희사이버대학교",
+      "applicants": 1
+    },
+    {
+      "university": "국립한밭대학교",
+      "applicants": 1
+    },
+    {
+      "university": "국제뇌교육종합대학원대학교",
+      "applicants": 1
+    },
+    {
+      "university": "대전대학교",
+      "applicants": 1
+    },
+    {
+      "university": "동덕여자대학교",
+      "applicants": 1
+    },
+    {
+      "university": "동의대학교",
+      "applicants": 1
+    },
+    {
+      "university": "배재대학교",
+      "applicants": 1
+    },
+    {
+      "university": "수원대학교",
+      "applicants": 1
+    },
+    {
+      "university": "순천향대학교",
+      "applicants": 1
+    },
+    {
+      "university": "춘천교육대학교",
+      "applicants": 1
+    },
+    {
+      "university": "한경국립대학교",
+      "applicants": 1
+    },
+    {
+      "university": "한국전통문화대학교",
+      "applicants": 1
+    },
+    {
+      "university": "한남대학교",
+      "applicants": 1
+    },
+    {
+      "university": "한성대학교",
+      "applicants": 1
+    },
+    {
+      "university": "협성대학교",
+      "applicants": 1
+    },
+    {
+      "university": "호서대학교",
+      "applicants": 1
     }
   ]
 }
