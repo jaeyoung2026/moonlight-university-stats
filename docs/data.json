@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T20:43:57+09:00",
-  "total_applications": 2210,
+  "updated_at": "2025-12-08T20:49:56+09:00",
+  "total_applications": 2211,
   "total_universities": 96,
   "excluded_personal_emails": 155,
   "data": [
@@ -104,7 +104,7 @@
       "rank": 17,
       "university": "명지대학교",
       "domain": "mju.ac.kr",
-      "count": 39
+      "count": 40
     },
     {
       "rank": 18,
