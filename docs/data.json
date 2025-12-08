@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T17:51:57+09:00",
-  "total_applications": 2130,
+  "updated_at": "2025-12-08T17:56:57+09:00",
+  "total_applications": 2131,
   "total_universities": 94,
   "excluded_personal_emails": 152,
   "data": [
@@ -282,24 +282,24 @@
     },
     {
       "rank": 45,
+      "university": "차의과학대학교",
+      "domain": "chauniv.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 45,
       "university": "한국공학대학교",
       "domain": "tukorea.ac.kr",
       "count": 6
     },
     {
-      "rank": 48,
+      "rank": 49,
       "university": "동아대학교",
       "domain": "dau.ac.kr, donga.ac.kr",
       "count": 5
     },
     {
-      "rank": 48,
-      "university": "차의과학대학교",
-      "domain": "chauniv.ac.kr",
-      "count": 5
-    },
-    {
-      "rank": 48,
+      "rank": 49,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 5
