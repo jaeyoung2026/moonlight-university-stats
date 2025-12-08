@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-08T13:21:56+09:00",
-  "total_applications": 1941,
-  "total_universities": 99,
+  "updated_at": "2025-12-08T13:24:56+09:00",
+  "total_applications": 1942,
+  "total_universities": 100,
   "excluded_personal_emails": 138,
   "data": [
     {
@@ -434,6 +434,12 @@
       "rank": null,
       "university": "[미등록] a.ut.ac.kr",
       "domain": "a.ut.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
+      "university": "[미등록] assist.ac.kr",
+      "domain": "assist.ac.kr",
       "count": 1
     },
     {
