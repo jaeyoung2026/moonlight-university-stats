@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T15:49:56+09:00",
-  "total_applications": 2020,
+  "updated_at": "2025-12-08T15:50:56+09:00",
+  "total_applications": 2021,
   "total_universities": 94,
   "excluded_personal_emails": 144,
   "data": [
@@ -12,15 +12,15 @@
     },
     {
       "rank": 2,
-      "university": "한양대학교",
-      "domain": "hanyang.ac.kr",
+      "university": "서울대학교",
+      "domain": "snu.ac.kr",
       "count": 125
     },
     {
-      "rank": 3,
-      "university": "서울대학교",
-      "domain": "snu.ac.kr",
-      "count": 124
+      "rank": 2,
+      "university": "한양대학교",
+      "domain": "hanyang.ac.kr",
+      "count": 125
     },
     {
       "rank": 4,
