@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T11:00:57+09:00",
-  "total_applications": 1876,
+  "updated_at": "2025-12-08T11:02:57+09:00",
+  "total_applications": 1877,
   "total_universities": 95,
   "excluded_personal_emails": 134,
   "data": [
@@ -8,7 +8,7 @@
       "rank": 1,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr, ewhain.net, i.ewha.ac.kr",
-      "count": 194
+      "count": 195
     },
     {
       "rank": 2,
