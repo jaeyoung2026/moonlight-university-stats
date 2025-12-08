@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T16:52:56+09:00",
-  "total_applications": 2074,
+  "updated_at": "2025-12-08T16:53:57+09:00",
+  "total_applications": 2078,
   "total_universities": 96,
   "excluded_personal_emails": 150,
   "data": [
@@ -8,7 +8,7 @@
       "rank": 1,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr, ewhain.net, i.ewha.ac.kr",
-      "count": 286
+      "count": 289
     },
     {
       "rank": 2,
@@ -329,49 +329,49 @@
       "count": 4
     },
     {
-      "rank": 55,
+      "rank": 50,
+      "university": "차의과학대학교",
+      "domain": "chauniv.ac.kr",
+      "count": 4
+    },
+    {
+      "rank": 56,
       "university": "DGIST",
       "domain": "dgist.ac.kr",
       "count": 3
     },
     {
-      "rank": 55,
+      "rank": 56,
       "university": "경성대학교",
       "domain": "ks.ac.kr, kyungsung.ac.kr",
       "count": 3
     },
     {
-      "rank": 55,
+      "rank": 56,
       "university": "광운대학교",
       "domain": "kw.ac.kr",
       "count": 3
     },
     {
-      "rank": 55,
+      "rank": 56,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 3
     },
     {
-      "rank": 55,
+      "rank": 56,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
       "count": 3
     },
     {
-      "rank": 55,
+      "rank": 56,
       "university": "울산대학교",
       "domain": "mail.ulsan.ac.kr",
       "count": 3
     },
     {
-      "rank": 55,
-      "university": "차의과학대학교",
-      "domain": "chauniv.ac.kr",
-      "count": 3
-    },
-    {
-      "rank": 55,
+      "rank": 56,
       "university": "한국기술교육대학교",
       "domain": "koreatech.ac.kr",
       "count": 3
