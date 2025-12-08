@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T11:15:56+09:00",
-  "total_applications": 1886,
+  "updated_at": "2025-12-08T11:16:56+09:00",
+  "total_applications": 1887,
   "total_universities": 96,
   "excluded_personal_emails": 134,
   "data": [
@@ -26,7 +26,7 @@
       "rank": 4,
       "university": "고려대학교",
       "domain": "korea.ac.kr",
-      "count": 117
+      "count": 118
     },
     {
       "rank": 5,
