@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-08T11:57:56+09:00",
-  "total_applications": 1908,
+  "updated_at": "2025-12-08T11:58:56+09:00",
+  "total_applications": 1910,
   "total_universities": 96,
   "excluded_personal_emails": 135,
   "data": [
@@ -14,7 +14,7 @@
       "rank": 2,
       "university": "한양대학교",
       "domain": "hanyang.ac.kr",
-      "count": 123
+      "count": 124
     },
     {
       "rank": 3,
@@ -84,15 +84,15 @@
     },
     {
       "rank": 14,
-      "university": "POSTECH",
-      "domain": "postech.ac.kr",
+      "university": "GIST",
+      "domain": "gm.gist.ac.kr",
       "count": 41
     },
     {
-      "rank": 15,
-      "university": "GIST",
-      "domain": "gm.gist.ac.kr",
-      "count": 40
+      "rank": 14,
+      "university": "POSTECH",
+      "domain": "postech.ac.kr",
+      "count": 41
     },
     {
       "rank": 16,
