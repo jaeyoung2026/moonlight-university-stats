@@ -1,14 +1,14 @@
 {
-  "updated_at": "2025-12-08T20:07:56+09:00",
-  "total_applications": 2197,
-  "total_universities": 97,
+  "updated_at": "2025-12-08T20:08:59+09:00",
+  "total_applications": 2199,
+  "total_universities": 96,
   "excluded_personal_emails": 155,
   "data": [
     {
       "rank": 1,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr, ewhain.net, i.ewha.ac.kr",
-      "count": 365
+      "count": 366
     },
     {
       "rank": 2,
@@ -98,7 +98,7 @@
       "rank": 16,
       "university": "경북대학교",
       "domain": "knu.ac.kr",
-      "count": 41
+      "count": 42
     },
     {
       "rank": 17,
@@ -257,19 +257,19 @@
       "count": 8
     },
     {
-      "rank": 43,
+      "rank": 41,
+      "university": "차의과학대학교",
+      "domain": "cha.ac.kr, chauniv.ac.kr",
+      "count": 8
+    },
+    {
+      "rank": 44,
       "university": "영남대학교",
       "domain": "yu.ac.kr",
       "count": 7
     },
     {
-      "rank": 43,
-      "university": "차의과학대학교",
-      "domain": "chauniv.ac.kr",
-      "count": 7
-    },
-    {
-      "rank": 43,
+      "rank": 44,
       "university": "홍익대학교",
       "domain": "g.hongik.ac.kr, hongik.ac.kr",
       "count": 7
@@ -441,12 +441,6 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] cha.ac.kr",
-      "domain": "cha.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
