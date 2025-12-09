@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T21:28:56+09:00",
-  "total_applications": 2421,
+  "updated_at": "2025-12-09T21:38:57+09:00",
+  "total_applications": 2422,
   "total_universities": 97,
   "excluded_personal_emails": 180,
   "data": [
@@ -353,37 +353,37 @@
       "count": 4
     },
     {
-      "rank": 59,
+      "rank": 55,
+      "university": "한경국립대학교",
+      "domain": "hknu.ac.kr, office.hknu.ac.kr",
+      "count": 4
+    },
+    {
+      "rank": 60,
       "university": "DGIST",
       "domain": "dgist.ac.kr",
       "count": 3
     },
     {
-      "rank": 59,
+      "rank": 60,
       "university": "경성대학교",
       "domain": "ks.ac.kr, kyungsung.ac.kr",
       "count": 3
     },
     {
-      "rank": 59,
+      "rank": 60,
       "university": "대구대",
       "domain": "daegu.ac.kr",
       "count": 3
     },
     {
-      "rank": 59,
+      "rank": 60,
       "university": "울산대학교",
       "domain": "mail.ulsan.ac.kr",
       "count": 3
     },
     {
-      "rank": 59,
-      "university": "한경국립대학교",
-      "domain": "hknu.ac.kr, office.hknu.ac.kr",
-      "count": 3
-    },
-    {
-      "rank": 59,
+      "rank": 60,
       "university": "한국기술교육대학교",
       "domain": "koreatech.ac.kr",
       "count": 3
