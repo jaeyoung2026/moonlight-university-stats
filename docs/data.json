@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T17:53:56+09:00",
-  "total_applications": 2368,
+  "updated_at": "2025-12-09T18:01:58+09:00",
+  "total_applications": 2370,
   "total_universities": 97,
   "excluded_personal_emails": 175,
   "data": [
@@ -150,26 +150,26 @@
     },
     {
       "rank": 25,
+      "university": "서울여자대학교",
+      "domain": "swu.ac.kr",
+      "count": 28
+    },
+    {
+      "rank": 26,
       "university": "건국대학교",
       "domain": "kku.ac.kr, konkuk.ac.kr",
       "count": 26
     },
     {
-      "rank": 25,
+      "rank": 26,
       "university": "서울과학기술대학교",
       "domain": "g.seoultech.ac.kr, seoultech.ac.kr",
       "count": 26
     },
     {
-      "rank": 25,
+      "rank": 26,
       "university": "서울시립대학교",
       "domain": "uos.ac.kr",
-      "count": 26
-    },
-    {
-      "rank": 25,
-      "university": "서울여자대학교",
-      "domain": "swu.ac.kr",
       "count": 26
     },
     {
