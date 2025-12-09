@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T18:09:57+09:00",
-  "total_applications": 2371,
+  "updated_at": "2025-12-09T18:11:56+09:00",
+  "total_applications": 2372,
   "total_universities": 97,
   "excluded_personal_emails": 175,
   "data": [
@@ -144,15 +144,15 @@
     },
     {
       "rank": 23,
-      "university": "한국항공대학교",
-      "domain": "kau.kr",
+      "university": "서울여자대학교",
+      "domain": "swu.ac.kr",
       "count": 29
     },
     {
-      "rank": 25,
-      "university": "서울여자대학교",
-      "domain": "swu.ac.kr",
-      "count": 28
+      "rank": 23,
+      "university": "한국항공대학교",
+      "domain": "kau.kr",
+      "count": 29
     },
     {
       "rank": 26,
