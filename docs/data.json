@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T00:00:58+09:00",
-  "total_applications": 2454,
+  "updated_at": "2025-12-10T00:01:59+09:00",
+  "total_applications": 2455,
   "total_universities": 98,
   "excluded_personal_emails": 183,
   "data": [
@@ -120,20 +120,20 @@
     },
     {
       "rank": 19,
+      "university": "숙명여자대학교",
+      "domain": "sookmyung.ac.kr",
+      "count": 37
+    },
+    {
+      "rank": 19,
       "university": "전남대학교",
       "domain": "jnu.ac.kr",
       "count": 37
     },
     {
-      "rank": 21,
+      "rank": 22,
       "university": "서울과학종합대학원대학교",
       "domain": "assist.ac.kr, stud.assist.ac.kr, stud.assist.edu.kr",
-      "count": 36
-    },
-    {
-      "rank": 21,
-      "university": "숙명여자대학교",
-      "domain": "sookmyung.ac.kr",
       "count": 36
     },
     {
