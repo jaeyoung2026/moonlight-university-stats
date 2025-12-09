@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T21:39:57+09:00",
-  "total_applications": 2423,
+  "updated_at": "2025-12-09T21:43:58+09:00",
+  "total_applications": 2425,
   "total_universities": 97,
   "excluded_personal_emails": 180,
   "data": [
@@ -299,63 +299,63 @@
       "count": 6
     },
     {
-      "rank": 50,
+      "rank": 49,
+      "university": "한경국립대학교",
+      "domain": "hknu.ac.kr, office.hknu.ac.kr",
+      "count": 6
+    },
+    {
+      "rank": 51,
       "university": "경기대학교",
       "domain": "kyonggi.ac.kr",
       "count": 5
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "광운대학교",
       "domain": "kw.ac.kr",
       "count": 5
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "동국대학교",
       "domain": "dgu.ac.kr",
       "count": 5
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "동아대학교",
       "domain": "dau.ac.kr, donga.ac.kr",
       "count": 5
     },
     {
-      "rank": 50,
+      "rank": 51,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 5
     },
     {
-      "rank": 55,
+      "rank": 56,
       "university": "상명대학교",
       "domain": "sangmyung.kr",
       "count": 4
     },
     {
-      "rank": 55,
+      "rank": 56,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 4
     },
     {
-      "rank": 55,
+      "rank": 56,
       "university": "제주대학교",
       "domain": "stu.jejunu.ac.kr",
       "count": 4
     },
     {
-      "rank": 55,
+      "rank": 56,
       "university": "창원대학교",
       "domain": "changwon.ac.kr, gs.cwnu.ac.kr",
-      "count": 4
-    },
-    {
-      "rank": 55,
-      "university": "한경국립대학교",
-      "domain": "hknu.ac.kr, office.hknu.ac.kr",
       "count": 4
     },
     {
