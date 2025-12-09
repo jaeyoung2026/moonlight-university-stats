@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-10T01:15:02+09:00",
-  "total_applications": 2460,
-  "total_universities": 98,
+  "updated_at": "2025-12-10T01:20:57+09:00",
+  "total_applications": 2462,
+  "total_universities": 99,
   "excluded_personal_emails": 186,
   "data": [
     {
@@ -116,7 +116,7 @@
       "rank": 19,
       "university": "숙명여자대학교",
       "domain": "sookmyung.ac.kr",
-      "count": 38
+      "count": 39
     },
     {
       "rank": 20,
@@ -459,6 +459,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] dali.korea.ac.kr",
+      "domain": "dali.korea.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
