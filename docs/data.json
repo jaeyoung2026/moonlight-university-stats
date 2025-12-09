@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-12-09T20:13:57+09:00",
-  "total_applications": 2404,
+  "updated_at": "2025-12-09T20:21:56+09:00",
+  "total_applications": 2406,
   "total_universities": 97,
-  "excluded_personal_emails": 179,
+  "excluded_personal_emails": 180,
   "data": [
     {
       "rank": 1,
@@ -101,10 +101,10 @@
       "count": 44
     },
     {
-      "rank": 17,
+      "rank": 16,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
-      "count": 43
+      "count": 44
     },
     {
       "rank": 18,
@@ -378,84 +378,84 @@
     },
     {
       "rank": 59,
+      "university": "한경국립대학교",
+      "domain": "hknu.ac.kr, office.hknu.ac.kr",
+      "count": 3
+    },
+    {
+      "rank": 59,
       "university": "한국기술교육대학교",
       "domain": "koreatech.ac.kr",
       "count": 3
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "KENTECH",
       "domain": "kentech.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "강릉원주대학교",
       "domain": "gwnu.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "군산대학교",
       "domain": "kunsan.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "대구가톨릭대학교",
       "domain": "cu.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "목포대학교",
       "domain": "mokpo.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "전주대학교",
       "domain": "jj.ac.kr, jj.co.kr",
       "count": 2
     },
     {
-      "rank": 64,
-      "university": "한경국립대학교",
-      "domain": "hknu.ac.kr, office.hknu.ac.kr",
-      "count": 2
-    },
-    {
-      "rank": 64,
+      "rank": 65,
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "한국교통대학교",
       "domain": "a.ut.ac.kr, ut.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "한국방송통신대학교",
       "domain": "knou.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "한국해양대학교",
       "domain": "g.kmou.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "한동대학교",
       "domain": "handong.ac.kr",
       "count": 2
     },
     {
-      "rank": 64,
+      "rank": 65,
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
