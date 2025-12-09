@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T23:28:56+09:00",
-  "total_applications": 2446,
+  "updated_at": "2025-12-09T23:29:57+09:00",
+  "total_applications": 2447,
   "total_universities": 97,
   "excluded_personal_emails": 182,
   "data": [
@@ -258,14 +258,14 @@
     },
     {
       "rank": 43,
-      "university": "국립금오공과대학교",
-      "domain": "kumoh.ac.kr",
-      "count": 9
-    },
-    {
-      "rank": 43,
       "university": "국민대학교",
       "domain": "kookmin.ac.kr",
+      "count": 10
+    },
+    {
+      "rank": 44,
+      "university": "국립금오공과대학교",
+      "domain": "kumoh.ac.kr",
       "count": 9
     },
     {
