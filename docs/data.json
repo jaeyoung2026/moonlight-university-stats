@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T17:17:57+09:00",
-  "total_applications": 2354,
+  "updated_at": "2025-12-09T17:23:57+09:00",
+  "total_applications": 2355,
   "total_universities": 96,
   "excluded_personal_emails": 173,
   "data": [
@@ -122,10 +122,10 @@
       "rank": 20,
       "university": "숙명여자대학교",
       "domain": "sookmyung.ac.kr",
-      "count": 31
+      "count": 32
     },
     {
-      "rank": 20,
+      "rank": 21,
       "university": "전남대학교",
       "domain": "jnu.ac.kr",
       "count": 31
@@ -680,7 +680,7 @@
     },
     {
       "id": "end_notice3",
-      "text": "챌린지 참여자에게는 개인용 할인코드가 메일로 발송되었습니다. 대학 공용 쿠폰은 다른 학생을 위해 남겨두세요"
+      "text": "챌린지 참여자에게는 개인용 할인코드가 메일로 발송될 예정입니다."
     }
   ],
   "completes": [
