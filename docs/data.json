@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T18:48:57+09:00",
-  "total_applications": 2379,
+  "updated_at": "2025-12-09T18:50:57+09:00",
+  "total_applications": 2380,
   "total_universities": 97,
   "excluded_personal_emails": 178,
   "data": [
@@ -126,20 +126,20 @@
     },
     {
       "rank": 21,
+      "university": "서울여자대학교",
+      "domain": "swu.ac.kr",
+      "count": 31
+    },
+    {
+      "rank": 21,
       "university": "전남대학교",
       "domain": "jnu.ac.kr",
       "count": 31
     },
     {
-      "rank": 22,
+      "rank": 23,
       "university": "국립공주대학교",
       "domain": "kongju.ac.kr, smail.kongju.ac.kr",
-      "count": 30
-    },
-    {
-      "rank": 22,
-      "university": "서울여자대학교",
-      "domain": "swu.ac.kr",
       "count": 30
     },
     {
