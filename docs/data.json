@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T20:42:56+09:00",
-  "total_applications": 2414,
+  "updated_at": "2025-12-09T20:49:57+09:00",
+  "total_applications": 2415,
   "total_universities": 97,
   "excluded_personal_emails": 180,
   "data": [
@@ -83,13 +83,13 @@
       "count": 51
     },
     {
-      "rank": 14,
+      "rank": 13,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr",
-      "count": 50
+      "count": 51
     },
     {
-      "rank": 14,
+      "rank": 15,
       "university": "인하대학교",
       "domain": "inha.ac.kr, inha.edu, office.inha.ac.kr",
       "count": 50
@@ -614,7 +614,7 @@
     },
     {
       "id": "achieve_title2",
-      "text": "🎉 인하대 목표 달성을 축하합니다!"
+      "text": "🎉 서울여대, 인하대 목표 달성을 축하합니다!"
     },
     {
       "id": "share_text",
