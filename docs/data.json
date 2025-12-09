@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T16:22:56+09:00",
-  "total_applications": 2336,
+  "updated_at": "2025-12-09T16:23:56+09:00",
+  "total_applications": 2335,
   "total_universities": 97,
   "excluded_personal_emails": 172,
   "data": [
@@ -8,7 +8,7 @@
       "rank": 1,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr, ewhai.net, ewhain.net, i.ewha.ac.kr",
-      "count": 399
+      "count": 400
     },
     {
       "rank": 2,
@@ -35,10 +35,10 @@
       "count": 110
     },
     {
-      "rank": 5,
+      "rank": 6,
       "university": "중앙대학교",
       "domain": "cau.ac.kr",
-      "count": 110
+      "count": 109
     },
     {
       "rank": 7,
@@ -72,15 +72,15 @@
     },
     {
       "rank": 12,
-      "university": "GIST",
-      "domain": "gist.gm.ac.kr, gm.gist.ac.kr",
-      "count": 52
-    },
-    {
-      "rank": 12,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
       "count": 52
+    },
+    {
+      "rank": 13,
+      "university": "GIST",
+      "domain": "gist.gm.ac.kr, gm.gist.ac.kr",
+      "count": 51
     },
     {
       "rank": 14,
@@ -690,201 +690,201 @@
       "university": "이화여자대학교",
       "applicants": 400,
       "group": "A",
-      "coupon_count": 89,
+      "coupon_count": 94,
       "coupon_count_total": 100,
-      "coupon_key": "5546E149-1122F78A4"
+      "coupon_key": "D0453088-1122F78E9"
     },
     {
       "university": "서울대학교",
       "applicants": 128,
       "group": "B",
-      "coupon_count": 57,
+      "coupon_count": 9,
       "coupon_count_total": 100,
-      "coupon_key": "6A4B1D90-1122F78A4"
+      "coupon_key": "2F6FE682-1122F78E9"
     },
     {
       "university": "한양대학교",
       "applicants": 125,
       "group": "B",
-      "coupon_count": 19,
+      "coupon_count": 25,
       "coupon_count_total": 100,
-      "coupon_key": "ADDFB57C-1122F78A4"
+      "coupon_key": "28CC6C33-1122F78E9"
     },
     {
       "university": "고려대학교",
       "applicants": 120,
       "group": "B",
-      "coupon_count": 75,
+      "coupon_count": 99,
       "coupon_count_total": 100,
-      "coupon_key": "770427CD-1122F78A4"
+      "coupon_key": "A8C69B0B-1122F78E9"
     },
     {
       "university": "성균관대학교",
       "applicants": 109,
       "group": "B",
-      "coupon_count": 21,
+      "coupon_count": 53,
       "coupon_count_total": 100,
-      "coupon_key": "2140F6F3-1122F78A4"
+      "coupon_key": "CE36D78D-1122F78E9"
     },
     {
       "university": "중앙대학교",
       "applicants": 108,
       "group": "B",
-      "coupon_count": 97,
+      "coupon_count": 82,
       "coupon_count_total": 100,
-      "coupon_key": "FE256941-1122F78A4"
+      "coupon_key": "469C7E7B-1122F78E9"
     },
     {
       "university": "연세대학교",
       "applicants": 88,
       "group": "B",
-      "coupon_count": 6,
+      "coupon_count": 8,
       "coupon_count_total": 100,
-      "coupon_key": "C11D972A-1122F78A4"
+      "coupon_key": "C4C03FD5-1122F78E9"
     },
     {
       "university": "성신여자대학교",
       "applicants": 85,
       "group": "B",
-      "coupon_count": 62,
+      "coupon_count": 97,
       "coupon_count_total": 100,
-      "coupon_key": "6BA153C2-1122F78A4"
+      "coupon_key": "A8947FFB-1122F78E9"
     },
     {
       "university": "KAIST",
       "applicants": 74,
       "group": "B",
-      "coupon_count": 6,
+      "coupon_count": 20,
       "coupon_count_total": 100,
-      "coupon_key": "B510688F-1122F78A4"
+      "coupon_key": "C2153306-1122F78E9"
     },
     {
       "university": "세종대학교",
       "applicants": 65,
       "group": "B",
-      "coupon_count": 34,
+      "coupon_count": 12,
       "coupon_count_total": 100,
-      "coupon_key": "66E9C17F-1122F78A4"
+      "coupon_key": "E535A9DE-1122F78E9"
     },
     {
       "university": "경희대학교",
       "applicants": 52,
       "group": "B",
-      "coupon_count": 40,
+      "coupon_count": 15,
       "coupon_count_total": 100,
-      "coupon_key": "646795F9-1122F78A4"
+      "coupon_key": "AA43E558-1122F78E9"
     },
     {
       "university": "아주대학교",
       "applicants": 52,
       "group": "B",
-      "coupon_count": 93,
+      "coupon_count": 12,
       "coupon_count_total": 100,
-      "coupon_key": "5B89EDBB-1122F78A4"
+      "coupon_key": "9B23661D-1122F78E9"
     },
     {
       "university": "GIST",
       "applicants": 51,
       "group": "B",
-      "coupon_count": 17,
+      "coupon_count": 49,
       "coupon_count_total": 100,
-      "coupon_key": "E8204F6-1122F78A4"
+      "coupon_key": "1820945A-1122F78E9"
     },
     {
       "university": "인하대학교",
       "applicants": 47,
       "group": "C",
-      "coupon_count": 4,
+      "coupon_count": 16,
       "coupon_count_total": 20,
-      "coupon_key": "A6D4D524-1122F78A4"
+      "coupon_key": "4FB7E27F-1122F78E9"
     },
     {
       "university": "POSTECH",
       "applicants": 44,
       "group": "C",
-      "coupon_count": 20,
+      "coupon_count": 9,
       "coupon_count_total": 20,
-      "coupon_key": "3C892B00-1122F78A4"
+      "coupon_key": "4FED3115-1122F78E9"
     },
     {
       "university": "경북대학교",
       "applicants": 43,
       "group": "C",
-      "coupon_count": 11,
+      "coupon_count": 8,
       "coupon_count_total": 20,
-      "coupon_key": "A0E01D68-1122F78A4"
+      "coupon_key": "9BDFEFA8-1122F78E9"
     },
     {
       "university": "명지대학교",
       "applicants": 41,
       "group": "C",
-      "coupon_count": 9,
+      "coupon_count": 18,
       "coupon_count_total": 20,
-      "coupon_key": "FAF61409-1122F78A4"
+      "coupon_key": "B1CC5070-1122F78E9"
     },
     {
       "university": "서울과학종합대학원대학교",
       "applicants": 37,
       "group": "C",
-      "coupon_count": 7,
+      "coupon_count": 17,
       "coupon_count_total": 20,
-      "coupon_key": "1FE1ED58-1122F78A4"
+      "coupon_key": "CC2A05AF-1122F78E9"
     },
     {
       "university": "부산대학교",
       "applicants": 33,
       "group": "C",
-      "coupon_count": 1,
+      "coupon_count": 12,
       "coupon_count_total": 20,
-      "coupon_key": "7AF8A2F3-1122F78A4"
+      "coupon_key": "4383A76B-1122F78E9"
     },
     {
       "university": "경상국립대학교",
       "applicants": 29,
       "group": "C",
-      "coupon_count": 19,
+      "coupon_count": 3,
       "coupon_count_total": 20,
-      "coupon_key": "858A5690-1122F78A4"
+      "coupon_key": "C3F04AB2-1122F78E9"
     },
     {
       "university": "전남대학교",
       "applicants": 29,
       "group": "C",
-      "coupon_count": 16,
+      "coupon_count": 9,
       "coupon_count_total": 20,
-      "coupon_key": "F7C44C9D-1122F78A4"
+      "coupon_key": "26929ABA-1122F78E9"
     },
     {
       "university": "한국항공대학교",
       "applicants": 29,
       "group": "C",
-      "coupon_count": 4,
+      "coupon_count": 8,
       "coupon_count_total": 20,
-      "coupon_key": "34573515-1122F78A4"
+      "coupon_key": "2F9FC6CA-1122F78E9"
     },
     {
       "university": "서울과학기술대학교",
       "applicants": 26,
       "group": "C",
-      "coupon_count": 3,
+      "coupon_count": 8,
       "coupon_count_total": 20,
-      "coupon_key": "6235D72F-1122F78A4"
+      "coupon_key": "7CE59EEF-1122F78E9"
     },
     {
       "university": "서울시립대학교",
       "applicants": 26,
       "group": "C",
-      "coupon_count": 15,
+      "coupon_count": 16,
       "coupon_count_total": 20,
-      "coupon_key": "F16BA995-1122F78A4"
+      "coupon_key": "CD9D272D-1122F78E9"
     },
     {
       "university": "국립부경대학교",
       "applicants": 22,
       "group": "C",
-      "coupon_count": 10,
+      "coupon_count": 9,
       "coupon_count_total": 20,
-      "coupon_key": "A79D7BB-1122F78A4"
+      "coupon_key": "13B7737F-1122F78E9"
     },
     {
       "university": "건국대학교",
@@ -892,479 +892,479 @@
       "group": "C",
       "coupon_count": 1,
       "coupon_count_total": 20,
-      "coupon_key": "146291B3-1122F78A4"
+      "coupon_key": "E269AE8C-1122F78E9"
     },
     {
       "university": "UNIST",
       "applicants": 20,
       "group": "C",
-      "coupon_count": 15,
+      "coupon_count": 18,
       "coupon_count_total": 20,
-      "coupon_key": "EB93FD5B-1122F78A4"
+      "coupon_key": "25BD77FF-1122F78E9"
     },
     {
       "university": "숙명여자대학교",
       "applicants": 19,
       "group": "C",
-      "coupon_count": 1,
+      "coupon_count": 19,
       "coupon_count_total": 20,
-      "coupon_key": "FC25A2FC-1122F78A4"
+      "coupon_key": "C1B14209-1122F78E9"
     },
     {
       "university": "가천대학교",
       "applicants": 18,
       "group": "C",
-      "coupon_count": 0,
+      "coupon_count": 16,
       "coupon_count_total": 20,
-      "coupon_key": "4C23658D-1122F78A4"
+      "coupon_key": "23CCA37F-1122F78E9"
     },
     {
       "university": "숭실대학교",
       "applicants": 17,
       "group": "C",
-      "coupon_count": 19,
+      "coupon_count": 14,
       "coupon_count_total": 20,
-      "coupon_key": "74490B03-1122F78A4"
+      "coupon_key": "CD14AB42-1122F78E9"
     },
     {
       "university": "인천대학교",
       "applicants": 16,
       "group": "C",
-      "coupon_count": 3,
+      "coupon_count": 11,
       "coupon_count_total": 20,
-      "coupon_key": "8AC0824F-1122F78A4"
+      "coupon_key": "F9F8DE95-1122F78E9"
     },
     {
       "university": "충남대학교",
       "applicants": 16,
       "group": "C",
-      "coupon_count": 9,
+      "coupon_count": 1,
       "coupon_count_total": 20,
-      "coupon_key": "1405BC19-1122F78A4"
+      "coupon_key": "E1117C9F-1122F78E9"
     },
     {
       "university": "가톨릭대학교",
       "applicants": 15,
       "group": "C",
-      "coupon_count": 3,
+      "coupon_count": 7,
       "coupon_count_total": 20,
-      "coupon_key": "571552F0-1122F78A4"
+      "coupon_key": "FF08C7F2-1122F78E9"
     },
     {
       "university": "전북대학교",
       "applicants": 15,
       "group": "C",
-      "coupon_count": 17,
+      "coupon_count": 20,
       "coupon_count_total": 20,
-      "coupon_key": "14EAC483-1122F78A4"
+      "coupon_key": "29B332C-1122F78E9"
     },
     {
       "university": "조선대학교",
       "applicants": 15,
       "group": "C",
-      "coupon_count": 9,
+      "coupon_count": 11,
       "coupon_count_total": 20,
-      "coupon_key": "8398F6CA-1122F78A4"
+      "coupon_key": "31342138-1122F78E9"
     },
     {
       "university": "국립공주대학교",
       "applicants": 14,
       "group": "C",
-      "coupon_count": 19,
+      "coupon_count": 2,
       "coupon_count_total": 20,
-      "coupon_key": "3E005C9B-1122F78A4"
+      "coupon_key": "430F8471-1122F78E9"
     },
     {
       "university": "단국대학교",
       "applicants": 14,
       "group": "C",
-      "coupon_count": 19,
+      "coupon_count": 11,
       "coupon_count_total": 20,
-      "coupon_key": "82E3DBAA-1122F78A4"
+      "coupon_key": "A5C37062-1122F78E9"
     },
     {
       "university": "강원대학교",
       "applicants": 13,
       "group": "C",
-      "coupon_count": 2,
+      "coupon_count": 20,
       "coupon_count_total": 20,
-      "coupon_key": "BE9D8619-1122F78A4"
+      "coupon_key": "6669F1E4-1122F78E9"
     },
     {
       "university": "차의과학대학교",
       "applicants": 13,
       "group": "C",
-      "coupon_count": 19,
+      "coupon_count": 13,
       "coupon_count_total": 20,
-      "coupon_key": "87220C0C-1122F78A4"
+      "coupon_key": "F58B92D4-1122F78E9"
     },
     {
       "university": "서강대학교",
       "applicants": 12,
       "group": "C",
-      "coupon_count": 16,
+      "coupon_count": 3,
       "coupon_count_total": 20,
-      "coupon_key": "CCDB6A24-1122F78A4"
+      "coupon_key": "6F390CDB-1122F78E9"
     },
     {
       "university": "충북대학교",
       "applicants": 11,
       "group": "C",
-      "coupon_count": 19,
+      "coupon_count": 17,
       "coupon_count_total": 20,
-      "coupon_key": "DE7D61BC-1122F78A4"
+      "coupon_key": "CEA849AE-1122F78E9"
     },
     {
       "university": "국민대학교",
       "applicants": 9,
       "group": "C",
-      "coupon_count": 1,
+      "coupon_count": 14,
       "coupon_count_total": 20,
-      "coupon_key": "8C9FD2E3-1122F78A4"
+      "coupon_key": "FF1A0C21-1122F78E9"
     },
     {
       "university": "국립금오공과대학교",
       "applicants": 8,
       "group": "C",
-      "coupon_count": 17,
+      "coupon_count": 7,
       "coupon_count_total": 20,
-      "coupon_key": "54B1A057-1122F78A4"
+      "coupon_key": "C88501BC-1122F78E9"
     },
     {
       "university": "홍익대학교",
       "applicants": 8,
       "group": "C",
-      "coupon_count": 19,
+      "coupon_count": 5,
       "coupon_count_total": 20,
-      "coupon_key": "CFEA6899-1122F78A4"
+      "coupon_key": "8FA5975C-1122F78E9"
     },
     {
       "university": "영남대학교",
       "applicants": 7,
       "group": "C",
-      "coupon_count": 12,
+      "coupon_count": 18,
       "coupon_count_total": 20,
-      "coupon_key": "2498BEEA-1122F78A4"
+      "coupon_key": "C2735B69-1122F78E9"
     },
     {
       "university": "한국공학대학교",
       "applicants": 7,
       "group": "C",
-      "coupon_count": 14,
+      "coupon_count": 0,
       "coupon_count_total": 20,
-      "coupon_key": "2DA693F2-1122F78A4"
+      "coupon_key": "2102EE0D-1122F78E9"
     },
     {
       "university": "계명대학교",
       "applicants": 6,
       "group": "C",
-      "coupon_count": 18,
+      "coupon_count": 1,
       "coupon_count_total": 20,
-      "coupon_key": "EC9DDBF7-1122F78A4"
+      "coupon_key": "DB03398B-1122F78E9"
     },
     {
       "university": "덕성여자대학교",
       "applicants": 6,
       "group": "C",
-      "coupon_count": 9,
+      "coupon_count": 4,
       "coupon_count_total": 20,
-      "coupon_key": "63FE2B7E-1122F78A4"
+      "coupon_key": "B704CB69-1122F78E9"
     },
     {
       "university": "경기대학교",
       "applicants": 5,
       "group": "C",
-      "coupon_count": 12,
+      "coupon_count": 14,
       "coupon_count_total": 20,
-      "coupon_key": "7AE9ABFF-1122F78A4"
+      "coupon_key": "D7485477-1122F78E9"
     },
     {
       "university": "광운대학교",
       "applicants": 5,
       "group": "C",
-      "coupon_count": 19,
+      "coupon_count": 2,
       "coupon_count_total": 20,
-      "coupon_key": "C474F03-1122F78A4"
+      "coupon_key": "1E05ACE3-1122F78E9"
     },
     {
       "university": "동아대학교",
       "applicants": 5,
       "group": "C",
-      "coupon_count": 3,
+      "coupon_count": 6,
       "coupon_count_total": 20,
-      "coupon_key": "7A035C2C-1122F78A4"
+      "coupon_key": "49759B6C-1122F78E9"
     },
     {
       "university": "한국외국어대학교",
       "applicants": 5,
       "group": "C",
-      "coupon_count": 7,
+      "coupon_count": 2,
       "coupon_count_total": 20,
-      "coupon_key": "36A1586-1122F78A4"
+      "coupon_key": "1BEF5F7C-1122F78E9"
     },
     {
       "university": "동국대학교",
       "applicants": 4,
       "group": "C",
-      "coupon_count": 3,
+      "coupon_count": 11,
       "coupon_count_total": 20,
-      "coupon_key": "A8CD3338-1122F78A4"
+      "coupon_key": "1DF6E6E9-1122F78E9"
     },
     {
       "university": "상명대학교",
       "applicants": 4,
       "group": "C",
-      "coupon_count": 0,
+      "coupon_count": 13,
       "coupon_count_total": 20,
-      "coupon_key": "2840F0A6-1122F78A4"
+      "coupon_key": "B233F674-1122F78E9"
     },
     {
       "university": "선문대학교",
       "applicants": 4,
       "group": "C",
-      "coupon_count": 3,
+      "coupon_count": 9,
       "coupon_count_total": 20,
-      "coupon_key": "79747151-1122F78A4"
+      "coupon_key": "61B5BDC4-1122F78E9"
     },
     {
       "university": "제주대학교",
       "applicants": 4,
       "group": "C",
-      "coupon_count": 7,
+      "coupon_count": 19,
       "coupon_count_total": 20,
-      "coupon_key": "EC40EA6E-1122F78A4"
+      "coupon_key": "193C911D-1122F78E9"
     },
     {
       "university": "DGIST",
       "applicants": 3,
       "group": "C",
-      "coupon_count": 14,
+      "coupon_count": 13,
       "coupon_count_total": 20,
-      "coupon_key": "96603623-1122F78A4"
+      "coupon_key": "BBE34B9-1122F78E9"
     },
     {
       "university": "경성대학교",
       "applicants": 3,
       "group": "C",
-      "coupon_count": 8,
+      "coupon_count": 7,
       "coupon_count_total": 20,
-      "coupon_key": "C7E522B4-1122F78A4"
+      "coupon_key": "F7349276-1122F78E9"
     },
     {
       "university": "대구대",
       "applicants": 3,
       "group": "C",
-      "coupon_count": 7,
+      "coupon_count": 10,
       "coupon_count_total": 20,
-      "coupon_key": "CAA36BA5-1122F78A4"
+      "coupon_key": "9445254E-1122F78E9"
     },
     {
       "university": "서울여자대학교",
       "applicants": 3,
       "group": "C",
-      "coupon_count": 0,
+      "coupon_count": 4,
       "coupon_count_total": 20,
-      "coupon_key": "B62B2CD1-1122F78A4"
+      "coupon_key": "395E2EAF-1122F78E9"
     },
     {
       "university": "울산대학교",
       "applicants": 3,
       "group": "C",
-      "coupon_count": 20,
+      "coupon_count": 10,
       "coupon_count_total": 20,
-      "coupon_key": "51320172-1122F78A4"
+      "coupon_key": "EB614C9F-1122F78E9"
     },
     {
       "university": "한국기술교육대학교",
       "applicants": 3,
       "group": "C",
-      "coupon_count": 6,
+      "coupon_count": 3,
       "coupon_count_total": 20,
-      "coupon_key": "F243625-1122F78A4"
+      "coupon_key": "4287730E-1122F78E9"
     },
     {
       "university": "강릉원주대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 0,
+      "coupon_count": 6,
       "coupon_count_total": 20,
-      "coupon_key": "4B59F524-1122F78A4"
+      "coupon_key": "76DD067B-1122F78E9"
     },
     {
       "university": "군산대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 18,
+      "coupon_count": 9,
       "coupon_count_total": 20,
-      "coupon_key": "3B7912B0-1122F78A4"
+      "coupon_key": "91052DBD-1122F78E9"
     },
     {
       "university": "대구가톨릭대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 16,
+      "coupon_count": 4,
       "coupon_count_total": 20,
-      "coupon_key": "8804F11B-1122F78A4"
+      "coupon_key": "A89EB6B0-1122F78E9"
     },
     {
       "university": "목포대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 8,
+      "coupon_count": 5,
       "coupon_count_total": 20,
-      "coupon_key": "F7FD9C49-1122F78A4"
+      "coupon_key": "F50B549F-1122F78E9"
     },
     {
       "university": "전주대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 6,
+      "coupon_count": 17,
       "coupon_count_total": 20,
-      "coupon_key": "524F814B-1122F78A4"
+      "coupon_key": "4A821AE2-1122F78E9"
     },
     {
       "university": "창원대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 9,
+      "coupon_count": 16,
       "coupon_count_total": 20,
-      "coupon_key": "B5201DF-1122F78A4"
+      "coupon_key": "3390D5E6-1122F78E9"
     },
     {
       "university": "한국교원대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 2,
+      "coupon_count": 4,
       "coupon_count_total": 20,
-      "coupon_key": "6B4F263A-1122F78A4"
+      "coupon_key": "195D0F85-1122F78E9"
     },
     {
       "university": "한국교통대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 1,
+      "coupon_count": 8,
       "coupon_count_total": 20,
-      "coupon_key": "1E56ED7E-1122F78A4"
+      "coupon_key": "EC66EF31-1122F78E9"
     },
     {
       "university": "한국방송통신대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 9,
+      "coupon_count": 14,
       "coupon_count_total": 20,
-      "coupon_key": "E0B0C77B-1122F78A4"
+      "coupon_key": "CB8E8649-1122F78E9"
     },
     {
       "university": "한국해양대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 4,
+      "coupon_count": 16,
       "coupon_count_total": 20,
-      "coupon_key": "B523A34F-1122F78A4"
+      "coupon_key": "9A0A7724-1122F78E9"
     },
     {
       "university": "한동대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 3,
+      "coupon_count": 14,
       "coupon_count_total": 20,
-      "coupon_key": "246D49F7-1122F78A4"
+      "coupon_key": "401EB6C5-1122F78E9"
     },
     {
       "university": "한신대",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 2,
+      "coupon_count": 16,
       "coupon_count_total": 20,
-      "coupon_key": "4F7B8201-1122F78A4"
+      "coupon_key": "F937B5A0-1122F78E9"
     },
     {
       "university": "[미등록] bufs.ac.kr",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 13,
+      "coupon_count": 14,
       "coupon_count_total": 20,
-      "coupon_key": "A96A4F9F-1122F78A4"
+      "coupon_key": "AE63CAFB-1122F78E9"
     },
     {
       "university": "KENTECH",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 7,
+      "coupon_count": 1,
       "coupon_count_total": 20,
-      "coupon_key": "5FB28218-1122F78A4"
+      "coupon_key": "6BAFB42B-1122F78E9"
     },
     {
       "university": "가톨릭관동대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 14,
+      "coupon_count": 19,
       "coupon_count_total": 20,
-      "coupon_key": "A1B96293-1122F78A4"
+      "coupon_key": "238E8A6A-1122F78E9"
     },
     {
       "university": "강남대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 12,
+      "coupon_count": 1,
       "coupon_count_total": 20,
-      "coupon_key": "D3C69C5A-1122F78A4"
+      "coupon_key": "7728279E-1122F78E9"
     },
     {
       "university": "경남대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 16,
+      "coupon_count": 9,
       "coupon_count_total": 20,
-      "coupon_key": "1D88104C-1122F78A4"
+      "coupon_key": "FB6CD1B-1122F78E9"
     },
     {
       "university": "경희사이버대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 1,
+      "coupon_count": 11,
       "coupon_count_total": 20,
-      "coupon_key": "486E3CA3-1122F78A4"
+      "coupon_key": "354D5939-1122F78E9"
     },
     {
       "university": "국립한밭대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 0,
+      "coupon_count": 19,
       "coupon_count_total": 20,
-      "coupon_key": "49F7B969-1122F78A4"
+      "coupon_key": "BF37B2C5-1122F78E9"
     },
     {
       "university": "국제뇌교육종합대학원대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 15,
+      "coupon_count": 13,
       "coupon_count_total": 20,
-      "coupon_key": "F73A1FBF-1122F78A4"
+      "coupon_key": "E64FB10B-1122F78E9"
     },
     {
       "university": "대전대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 2,
+      "coupon_count": 1,
       "coupon_count_total": 20,
-      "coupon_key": "853C1965-1122F78A4"
+      "coupon_key": "4BA7E929-1122F78E9"
     },
     {
       "university": "동덕여자대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 4,
+      "coupon_count": 16,
       "coupon_count_total": 20,
-      "coupon_key": "F9EB4567-1122F78A4"
+      "coupon_key": "42ECC64A-1122F78E9"
     },
     {
       "university": "동의대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 10,
+      "coupon_count": 7,
       "coupon_count_total": 20,
-      "coupon_key": "45CBCC15-1122F78A4"
+      "coupon_key": "41BA8092-1122F78E9"
     },
     {
       "university": "배재대학교",
@@ -1372,7 +1372,7 @@
       "group": "C",
       "coupon_count": 2,
       "coupon_count_total": 20,
-      "coupon_key": "6C03D8BA-1122F78A4"
+      "coupon_key": "2F7E1B5E-1122F78E9"
     },
     {
       "university": "수원대학교",
@@ -1380,39 +1380,39 @@
       "group": "C",
       "coupon_count": 18,
       "coupon_count_total": 20,
-      "coupon_key": "CD5E5127-1122F78A4"
+      "coupon_key": "23191680-1122F78E9"
     },
     {
       "university": "순천향대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 2,
+      "coupon_count": 18,
       "coupon_count_total": 20,
-      "coupon_key": "42A4322A-1122F78A4"
+      "coupon_key": "FD95E66D-1122F78E9"
     },
     {
       "university": "춘천교육대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 10,
+      "coupon_count": 1,
       "coupon_count_total": 20,
-      "coupon_key": "722754C4-1122F78A4"
+      "coupon_key": "451057B7-1122F78E9"
     },
     {
       "university": "한경국립대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 15,
+      "coupon_count": 18,
       "coupon_count_total": 20,
-      "coupon_key": "C033572C-1122F78A4"
+      "coupon_key": "F548D80-1122F78E9"
     },
     {
       "university": "한국전통문화대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 9,
+      "coupon_count": 1,
       "coupon_count_total": 20,
-      "coupon_key": "1977417A-1122F78A4"
+      "coupon_key": "D2F41D6E-1122F78E9"
     },
     {
       "university": "한남대학교",
@@ -1420,31 +1420,31 @@
       "group": "C",
       "coupon_count": 14,
       "coupon_count_total": 20,
-      "coupon_key": "37649DC1-1122F78A4"
+      "coupon_key": "E527B86F-1122F78E9"
     },
     {
       "university": "한성대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 10,
+      "coupon_count": 3,
       "coupon_count_total": 20,
-      "coupon_key": "BAE55C20-1122F78A4"
+      "coupon_key": "EDB0ACD5-1122F78E9"
     },
     {
       "university": "협성대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 8,
+      "coupon_count": 20,
       "coupon_count_total": 20,
-      "coupon_key": "46225514-1122F78A4"
+      "coupon_key": "FE4E1C7E-1122F78E9"
     },
     {
       "university": "호서대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 7,
+      "coupon_count": 9,
       "coupon_count_total": 20,
-      "coupon_key": "5AA7F32C-1122F78A4"
+      "coupon_key": "C552DA22-1122F78E9"
     }
   ]
 }
