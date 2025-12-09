@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-09T20:03:57+09:00",
+  "updated_at": "2025-12-09T20:05:57+09:00",
   "total_applications": 2399,
-  "total_universities": 98,
+  "total_universities": 97,
   "excluded_personal_emails": 179,
   "data": [
     {
@@ -420,6 +420,12 @@
     },
     {
       "rank": 64,
+      "university": "한경국립대학교",
+      "domain": "hknu.ac.kr, office.hknu.ac.kr",
+      "count": 2
+    },
+    {
+      "rank": 64,
       "university": "한국교원대학교",
       "domain": "knue.ac.kr",
       "count": 2
@@ -453,18 +459,6 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] hknu.ac.kr",
-      "domain": "hknu.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "[미등록] syuin.ac.kr",
-      "domain": "syuin.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
@@ -534,6 +528,12 @@
     },
     {
       "rank": null,
+      "university": "삼육대학교",
+      "domain": "syuin.ac.kr",
+      "count": 1
+    },
+    {
+      "rank": null,
       "university": "수원대학교",
       "domain": "suwon.ac.kr",
       "count": 1
@@ -554,12 +554,6 @@
       "rank": null,
       "university": "춘천교육대학교",
       "domain": "student.cnue.ac.kr",
-      "count": 1
-    },
-    {
-      "rank": null,
-      "university": "한경국립대학교",
-      "domain": "office.hknu.ac.kr",
       "count": 1
     },
     {
