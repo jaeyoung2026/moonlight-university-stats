@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-10T02:42:59+09:00",
-  "total_applications": 2469,
-  "total_universities": 99,
+  "updated_at": "2025-12-10T03:41:56+09:00",
+  "total_applications": 2470,
+  "total_universities": 100,
   "excluded_personal_emails": 187,
   "data": [
     {
@@ -459,6 +459,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] campus.tu-berlin.de",
+      "domain": "campus.tu-berlin.de",
+      "count": 1
     },
     {
       "rank": null,
