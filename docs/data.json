@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-09T19:51:59+09:00",
-  "total_applications": 2391,
-  "total_universities": 97,
+  "updated_at": "2025-12-09T19:52:56+09:00",
+  "total_applications": 2393,
+  "total_universities": 98,
   "excluded_personal_emails": 179,
   "data": [
     {
@@ -66,15 +66,15 @@
     },
     {
       "rank": 11,
-      "university": "아주대학교",
-      "domain": "ajou.ac.kr",
+      "university": "경희대학교",
+      "domain": "khu.ac.kr",
       "count": 53
     },
     {
-      "rank": 12,
-      "university": "경희대학교",
-      "domain": "khu.ac.kr",
-      "count": 52
+      "rank": 11,
+      "university": "아주대학교",
+      "domain": "ajou.ac.kr",
+      "count": 53
     },
     {
       "rank": 13,
@@ -453,6 +453,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] hknu.ac.kr",
+      "domain": "hknu.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
