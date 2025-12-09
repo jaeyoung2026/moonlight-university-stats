@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-09T22:28:57+09:00",
-  "total_applications": 2434,
+  "updated_at": "2025-12-09T22:31:01+09:00",
+  "total_applications": 2435,
   "total_universities": 97,
   "excluded_personal_emails": 181,
   "data": [
@@ -197,10 +197,10 @@
       "count": 18
     },
     {
-      "rank": 33,
+      "rank": 32,
       "university": "숭실대학교",
       "domain": "soongsil.ac.kr, ssu.ac.kr, ssu.com",
-      "count": 17
+      "count": 18
     },
     {
       "rank": 34,
