@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-10T14:39:04+09:00",
+  "updated_at": "2025-12-10T14:39:59+09:00",
   "total_applications": 2596,
   "total_universities": 99,
   "excluded_personal_emails": 218,
@@ -835,7 +835,7 @@
       "applicants": 55,
       "group": "C",
       "coupon_count": 100,
-      "coupon_count_total": 20,
+      "coupon_count_total": 100,
       "coupon_key": "준비중"
     },
     {
@@ -843,7 +843,7 @@
       "applicants": 55,
       "group": "C",
       "coupon_count": 100,
-      "coupon_count_total": 20,
+      "coupon_count_total": 100,
       "coupon_key": "준비중"
     },
     {
@@ -851,7 +851,7 @@
       "applicants": 54,
       "group": "C",
       "coupon_count": 100,
-      "coupon_count_total": 20,
+      "coupon_count_total": 100,
       "coupon_key": "준비중"
     },
     {
@@ -859,7 +859,7 @@
       "applicants": 53,
       "group": "C",
       "coupon_count": 100,
-      "coupon_count_total": 20,
+      "coupon_count_total": 100,
       "coupon_key": "준비중"
     },
     {
@@ -867,7 +867,7 @@
       "applicants": 51,
       "group": "C",
       "coupon_count": 100,
-      "coupon_count_total": 20,
+      "coupon_count_total": 100,
       "coupon_key": "준비중"
     },
     {
@@ -875,15 +875,15 @@
       "applicants": 50,
       "group": "C",
       "coupon_count": 100,
-      "coupon_count_total": 20,
+      "coupon_count_total": 100,
       "coupon_key": "준비중"
     },
     {
       "university": "명지대학교",
       "applicants": 42,
       "group": "C",
-      "coupon_count": 20,
-      "coupon_count_total": 20,
+      "coupon_count": 100,
+      "coupon_count_total": 100,
       "coupon_key": "준비중"
     },
     {
