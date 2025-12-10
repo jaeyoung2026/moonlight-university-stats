@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T15:14:56+09:00",
-  "total_applications": 2620,
+  "updated_at": "2025-12-10T15:16:57+09:00",
+  "total_applications": 2621,
   "total_universities": 99,
   "excluded_personal_emails": 218,
   "data": [
@@ -245,10 +245,10 @@
       "count": 14
     },
     {
-      "rank": 41,
+      "rank": 40,
       "university": "서강대학교",
       "domain": "sogang.ac.kr, u.sogang.ac.kr",
-      "count": 13
+      "count": 14
     },
     {
       "rank": 42,
