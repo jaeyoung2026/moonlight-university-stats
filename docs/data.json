@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T11:50:56+09:00",
-  "total_applications": 2551,
+  "updated_at": "2025-12-10T11:52:57+09:00",
+  "total_applications": 2552,
   "total_universities": 98,
   "excluded_personal_emails": 213,
   "data": [
@@ -62,7 +62,7 @@
       "rank": 10,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr, swu.co.kr, swuo365.onmicrosoft.com",
-      "count": 74
+      "count": 75
     },
     {
       "rank": 11,
@@ -701,6 +701,18 @@
     {
       "id": "end_notice3",
       "text": "챌린지 참여자에게는 개인용 할인코드가 메일로 발송될 예정입니다."
+    },
+    {
+      "id": "POSTECH",
+      "text": "🎉 목표 달성을 축하합니다!"
+    },
+    {
+      "id": "건국대학교",
+      "text": "🎉 목표 달성을 축하합니다!"
+    },
+    {
+      "id": "경북대학교",
+      "text": "🎉 목표 달성을 축하합니다!"
     }
   ],
   "completes": [
