@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T09:25:57+09:00",
-  "total_applications": 2478,
+  "updated_at": "2025-12-10T09:30:56+09:00",
+  "total_applications": 2479,
   "total_universities": 99,
   "excluded_personal_emails": 190,
   "data": [
@@ -330,32 +330,32 @@
     },
     {
       "rank": 51,
+      "university": "창원대학교",
+      "domain": "changwon.ac.kr, gs.cwnu.ac.kr",
+      "count": 5
+    },
+    {
+      "rank": 51,
       "university": "한국외국어대학교",
       "domain": "hufs.ac.kr",
       "count": 5
     },
     {
-      "rank": 56,
+      "rank": 57,
       "university": "상명대학교",
       "domain": "sangmyung.kr",
       "count": 4
     },
     {
-      "rank": 56,
+      "rank": 57,
       "university": "선문대학교",
       "domain": "sunmoon.ac.kr",
       "count": 4
     },
     {
-      "rank": 56,
+      "rank": 57,
       "university": "제주대학교",
       "domain": "stu.jejunu.ac.kr",
-      "count": 4
-    },
-    {
-      "rank": 56,
-      "university": "창원대학교",
-      "domain": "changwon.ac.kr, gs.cwnu.ac.kr",
       "count": 4
     },
     {
