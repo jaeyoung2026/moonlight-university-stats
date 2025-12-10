@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-10T10:22:57+09:00",
+  "updated_at": "2025-12-10T10:25:59+09:00",
   "total_applications": 2484,
   "total_universities": 100,
   "excluded_personal_emails": 190,
@@ -705,6 +705,10 @@
     {
       "id": "end_notice3",
       "text": "챌린지 참여자에게는 개인용 할인코드가 메일로 발송될 예정입니다."
+    },
+    {
+      "id": "서울 여자 대학교",
+      "text": ""
     }
   ],
   "completes": [
