@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-10T20:30:59+09:00",
+  "updated_at": "2025-12-10T21:40:58+09:00",
   "total_applications": 2709,
   "total_universities": 98,
   "excluded_personal_emails": 222,
@@ -876,8 +876,8 @@
       "university": "명지대학교",
       "applicants": 42,
       "group": "C",
-      "coupon_count": 100,
-      "coupon_count_total": 100,
+      "coupon_count": 20,
+      "coupon_count_total": 20,
       "coupon_key": "준비중"
     },
     {
