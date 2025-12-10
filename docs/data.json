@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T16:41:56+09:00",
-  "total_applications": 2649,
+  "updated_at": "2025-12-10T16:47:57+09:00",
+  "total_applications": 2650,
   "total_universities": 98,
   "excluded_personal_emails": 219,
   "data": [
@@ -80,7 +80,7 @@
       "rank": 13,
       "university": "숙명여자대학교",
       "domain": "sookmyung.ac.kr",
-      "count": 59
+      "count": 60
     },
     {
       "rank": 14,
