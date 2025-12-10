@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T15:16:57+09:00",
-  "total_applications": 2621,
+  "updated_at": "2025-12-10T15:18:57+09:00",
+  "total_applications": 2623,
   "total_universities": 99,
   "excluded_personal_emails": 218,
   "data": [
@@ -210,6 +210,12 @@
     },
     {
       "rank": 35,
+      "university": "서강대학교",
+      "domain": "sogang.ac.kr, u.sogang.ac.kr",
+      "count": 16
+    },
+    {
+      "rank": 35,
       "university": "조선대학교",
       "domain": "chosun.ac.kr, chosun.kr",
       "count": 16
@@ -221,33 +227,27 @@
       "count": 16
     },
     {
-      "rank": 37,
+      "rank": 38,
       "university": "가톨릭대학교",
       "domain": "catholic.ac.kr, cmcnu.or.kr",
       "count": 15
     },
     {
-      "rank": 37,
+      "rank": 38,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 15
     },
     {
-      "rank": 37,
+      "rank": 38,
       "university": "차의과학대학교",
       "domain": "cha.ac.kr, chauniv.ac.kr, student.cha.ac.kr",
       "count": 15
     },
     {
-      "rank": 40,
+      "rank": 41,
       "university": "강원대학교",
       "domain": "kangwon.ac.kr",
-      "count": 14
-    },
-    {
-      "rank": 40,
-      "university": "서강대학교",
-      "domain": "sogang.ac.kr, u.sogang.ac.kr",
       "count": 14
     },
     {
