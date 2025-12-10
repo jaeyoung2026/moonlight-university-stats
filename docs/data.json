@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T15:19:57+09:00",
-  "total_applications": 2625,
+  "updated_at": "2025-12-10T15:21:56+09:00",
+  "total_applications": 2626,
   "total_universities": 99,
   "excluded_personal_emails": 218,
   "data": [
@@ -176,7 +176,7 @@
       "rank": 29,
       "university": "국립부경대학교",
       "domain": "pknu.ac.kr, pukyong.ac.kr",
-      "count": 24
+      "count": 25
     },
     {
       "rank": 30,
