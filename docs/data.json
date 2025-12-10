@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T14:03:56+09:00",
-  "total_applications": 2584,
+  "updated_at": "2025-12-10T14:04:59+09:00",
+  "total_applications": 2585,
   "total_universities": 98,
   "excluded_personal_emails": 217,
   "data": [
@@ -56,7 +56,7 @@
       "rank": 9,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr, swu.co.kr, swuo365.onmicrosoft.com",
-      "count": 82
+      "count": 83
     },
     {
       "rank": 10,
