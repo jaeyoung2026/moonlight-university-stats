@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T17:43:58+09:00",
-  "total_applications": 2664,
+  "updated_at": "2025-12-10T17:45:56+09:00",
+  "total_applications": 2666,
   "total_universities": 98,
   "excluded_personal_emails": 219,
   "data": [
@@ -180,14 +180,14 @@
     },
     {
       "rank": 30,
-      "university": "UNIST",
-      "domain": "unist.ac.kr",
-      "count": 21
-    },
-    {
-      "rank": 30,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
+      "count": 23
+    },
+    {
+      "rank": 31,
+      "university": "UNIST",
+      "domain": "unist.ac.kr",
       "count": 21
     },
     {
