@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T14:17:57+09:00",
-  "total_applications": 2592,
+  "updated_at": "2025-12-10T14:24:56+09:00",
+  "total_applications": 2594,
   "total_universities": 99,
   "excluded_personal_emails": 217,
   "data": [
@@ -30,14 +30,14 @@
     },
     {
       "rank": 5,
-      "university": "성균관대학교",
-      "domain": "g.skku.edu, o.skku.edu, skku.edu",
-      "count": 116
-    },
-    {
-      "rank": 5,
       "university": "중앙대학교",
       "domain": "cau.ac.kr",
+      "count": 117
+    },
+    {
+      "rank": 6,
+      "university": "성균관대학교",
+      "domain": "g.skku.edu, o.skku.edu, skku.edu",
       "count": 116
     },
     {
@@ -210,30 +210,30 @@
     },
     {
       "rank": 35,
+      "university": "조선대학교",
+      "domain": "chosun.ac.kr, chosun.kr",
+      "count": 16
+    },
+    {
+      "rank": 35,
       "university": "충남대학교",
       "domain": "o.cnu.ac.kr",
       "count": 16
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "가톨릭대학교",
       "domain": "catholic.ac.kr, cmcnu.or.kr",
       "count": 15
     },
     {
-      "rank": 36,
+      "rank": 37,
       "university": "전북대학교",
       "domain": "jbnu.ac.kr",
       "count": 15
     },
     {
-      "rank": 36,
-      "university": "조선대학교",
-      "domain": "chosun.ac.kr, chosun.kr",
-      "count": 15
-    },
-    {
-      "rank": 36,
+      "rank": 37,
       "university": "차의과학대학교",
       "domain": "cha.ac.kr, chauniv.ac.kr, student.cha.ac.kr",
       "count": 15
