@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T10:30:57+09:00",
-  "total_applications": 2486,
+  "updated_at": "2025-12-10T10:35:57+09:00",
+  "total_applications": 2487,
   "total_universities": 100,
   "excluded_personal_emails": 190,
   "data": [
@@ -74,10 +74,10 @@
       "rank": 12,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
-      "count": 55
+      "count": 56
     },
     {
-      "rank": 12,
+      "rank": 13,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
       "count": 55
