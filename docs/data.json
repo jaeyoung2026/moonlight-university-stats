@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-10T19:00:57+09:00",
-  "total_applications": 2684,
-  "total_universities": 99,
+  "updated_at": "2025-12-10T19:01:59+09:00",
+  "total_applications": 2685,
+  "total_universities": 100,
   "excluded_personal_emails": 221,
   "data": [
     {
@@ -465,6 +465,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] assist.com",
+      "domain": "assist.com",
+      "count": 1
     },
     {
       "rank": null,
