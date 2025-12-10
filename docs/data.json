@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-12-10T17:51:57+09:00",
-  "total_applications": 2675,
+  "updated_at": "2025-12-10T17:52:56+09:00",
+  "total_applications": 2676,
   "total_universities": 98,
-  "excluded_personal_emails": 219,
+  "excluded_personal_emails": 220,
   "data": [
     {
       "rank": 1,
@@ -150,14 +150,14 @@
     },
     {
       "rank": 25,
-      "university": "경상국립대학교",
-      "domain": "gnu.ac.kr",
-      "count": 30
-    },
-    {
-      "rank": 25,
       "university": "단국대학교",
       "domain": "dankook.ac.kr",
+      "count": 31
+    },
+    {
+      "rank": 26,
+      "university": "경상국립대학교",
+      "domain": "gnu.ac.kr",
       "count": 30
     },
     {
