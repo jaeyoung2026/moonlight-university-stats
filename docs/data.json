@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T19:34:01+09:00",
-  "total_applications": 2691,
+  "updated_at": "2025-12-10T19:34:59+09:00",
+  "total_applications": 2692,
   "total_universities": 98,
   "excluded_personal_emails": 221,
   "data": [
@@ -128,7 +128,7 @@
       "rank": 21,
       "university": "부산대학교",
       "domain": "pusan.ac.kr",
-      "count": 40
+      "count": 41
     },
     {
       "rank": 22,
