@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-10T13:29:56+09:00",
-  "total_applications": 2575,
-  "total_universities": 99,
+  "updated_at": "2025-12-10T13:30:59+09:00",
+  "total_applications": 2576,
+  "total_universities": 98,
   "excluded_personal_emails": 216,
   "data": [
     {
@@ -62,7 +62,7 @@
       "rank": 10,
       "university": "KAIST",
       "domain": "kaist.ac.kr",
-      "count": 77
+      "count": 78
     },
     {
       "rank": 11,
@@ -146,7 +146,7 @@
       "rank": 24,
       "university": "국립공주대학교",
       "domain": "kongju.ac.kr, smail.kongju.ac.kr",
-      "count": 34
+      "count": 35
     },
     {
       "rank": 25,
@@ -465,12 +465,6 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
-    },
-    {
-      "rank": null,
-      "university": "[미등록] samil.kongju.ac.kr",
-      "domain": "samil.kongju.ac.kr",
-      "count": 1
     },
     {
       "rank": null,
