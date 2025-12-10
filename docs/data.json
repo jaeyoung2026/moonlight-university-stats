@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T12:19:57+09:00",
-  "total_applications": 2559,
+  "updated_at": "2025-12-10T12:20:57+09:00",
+  "total_applications": 2553,
   "total_universities": 98,
   "excluded_personal_emails": 214,
   "data": [
@@ -8,13 +8,13 @@
       "rank": 1,
       "university": "이화여자대학교",
       "domain": "ewha.ac.kr, ewhai.net, ewhain.net, i.ewha.ac.kr",
-      "count": 404
+      "count": 403
     },
     {
       "rank": 2,
       "university": "서울대학교",
       "domain": "snu.ac.kr",
-      "count": 139
+      "count": 138
     },
     {
       "rank": 3,
@@ -32,7 +32,7 @@
       "rank": 5,
       "university": "성균관대학교",
       "domain": "g.skku.edu, o.skku.edu, skku.edu",
-      "count": 116
+      "count": 115
     },
     {
       "rank": 6,
@@ -80,25 +80,25 @@
       "rank": 13,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
-      "count": 56
+      "count": 55
     },
     {
       "rank": 13,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
-      "count": 56
-    },
-    {
-      "rank": 15,
-      "university": "GIST",
-      "domain": "gist.gm.ac.kr, gm.gist.ac.kr",
-      "count": 53
+      "count": 55
     },
     {
       "rank": 15,
       "university": "건국대학교",
       "domain": "kku.ac.kr, konkuk.ac.kr",
       "count": 53
+    },
+    {
+      "rank": 16,
+      "university": "GIST",
+      "domain": "gist.gm.ac.kr, gm.gist.ac.kr",
+      "count": 52
     },
     {
       "rank": 17,
