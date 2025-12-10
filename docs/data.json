@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T13:23:56+09:00",
-  "total_applications": 2573,
+  "updated_at": "2025-12-10T13:27:56+09:00",
+  "total_applications": 2574,
   "total_universities": 99,
   "excluded_personal_emails": 216,
   "data": [
@@ -233,15 +233,15 @@
       "count": 15
     },
     {
-      "rank": 39,
-      "university": "강원대학교",
-      "domain": "kangwon.ac.kr",
-      "count": 14
-    },
-    {
-      "rank": 39,
+      "rank": 36,
       "university": "차의과학대학교",
       "domain": "cha.ac.kr, chauniv.ac.kr, student.cha.ac.kr",
+      "count": 15
+    },
+    {
+      "rank": 40,
+      "university": "강원대학교",
+      "domain": "kangwon.ac.kr",
       "count": 14
     },
     {
