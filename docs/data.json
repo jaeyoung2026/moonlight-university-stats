@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T15:03:58+09:00",
-  "total_applications": 2614,
+  "updated_at": "2025-12-10T15:04:56+09:00",
+  "total_applications": 2615,
   "total_universities": 99,
   "excluded_personal_emails": 218,
   "data": [
@@ -30,15 +30,15 @@
     },
     {
       "rank": 5,
-      "university": "중앙대학교",
-      "domain": "cau.ac.kr",
+      "university": "성균관대학교",
+      "domain": "g.skku.edu, o.skku.edu, skku.edu",
       "count": 117
     },
     {
-      "rank": 6,
-      "university": "성균관대학교",
-      "domain": "g.skku.edu, o.skku.edu, skku.edu",
-      "count": 116
+      "rank": 5,
+      "university": "중앙대학교",
+      "domain": "cau.ac.kr",
+      "count": 117
     },
     {
       "rank": 7,
