@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T15:10:57+09:00",
-  "total_applications": 2617,
+  "updated_at": "2025-12-10T15:11:58+09:00",
+  "total_applications": 2619,
   "total_universities": 99,
   "excluded_personal_emails": 218,
   "data": [
@@ -56,7 +56,7 @@
       "rank": 9,
       "university": "서울여자대학교",
       "domain": "swu.ac.kr, swu.co.kr, swuo365.onmicrosoft.com",
-      "count": 85
+      "count": 86
     },
     {
       "rank": 10,
@@ -80,22 +80,22 @@
       "rank": 13,
       "university": "건국대학교",
       "domain": "kku.ac.kr, konkuk.ac.kr",
-      "count": 55
+      "count": 56
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "경북대학교",
       "domain": "knu.ac.kr",
       "count": 55
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "경희대학교",
       "domain": "khu.ac.kr",
       "count": 55
     },
     {
-      "rank": 13,
+      "rank": 14,
       "university": "아주대학교",
       "domain": "ajou.ac.kr",
       "count": 55
