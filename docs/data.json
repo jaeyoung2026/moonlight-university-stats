@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-12-10T18:46:56+09:00",
-  "total_applications": 2682,
-  "total_universities": 98,
+  "updated_at": "2025-12-10T18:56:00+09:00",
+  "total_applications": 2683,
+  "total_universities": 99,
   "excluded_personal_emails": 221,
   "data": [
     {
@@ -465,6 +465,12 @@
       "university": "한신대",
       "domain": "hs.ac.kr",
       "count": 2
+    },
+    {
+      "rank": null,
+      "university": "[미등록] mail.hongik.ac.kr",
+      "domain": "mail.hongik.ac.kr",
+      "count": 1
     },
     {
       "rank": null,
