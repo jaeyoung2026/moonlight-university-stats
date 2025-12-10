@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-10T21:45:56+09:00",
+  "updated_at": "2025-12-10T21:48:57+09:00",
   "total_applications": 2701,
   "total_universities": 98,
   "excluded_personal_emails": 222,
@@ -730,7 +730,7 @@
     },
     {
       "university": "서울대학교",
-      "applicants": 150,
+      "applicants": 149,
       "group": "B",
       "coupon_count": 100,
       "coupon_count_total": 100,
@@ -913,14 +913,6 @@
       "coupon_key": "준비중"
     },
     {
-      "university": "단국대학교",
-      "applicants": 31,
-      "group": "C",
-      "coupon_count": 20,
-      "coupon_count_total": 20,
-      "coupon_key": "준비중"
-    },
-    {
       "university": "경상국립대학교",
       "applicants": 30,
       "group": "C",
@@ -955,6 +947,14 @@
     {
       "university": "국립부경대학교",
       "applicants": 25,
+      "group": "C",
+      "coupon_count": 20,
+      "coupon_count_total": 20,
+      "coupon_key": "준비중"
+    },
+    {
+      "university": "단국대학교",
+      "applicants": 24,
       "group": "C",
       "coupon_count": 20,
       "coupon_count_total": 20,
