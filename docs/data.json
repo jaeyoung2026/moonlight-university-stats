@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T10:40:57+09:00",
-  "total_applications": 2488,
+  "updated_at": "2025-12-10T10:42:57+09:00",
+  "total_applications": 2489,
   "total_universities": 100,
   "excluded_personal_emails": 191,
   "data": [
@@ -32,7 +32,7 @@
       "rank": 5,
       "university": "성균관대학교",
       "domain": "g.skku.edu, o.skku.edu, skku.edu",
-      "count": 114
+      "count": 115
     },
     {
       "rank": 6,
