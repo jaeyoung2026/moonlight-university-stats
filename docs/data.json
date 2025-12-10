@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T17:17:57+09:00",
-  "total_applications": 2653,
+  "updated_at": "2025-12-10T17:18:59+09:00",
+  "total_applications": 2654,
   "total_universities": 98,
   "excluded_personal_emails": 219,
   "data": [
@@ -269,15 +269,15 @@
       "count": 9
     },
     {
-      "rank": 45,
-      "university": "영남대학교",
-      "domain": "ynu.ac.kr, yu.ac.kr",
-      "count": 8
-    },
-    {
-      "rank": 45,
+      "rank": 44,
       "university": "홍익대학교",
       "domain": "g.hongik.ac.kr, hongik.ac.kr",
+      "count": 9
+    },
+    {
+      "rank": 46,
+      "university": "영남대학교",
+      "domain": "ynu.ac.kr, yu.ac.kr",
       "count": 8
     },
     {
