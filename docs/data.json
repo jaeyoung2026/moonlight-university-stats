@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-10T13:32:56+09:00",
-  "total_applications": 2577,
+  "updated_at": "2025-12-10T13:35:57+09:00",
+  "total_applications": 2578,
   "total_universities": 98,
   "excluded_personal_emails": 216,
   "data": [
@@ -252,14 +252,14 @@
     },
     {
       "rank": 42,
-      "university": "국민대학교",
-      "domain": "kookmin.ac.kr",
-      "count": 11
-    },
-    {
-      "rank": 42,
       "university": "충북대학교",
       "domain": "cbnu.ac.kr, chungbuk.ac.kr",
+      "count": 12
+    },
+    {
+      "rank": 43,
+      "university": "국민대학교",
+      "domain": "kookmin.ac.kr",
       "count": 11
     },
     {
