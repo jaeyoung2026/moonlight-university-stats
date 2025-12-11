@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-11T15:56:56+09:00",
+  "updated_at": "2025-12-11T16:20:57+09:00",
   "total_applications": 2701,
   "total_universities": 98,
   "excluded_personal_emails": 222,
@@ -1486,7 +1486,7 @@
       "group": "C",
       "coupon_count": 20,
       "coupon_count_total": 20,
-      "coupon_key": "ewha"
+      "coupon_key": "쿠폰 준비 중입니다 ."
     },
     {
       "university": "협성대학교",
@@ -1494,7 +1494,7 @@
       "group": "C",
       "coupon_count": 20,
       "coupon_count_total": 20,
-      "coupon_key": "ehwa"
+      "coupon_key": "쿠폰 준비 중입니다 ."
     },
     {
       "university": "호서대학교",
@@ -1502,7 +1502,7 @@
       "group": "C",
       "coupon_count": 20,
       "coupon_count_total": 20,
-      "coupon_key": "TP3AKPQD"
+      "coupon_key": "쿠폰 준비 중입니다 ."
     }
   ]
 }
