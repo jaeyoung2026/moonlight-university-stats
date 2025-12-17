@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-16T10:18:35+09:00",
+  "updated_at": "2025-12-17T09:18:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -724,7 +724,7 @@
       "university": "이화여자대학교",
       "applicants": 407,
       "group": "A",
-      "coupon_count": 4,
+      "coupon_count": 5,
       "coupon_count_total": 100,
       "coupon_key": "91PBI6D7"
     },
@@ -732,7 +732,7 @@
       "university": "서울대학교",
       "applicants": 149,
       "group": "B",
-      "coupon_count": 1,
+      "coupon_count": 3,
       "coupon_count_total": 100,
       "coupon_key": "B04UBD2S"
     },
@@ -740,7 +740,7 @@
       "university": "한양대학교",
       "applicants": 136,
       "group": "B",
-      "coupon_count": 3,
+      "coupon_count": 8,
       "coupon_count_total": 100,
       "coupon_key": "UM36B0Z0"
     },
@@ -748,7 +748,7 @@
       "university": "고려대학교",
       "applicants": 127,
       "group": "B",
-      "coupon_count": 3,
+      "coupon_count": 4,
       "coupon_count_total": 100,
       "coupon_key": "NAV5IWFJ"
     },
@@ -756,7 +756,7 @@
       "university": "중앙대학교",
       "applicants": 120,
       "group": "B",
-      "coupon_count": 5,
+      "coupon_count": 9,
       "coupon_count_total": 100,
       "coupon_key": "3FZHOVDR"
     },
@@ -764,7 +764,7 @@
       "university": "성균관대학교",
       "applicants": 118,
       "group": "B",
-      "coupon_count": 7,
+      "coupon_count": 8,
       "coupon_count_total": 100,
       "coupon_key": "MNZT2ZN1"
     },
@@ -772,7 +772,7 @@
       "university": "성신여자대학교",
       "applicants": 109,
       "group": "B",
-      "coupon_count": 6,
+      "coupon_count": 7,
       "coupon_count_total": 100,
       "coupon_key": "ICPYD5IO"
     },
@@ -780,7 +780,7 @@
       "university": "연세대학교",
       "applicants": 95,
       "group": "B",
-      "coupon_count": 2,
+      "coupon_count": 5,
       "coupon_count_total": 100,
       "coupon_key": "0HFUGZP4"
     },
@@ -788,7 +788,7 @@
       "university": "서울여자대학교",
       "applicants": 87,
       "group": "B",
-      "coupon_count": 3,
+      "coupon_count": 7,
       "coupon_count_total": 100,
       "coupon_key": "0T1C1WB0"
     },
@@ -796,7 +796,7 @@
       "university": "KAIST",
       "applicants": 81,
       "group": "B",
-      "coupon_count": 3,
+      "coupon_count": 7,
       "coupon_count_total": 100,
       "coupon_key": "E4FLTD62"
     },
@@ -804,7 +804,7 @@
       "university": "POSTECH",
       "applicants": 76,
       "group": "B",
-      "coupon_count": 3,
+      "coupon_count": 8,
       "coupon_count_total": 100,
       "coupon_key": "9M6OFMEH"
     },
@@ -812,7 +812,7 @@
       "university": "세종대학교",
       "applicants": 71,
       "group": "B",
-      "coupon_count": 6,
+      "coupon_count": 9,
       "coupon_count_total": 100,
       "coupon_key": "P8FUPI25"
     },
@@ -820,7 +820,7 @@
       "university": "숙명여자대학교",
       "applicants": 65,
       "group": "B",
-      "coupon_count": 2,
+      "coupon_count": 5,
       "coupon_count_total": 100,
       "coupon_key": "0UUB4KJP"
     },
@@ -828,7 +828,7 @@
       "university": "경북대학교",
       "applicants": 60,
       "group": "B",
-      "coupon_count": 2,
+      "coupon_count": 6,
       "coupon_count_total": 100,
       "coupon_key": "J8J9BL5W"
     },
@@ -836,7 +836,7 @@
       "university": "건국대학교",
       "applicants": 57,
       "group": "B",
-      "coupon_count": 7,
+      "coupon_count": 12,
       "coupon_count_total": 100,
       "coupon_key": "JZY1K564"
     },
@@ -844,7 +844,7 @@
       "university": "경희대학교",
       "applicants": 55,
       "group": "B",
-      "coupon_count": 1,
+      "coupon_count": 6,
       "coupon_count_total": 100,
       "coupon_key": "SLLFQBP3"
     },
@@ -852,7 +852,7 @@
       "university": "아주대학교",
       "applicants": 55,
       "group": "B",
-      "coupon_count": 5,
+      "coupon_count": 7,
       "coupon_count_total": 100,
       "coupon_key": "93YFSLZ2"
     },
@@ -860,7 +860,7 @@
       "university": "GIST",
       "applicants": 53,
       "group": "B",
-      "coupon_count": 6,
+      "coupon_count": 11,
       "coupon_count_total": 100,
       "coupon_key": "IQKHLMGE"
     },
@@ -868,7 +868,7 @@
       "university": "인하대학교",
       "applicants": 53,
       "group": "B",
-      "coupon_count": 6,
+      "coupon_count": 7,
       "coupon_count_total": 100,
       "coupon_key": "V2M1JC05"
     },
