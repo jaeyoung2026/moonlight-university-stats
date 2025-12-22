@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-22T14:02:37+09:00",
+  "updated_at": "2025-12-22T14:03:38+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -844,7 +844,7 @@
       "university": "경희대학교",
       "applicants": 55,
       "group": "B",
-      "coupon_count": 20,
+      "coupon_count": 19,
       "coupon_count_total": 100,
       "coupon_key": "SLLFQBP3"
     },
@@ -868,7 +868,7 @@
       "university": "인하대학교",
       "applicants": 53,
       "group": "B",
-      "coupon_count": 16,
+      "coupon_count": 15,
       "coupon_count_total": 100,
       "coupon_key": "V2M1JC05"
     },
