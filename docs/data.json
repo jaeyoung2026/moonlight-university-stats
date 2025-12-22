@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-22T14:28:59+09:00",
+  "updated_at": "2025-12-22T14:29:29+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -812,7 +812,7 @@
       "university": "세종대학교",
       "applicants": 71,
       "group": "B",
-      "coupon_count": 25,
+      "coupon_count": 22,
       "coupon_count_total": 100,
       "coupon_key": "P8FUPI25"
     },
@@ -820,7 +820,7 @@
       "university": "숙명여자대학교",
       "applicants": 65,
       "group": "B",
-      "coupon_count": 22,
+      "coupon_count": 19,
       "coupon_count_total": 100,
       "coupon_key": "0UUB4KJP"
     },
@@ -836,7 +836,7 @@
       "university": "건국대학교",
       "applicants": 57,
       "group": "B",
-      "coupon_count": 28,
+      "coupon_count": 25,
       "coupon_count_total": 100,
       "coupon_key": "JZY1K564"
     },
@@ -860,7 +860,7 @@
       "university": "GIST",
       "applicants": 53,
       "group": "B",
-      "coupon_count": 24,
+      "coupon_count": 23,
       "coupon_count_total": 100,
       "coupon_key": "IQKHLMGE"
     },
