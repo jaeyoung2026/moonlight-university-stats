@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-22T19:34:56+09:00",
+  "updated_at": "2025-12-23T13:38:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -756,7 +756,7 @@
       "university": "중앙대학교",
       "applicants": 120,
       "group": "B",
-      "coupon_count": 11,
+      "coupon_count": 6,
       "coupon_count_total": 100,
       "coupon_key": "3FZHOVDR"
     },
@@ -804,7 +804,7 @@
       "university": "POSTECH",
       "applicants": 76,
       "group": "B",
-      "coupon_count": 16,
+      "coupon_count": 12,
       "coupon_count_total": 100,
       "coupon_key": "9M6OFMEH"
     },
@@ -844,7 +844,7 @@
       "university": "경희대학교",
       "applicants": 55,
       "group": "B",
-      "coupon_count": 15,
+      "coupon_count": 10,
       "coupon_count_total": 100,
       "coupon_key": "SLLFQBP3"
     },
