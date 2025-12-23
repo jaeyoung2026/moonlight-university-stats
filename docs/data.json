@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-23T13:39:10+09:00",
+  "updated_at": "2025-12-23T13:40:33+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -748,7 +748,7 @@
       "university": "고려대학교",
       "applicants": 127,
       "group": "B",
-      "coupon_count": 12,
+      "coupon_count": 11,
       "coupon_count_total": 100,
       "coupon_key": "NAV5IWFJ"
     },
@@ -764,7 +764,7 @@
       "university": "성균관대학교",
       "applicants": 118,
       "group": "B",
-      "coupon_count": 20,
+      "coupon_count": 18,
       "coupon_count_total": 100,
       "coupon_key": "MNZT2ZN1"
     },
