@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-31T16:19:56+09:00",
+  "updated_at": "2025-12-31T16:21:57+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -1412,7 +1412,7 @@
       "university": "베를린 공과대학교",
       "applicants": 1,
       "group": "C",
-      "coupon_count": 2,
+      "coupon_count": 1,
       "coupon_count_total": 20,
       "coupon_key": "NBNVKAHE"
     },
