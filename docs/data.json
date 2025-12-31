@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-31T16:15:57+09:00",
+  "updated_at": "2025-12-31T16:16:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -908,7 +908,7 @@
       "university": "서울과학종합대학원대학교",
       "applicants": 37,
       "group": "C",
-      "coupon_count": 5,
+      "coupon_count": 4,
       "coupon_count_total": 20,
       "coupon_key": "D352F7Z3"
     },
@@ -948,7 +948,7 @@
       "university": "국립부경대학교",
       "applicants": 25,
       "group": "C",
-      "coupon_count": 5,
+      "coupon_count": 4,
       "coupon_count_total": 20,
       "coupon_key": "TJ8VM8DR"
     },
