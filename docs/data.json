@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-31T16:16:56+09:00",
+  "updated_at": "2025-12-31T16:17:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -964,7 +964,7 @@
       "university": "UNIST",
       "applicants": 21,
       "group": "C",
-      "coupon_count": 4,
+      "coupon_count": 3,
       "coupon_count_total": 20,
       "coupon_key": "R553D6N2"
     },
@@ -972,7 +972,7 @@
       "university": "서강대학교",
       "applicants": 19,
       "group": "C",
-      "coupon_count": 6,
+      "coupon_count": 5,
       "coupon_count_total": 20,
       "coupon_key": "ML35JJWS"
     },
@@ -980,7 +980,7 @@
       "university": "숭실대학교",
       "applicants": 19,
       "group": "C",
-      "coupon_count": 5,
+      "coupon_count": 4,
       "coupon_count_total": 20,
       "coupon_key": "A0VIXNTH"
     },
