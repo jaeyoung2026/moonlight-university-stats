@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-05T08:25:56+09:00",
+  "updated_at": "2026-01-05T17:11:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -724,7 +724,7 @@
       "university": "이화여자대학교",
       "applicants": 407,
       "group": "A",
-      "coupon_count": 30,
+      "coupon_count": 29,
       "coupon_count_total": 100,
       "coupon_key": "91PBI6D7"
     },
@@ -732,7 +732,7 @@
       "university": "서울대학교",
       "applicants": 149,
       "group": "B",
-      "coupon_count": 13,
+      "coupon_count": 12,
       "coupon_count_total": 100,
       "coupon_key": "B04UBD2S"
     },
