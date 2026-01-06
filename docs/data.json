@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-05T17:11:56+09:00",
+  "updated_at": "2026-01-06T09:09:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -596,7 +596,7 @@
   "strings": [
     {
       "id": "state",
-      "text": "종료"
+      "text": "마감임박"
     },
     {
       "id": "notice0",
