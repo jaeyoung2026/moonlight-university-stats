@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-07T14:41:57+09:00",
+  "updated_at": "2026-01-07T15:06:57+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -892,7 +892,7 @@
       "university": "전남대학교",
       "applicants": 38,
       "group": "C",
-      "coupon_count": 4,
+      "coupon_count": 3,
       "coupon_count_total": 20,
       "coupon_key": "62VW6GQ4"
     },
