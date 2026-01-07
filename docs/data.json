@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-07T14:23:56+09:00",
+  "updated_at": "2026-01-07T14:41:57+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -732,7 +732,7 @@
       "university": "서울대학교",
       "applicants": 149,
       "group": "B",
-      "coupon_count": 4,
+      "coupon_count": 3,
       "coupon_count_total": 100,
       "coupon_key": "B04UBD2S"
     },
