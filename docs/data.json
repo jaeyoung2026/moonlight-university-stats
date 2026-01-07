@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-07T16:06:56+09:00",
+  "updated_at": "2026-01-07T16:08:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -828,7 +828,7 @@
       "university": "경북대학교",
       "applicants": 60,
       "group": "B",
-      "coupon_count": 28,
+      "coupon_count": 27,
       "coupon_count_total": 100,
       "coupon_key": "J8J9BL5W"
     },
