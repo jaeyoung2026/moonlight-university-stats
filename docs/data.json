@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-07T09:03:56+09:00",
+  "updated_at": "2026-01-07T11:51:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -1164,7 +1164,7 @@
       "university": "한국외국어대학교",
       "applicants": 5,
       "group": "C",
-      "coupon_count": 8,
+      "coupon_count": 7,
       "coupon_count_total": 20,
       "coupon_key": "M5XJX98L"
     },
