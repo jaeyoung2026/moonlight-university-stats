@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-08T15:05:22+09:00",
+  "updated_at": "2026-01-08T15:17:57+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -764,7 +764,7 @@
       "university": "성균관대학교",
       "applicants": 118,
       "group": "B",
-      "coupon_count": 15,
+      "coupon_count": 14,
       "coupon_count_total": 100,
       "coupon_key": "MNZT2ZN1"
     },
