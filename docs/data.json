@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-11T06:41:57+09:00",
+  "updated_at": "2026-01-11T06:42:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -860,7 +860,7 @@
       "university": "GIST",
       "applicants": 53,
       "group": "B",
-      "coupon_count": 34,
+      "coupon_count": 33,
       "coupon_count_total": 100,
       "coupon_key": "IQKHLMGE"
     },
