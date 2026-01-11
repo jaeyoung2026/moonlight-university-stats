@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-11T16:28:56+09:00",
+  "updated_at": "2026-01-11T20:13:16+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -836,7 +836,7 @@
       "university": "건국대학교",
       "applicants": 57,
       "group": "B",
-      "coupon_count": 36,
+      "coupon_count": 35,
       "coupon_count_total": 100,
       "coupon_key": "JZY1K564"
     },
