@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-11T21:07:56+09:00",
+  "updated_at": "2026-01-12T11:31:12+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -740,7 +740,7 @@
       "university": "한양대학교",
       "applicants": 136,
       "group": "B",
-      "coupon_count": 19,
+      "coupon_count": 18,
       "coupon_count_total": 100,
       "coupon_key": "UM36B0Z0"
     },
@@ -780,7 +780,7 @@
       "university": "연세대학교",
       "applicants": 95,
       "group": "B",
-      "coupon_count": 22,
+      "coupon_count": 21,
       "coupon_count_total": 100,
       "coupon_key": "0HFUGZP4"
     },
