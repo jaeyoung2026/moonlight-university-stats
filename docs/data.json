@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-12T11:31:12+09:00",
+  "updated_at": "2026-01-12T14:14:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -1292,7 +1292,7 @@
       "university": "한국교원대학교",
       "applicants": 2,
       "group": "C",
-      "coupon_count": 8,
+      "coupon_count": 7,
       "coupon_count_total": 20,
       "coupon_key": "LRSRAK50"
     },
