@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-13T14:02:30+09:00",
+  "updated_at": "2026-01-13T15:20:56+09:00",
   "total_applications": 2720,
   "total_universities": 98,
   "excluded_personal_emails": 226,
@@ -748,7 +748,7 @@
       "university": "고려대학교",
       "applicants": 127,
       "group": "B",
-      "coupon_count": 10,
+      "coupon_count": 9,
       "coupon_count_total": 100,
       "coupon_key": "NAV5IWFJ"
     },
